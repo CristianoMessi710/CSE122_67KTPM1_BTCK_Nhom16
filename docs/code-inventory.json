@@ -1,0 +1,902 @@
+[
+    {
+        "id": "S1",
+        "file": "index.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/index.html",
+        "owner": "SV3",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./index.css"],
+        "originalJs": ["./js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Slider/carousel session nổi bật, smooth-scroll, toggle menu mobile",
+            "AI feature": "Không",
+            "Loading state": "Có (skeleton banner)",
+            "Empty state": "Có (chưa có event)",
+            "Error state": "Có (lỗi tải dữ liệu event)",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "S2",
+        "file": "login.html",
+        "source": "sv1/EventPulse-SV1/login.html",
+        "owner": "SV1",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "css/tokens.css",
+            "css/shared.css",
+            "css/attendee.css",
+            "css/responsive.css",
+            "css/fixes.css"
+        ],
+        "originalJs": ["js/shared/app.js", "js/shared/account.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Validate email/mật khẩu, hiện/ẩn mật khẩu, submit async, redirect theo role",
+            "AI feature": "Không",
+            "Loading state": "Có (đang xác thực)",
+            "Empty state": "—",
+            "Error state": "Có (sai tài khoản/mật khẩu)",
+            "Success state": "Có (đăng nhập thành công → điều hướng)"
+        }
+    },
+    {
+        "id": "S3",
+        "file": "register.html",
+        "source": "sv1/EventPulse-SV1/register.html",
+        "owner": "SV1",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "css/tokens.css",
+            "css/shared.css",
+            "css/attendee.css",
+            "css/responsive.css",
+            "css/fixes.css"
+        ],
+        "originalJs": ["js/shared/app.js", "js/shared/account.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C",
+            "JavaScript interaction": "Validate realtime (email trùng, mật khẩu khớp), hiển thị độ mạnh mật khẩu",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tạo tài khoản)",
+            "Empty state": "—",
+            "Error state": "Có (email đã tồn tại, dữ liệu không hợp lệ)",
+            "Success state": "Có (tạo tài khoản thành công)"
+        }
+    },
+    {
+        "id": "S4",
+        "file": "forgot-password.html",
+        "source": "sv1/EventPulse-SV1/forgot-password.html",
+        "owner": "SV1",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "css/tokens.css",
+            "css/shared.css",
+            "css/attendee.css",
+            "css/responsive.css",
+            "css/fixes.css"
+        ],
+        "originalJs": ["js/shared/app.js", "js/shared/account.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "U",
+            "JavaScript interaction": "Validate định dạng email, đếm ngược gửi lại mã",
+            "AI feature": "Không",
+            "Loading state": "Có (đang gửi yêu cầu)",
+            "Empty state": "—",
+            "Error state": "Có (email không tồn tại)",
+            "Success state": "Có (đã gửi liên kết đặt lại)"
+        }
+    },
+    {
+        "id": "S5",
+        "file": "profile.html",
+        "source": "sv1/EventPulse-SV1/profile.html",
+        "owner": "SV1",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "css/tokens.css",
+            "css/shared.css",
+            "css/attendee.css",
+            "css/responsive.css",
+            "css/fixes.css"
+        ],
+        "originalJs": ["js/shared/app.js", "js/shared/account.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Validate form, preview avatar trước khi lưu, toast xác nhận",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải hồ sơ)",
+            "Empty state": "—",
+            "Error state": "Có (lưu thất bại)",
+            "Success state": "Có (cập nhật thành công)"
+        }
+    },
+    {
+        "id": "S6",
+        "file": "settings.html",
+        "source": "sv2/EventPulse/pages/common/settings.html",
+        "owner": "SV2",
+        "css": [
+            "css/tokens.css",
+            "css/style.css",
+            "css/speaker-settings.css",
+            "css/components.css",
+            "css/responsive.css"
+        ],
+        "script": "settings.js",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["../../css/shared.css", "../../css/settings.css"],
+        "originalJs": ["../../js/shared.js", "../../js/settings.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "U",
+            "JavaScript interaction": "Toggle switch, lưu tức thời (auto-save), validate đổi mật khẩu",
+            "AI feature": "Không",
+            "Loading state": "—",
+            "Empty state": "—",
+            "Error state": "Có (lưu cài đặt thất bại)",
+            "Success state": "Có (đã lưu cài đặt)"
+        }
+    },
+    {
+        "id": "S7",
+        "file": "notifications.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/notifications.html",
+        "owner": "SV3",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./notifications.css"],
+        "originalJs": ["./js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Đánh dấu đã đọc, lọc theo loại, realtime badge counter (mock)",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải thông báo)",
+            "Empty state": "Có (chưa có thông báo)",
+            "Error state": "Có (tải thông báo lỗi)",
+            "Success state": "Có (đánh dấu đã đọc thành công)"
+        }
+    },
+    {
+        "id": "S8",
+        "file": "403.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/403.html",
+        "owner": "SV3",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./403.css"],
+        "originalJs": ["./js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "—",
+            "JavaScript interaction": "Tự động điều hướng theo role sau X giây (đếm ngược)",
+            "AI feature": "Không",
+            "Loading state": "—",
+            "Empty state": "—",
+            "Error state": "—",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "S9",
+        "file": "404.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/404.html",
+        "owner": "SV3",
+        "css": ["css/tokens.css", "css/style.css", "css/components.css", "css/responsive.css"],
+        "script": "shared",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["/404.css"],
+        "originalJs": ["/js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "—",
+            "JavaScript interaction": "Nút quay lại trang trước (dùng history API)",
+            "AI feature": "Không",
+            "Loading state": "—",
+            "Empty state": "—",
+            "Error state": "—",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "A1",
+        "file": "pages/attendee/attendee-session-catalog.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-session-catalog.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Search debounce, filter đa tiêu chí, sort, render card/list, nút 'Thêm vào agenda'",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải danh sách)",
+            "Empty state": "Có (không có session khớp bộ lọc)",
+            "Error state": "Có (lỗi tải dữ liệu)",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "A2",
+        "file": "pages/attendee/attendee-session-detail.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-session-detail.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Tab mô tả/diễn giả/tài liệu, cập nhật sức chứa realtime (mock), modal xác nhận thêm",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải chi tiết)",
+            "Empty state": "—",
+            "Error state": "Có (session không tồn tại/đã bị huỷ)",
+            "Success state": "Có (đã thêm vào agenda)"
+        }
+    },
+    {
+        "id": "A3",
+        "file": "pages/attendee/attendee-my-agenda.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-my-agenda.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U",
+            "JavaScript interaction": "Kéo-thả sắp xếp, phát hiện trùng giờ realtime, xuất/in agenda, xoá có xác nhận",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải agenda)",
+            "Empty state": "Có (agenda trống)",
+            "Error state": "Có (không lưu được thay đổi)",
+            "Success state": "Có (đã cập nhật agenda)"
+        }
+    },
+    {
+        "id": "A4",
+        "file": "pages/attendee/attendee-schedule-conflict.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-schedule-conflict.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Hiển thị 2 session xung đột cạnh nhau, nút chấp nhận gợi ý áp dụng ngay vào agenda",
+            "AI feature": "AI-2: Conflict Resolver",
+            "Loading state": "Có (AI đang phân tích xung đột)",
+            "Empty state": "Có (không có session thay thế phù hợp)",
+            "Error state": "Có ('Không thể xử lý yêu cầu lúc này' + Thử lại)",
+            "Success state": "Có (đã áp dụng session thay thế)"
+        }
+    },
+    {
+        "id": "A5",
+        "file": "pages/attendee/attendee-recommendations.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-recommendations.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Nút 'Vì sao gợi ý này', làm mới gợi ý, thêm thẳng vào agenda",
+            "AI feature": "AI-1: Agenda Recommender",
+            "Loading state": "Có (đang tạo đề xuất)",
+            "Empty state": "Có ('Không đủ dữ liệu để đưa ra đề xuất')",
+            "Error state": "Có (AI lỗi xử lý, cho phép Thử lại/Dùng thủ công)",
+            "Success state": "Có (đã thêm gợi ý vào agenda)"
+        }
+    },
+    {
+        "id": "A6",
+        "file": "pages/attendee/attendee-session-feedback.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-session-feedback.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U/D",
+            "JavaScript interaction": "Rating component, validate độ dài nhận xét, sửa/xoá có xác nhận",
+            "AI feature": "Không",
+            "Loading state": "Có (đang gửi đánh giá)",
+            "Empty state": "Có (chưa từng đánh giá session nào)",
+            "Error state": "Có (gửi đánh giá thất bại)",
+            "Success state": "Có (đã lưu đánh giá)"
+        }
+    },
+    {
+        "id": "A7",
+        "file": "pages/attendee/attendee-my-ticket.html",
+        "source": "sv1/EventPulse-SV1/pages/attendee/attendee-my-ticket.html",
+        "owner": "SV1",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/attendee.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "attendee",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": [
+            "../../css/tokens.css",
+            "../../css/shared.css",
+            "../../css/attendee.css",
+            "../../css/responsive.css",
+            "../../css/fixes.css"
+        ],
+        "originalJs": ["../../js/shared/app.js", "../../js/attendee/attendee.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Sinh mã QR (mock), tải vé PDF/ảnh, cập nhật trạng thái check-in realtime (mock)",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải vé)",
+            "Empty state": "Có (chưa có vé)",
+            "Error state": "Có (vé không hợp lệ/hết hạn)",
+            "Success state": "Có (check-in thành công)"
+        }
+    },
+    {
+        "id": "SP1",
+        "file": "pages/speaker/speaker-profile.html",
+        "source": "sv2/EventPulse/pages/speaker/profile.html",
+        "owner": "SV2",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/speaker-profile.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "speaker-profile.js",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["../../css/shared.css", "../../css/profile.css"],
+        "originalJs": ["../../js/shared.js", "../../js/speaker-profile.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Validate form, preview ảnh đại diện, đếm ký tự tiểu sử",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải hồ sơ)",
+            "Empty state": "—",
+            "Error state": "Có (lưu thất bại)",
+            "Success state": "Có (cập nhật thành công)"
+        }
+    },
+    {
+        "id": "SP2",
+        "file": "pages/speaker/speaker-my-session.html",
+        "source": "sv2/EventPulse/pages/speaker/my-sessions.html",
+        "owner": "SV2",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/speaker-my-sessions.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "speaker-my-sessions.js",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["../../css/shared.css", "../../css/my-sessions.css"],
+        "originalJs": ["../../js/shared.js", "../../js/speaker-my-sessions.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U",
+            "JavaScript interaction": "Filter theo trạng thái (chờ duyệt/đã duyệt/từ chối), form đề xuất session mới có validate",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải danh sách)",
+            "Empty state": "Có (chưa có session nào)",
+            "Error state": "Có (gửi đề xuất thất bại)",
+            "Success state": "Có (đã gửi đề xuất/cập nhật)"
+        }
+    },
+    {
+        "id": "SP3",
+        "file": "pages/speaker/speaker-session-detail.html",
+        "source": "sv2/EventPulse/pages/speaker/speaker-session-detail.html",
+        "owner": "SV2",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/speaker-session-edit.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "speaker-session-edit.js",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["../../css/shared.css", "../../css/session-edit.css"],
+        "originalJs": ["../../js/shared.js", "../../js/speaker-session-edit.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "U",
+            "JavaScript interaction": "Autosave nháp, hiển thị timeline trạng thái (chờ duyệt→duyệt/từ chối)",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải chi tiết)",
+            "Empty state": "—",
+            "Error state": "Có (không lưu được thay đổi)",
+            "Success state": "Có (đã lưu thay đổi)"
+        }
+    },
+    {
+        "id": "SP4",
+        "file": "pages/speaker/speaker-session-materials.html",
+        "source": "sv2/EventPulse/pages/speaker/materials.html",
+        "owner": "SV2",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/speaker-materials.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "speaker-materials.js",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["../../css/shared.css", "../../css/materials.css"],
+        "originalJs": ["../../js/shared.js", "../../js/speaker-materials.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U/D",
+            "JavaScript interaction": "Kéo-thả upload (mock), preview tên file/kích thước, xoá có xác nhận",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải lên)",
+            "Empty state": "Có (chưa có tài liệu)",
+            "Error state": "Có (định dạng/kích thước không hợp lệ)",
+            "Success state": "Có (tải lên thành công)"
+        }
+    },
+    {
+        "id": "SP5",
+        "file": "pages/speaker/speaker-interest-forecast.html",
+        "source": "sv2/EventPulse/pages/speaker/interest-forecast.html",
+        "owner": "SV2",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/speaker-interest-forecast.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "interest-forecast.js",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["../../css/shared.css", "../../css/interest-forecast.css"],
+        "originalJs": ["../../js/shared.js", "../../js/interest-forecast.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Biểu đồ dự báo, nút giải thích lý do dự báo, làm mới dự báo",
+            "AI feature": "AI-3: Interest Forecast",
+            "Loading state": "Có (đang tính toán dự báo)",
+            "Empty state": "Có ('Không đủ dữ liệu để đưa ra đề xuất')",
+            "Error state": "Có ('AI chưa chắc chắn về kết quả này' + Thử lại)",
+            "Success state": "Có (đã cập nhật dự báo mới nhất)"
+        }
+    },
+    {
+        "id": "SP6",
+        "file": "pages/speaker/speaker-feedback-overview.html",
+        "source": "new: SP6 from SV2 feedback panel",
+        "owner": "SV2",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "speaker",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Biểu đồ phân bố sao, lọc theo session, sắp xếp theo mới nhất",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải phản hồi)",
+            "Empty state": "Có (chưa có phản hồi)",
+            "Error state": "Có (lỗi tải dữ liệu)",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "O1",
+        "file": "pages/organizer/organizer-dashboard.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/organizer/organizer-dashboard.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "organizer",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./organizer-dashboard.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Biểu đồ tổng quan, cảnh báo nổi khi có xung đột mới",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải dashboard)",
+            "Empty state": "Có (chưa có dữ liệu sự kiện)",
+            "Error state": "Có (lỗi tải số liệu)",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "O2",
+        "file": "pages/organizer/organizer-session-management.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/organizer/organizer-session-management.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "organizer",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./organizer-session-management.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Bulk action duyệt/từ chối, filter đa tiêu chí, tìm kiếm",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải danh sách)",
+            "Empty state": "Có (không có session chờ duyệt)",
+            "Error state": "Có (duyệt thất bại)",
+            "Success state": "Có (đã cập nhật trạng thái)"
+        }
+    },
+    {
+        "id": "O3",
+        "file": "pages/organizer/organizer-session-detail.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/organizer/organizer-session-detail.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "organizer",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./organizer-session-detail.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "U",
+            "JavaScript interaction": "Dropdown chọn phòng/giờ có kiểm tra khả dụng, form lý do từ chối bắt buộc khi từ chối",
+            "AI feature": "Không",
+            "Loading state": "Có (đang lưu phân công)",
+            "Empty state": "—",
+            "Error state": "Có (phòng/giờ đã được dùng)",
+            "Success state": "Có (đã gán phòng/giờ thành công)"
+        }
+    },
+    {
+        "id": "O4",
+        "file": "pages/organizer/organizer-room-management.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/organizer/organizer-room-management.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "organizer",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./organizer-room-management.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U",
+            "JavaScript interaction": "Form validate sức chứa > 0, tìm kiếm phòng, badge trạng thái đang dùng/trống",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải danh sách phòng)",
+            "Empty state": "Có (chưa có phòng nào)",
+            "Error state": "Có (lưu phòng thất bại, trùng tên)",
+            "Success state": "Có (đã lưu phòng)"
+        }
+    },
+    {
+        "id": "O5",
+        "file": "pages/organizer/organizer-conflict-detection.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/organizer/organizer-conflict-detection.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "organizer",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./organizer-conflict-detection.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Danh sách xung đột được highlight, nút áp dụng gợi ý AI trực tiếp vào lịch",
+            "AI feature": "AI-2: Conflict Resolver (cấp hệ thống)",
+            "Loading state": "Có (đang quét toàn bộ lịch)",
+            "Empty state": "Có (không phát hiện xung đột nào)",
+            "Error state": "Có ('Không thể xử lý yêu cầu lúc này' + Thử lại/Xử lý thủ công)",
+            "Success state": "Có (đã áp dụng phương án xử lý)"
+        }
+    },
+    {
+        "id": "O6",
+        "file": "pages/organizer/organizer-event-alerts.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/organizer/organizer-event-alerts.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "organizer",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./organizer-event-alerts.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U/D",
+            "JavaScript interaction": "Rich text soạn thảo, chọn đối tượng nhận (role/nhóm), lên lịch gửi",
+            "AI feature": "Không",
+            "Loading state": "Có (đang gửi thông báo)",
+            "Empty state": "Có (chưa có cảnh báo nào)",
+            "Error state": "Có (gửi thất bại)",
+            "Success state": "Có (đã gửi/thu hồi thông báo)"
+        }
+    },
+    {
+        "id": "AD1",
+        "file": "pages/admin/admin-ticket-type-management.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/admin/admin-ticket-type-management.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "admin",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./admin-ticket-type-management.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U/Archive",
+            "JavaScript interaction": "Validate giá/số lượng, toggle ngưng bán, tìm kiếm loại vé",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải danh sách vé)",
+            "Empty state": "Có (chưa có loại vé nào)",
+            "Error state": "Có (lưu thất bại, trùng tên loại vé)",
+            "Success state": "Có (đã lưu loại vé)"
+        }
+    },
+    {
+        "id": "AD2",
+        "file": "pages/admin/admin-user-management.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/admin/admin-user-management.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "admin",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./admin-user-management.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "C/R/U/Archive",
+            "JavaScript interaction": "Tìm kiếm/lọc theo role & trạng thái, bulk khoá tài khoản, xác nhận trước khi khoá",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tải danh sách)",
+            "Empty state": "Có (không có người dùng khớp bộ lọc)",
+            "Error state": "Có (thao tác thất bại)",
+            "Success state": "Có (đã cập nhật người dùng)"
+        }
+    },
+    {
+        "id": "AD3",
+        "file": "pages/admin/admin-event-analytics.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/admin/admin-event-analytics.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "admin",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./admin-event-analytics.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R",
+            "JavaScript interaction": "Biểu đồ tương tác (lọc theo khoảng thời gian), xuất báo cáo (mock)",
+            "AI feature": "AI-3: Interest Forecast (dashboard insight)",
+            "Loading state": "Có (đang tổng hợp số liệu)",
+            "Empty state": "Có (chưa đủ dữ liệu để thống kê)",
+            "Error state": "Có (lỗi tải số liệu)",
+            "Success state": "—"
+        }
+    },
+    {
+        "id": "AD4",
+        "file": "pages/admin/admin-checkin-management.html",
+        "source": "sv3/EventPulse-SV3-Tach-HTML-CSS/dist/pages/admin/admin-checkin-management.html",
+        "owner": "SV3",
+        "css": [
+            "../../css/tokens.css",
+            "../../css/style.css",
+            "../../css/components.css",
+            "../../css/responsive.css"
+        ],
+        "script": "admin",
+        "status": "Implemented; Chromium smoke PASS at 1440/1024/768/390",
+        "data": "Shared assets/data + canonical LocalStorage",
+        "originalCss": ["./admin-checkin-management.css"],
+        "originalJs": ["../../js/main.js"],
+        "beforeMergeReview": "HTML + liên kết CSS/JS đã đọc; kiểm thử runtime thực hiện trên bản merge",
+        "stateRequirements": {
+            "CRUD": "R/U",
+            "JavaScript interaction": "Tìm kiếm theo mã vé/tên, quét mã (mock), cập nhật trạng thái realtime",
+            "AI feature": "Không",
+            "Loading state": "Có (đang tra cứu)",
+            "Empty state": "Có (chưa có lượt check-in nào)",
+            "Error state": "Có (mã vé không hợp lệ)",
+            "Success state": "Có (check-in thành công)"
+        }
+    }
+]

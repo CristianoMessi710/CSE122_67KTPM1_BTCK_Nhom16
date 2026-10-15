@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "S1-guest",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-attendee",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-speaker",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-organizer",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-admin",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S2",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S2",
+    "overflow": false,
+    "selects": [],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S3",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S3",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "role",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S6",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S6",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "A1",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "A1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "category",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "slot",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "sort",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "O2",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "O2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "AD2",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "AD2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-role",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-guest",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-attendee",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-speaker",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-organizer",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-admin",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S2",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S2",
+    "overflow": false,
+    "selects": [],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S3",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S3",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "role",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S6",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S6",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "A1",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "A1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "category",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "slot",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "sort",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "O2",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "O2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "AD2",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "AD2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-role",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 1440
+  },
+  {
+    "id": "S1-guest",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-attendee",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-speaker",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-organizer",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-admin",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S2",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S2",
+    "overflow": false,
+    "selects": [],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S3",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S3",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "role",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S6",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "S6",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "A1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "category",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "slot",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "sort",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "O2",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "O2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "AD2",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "external": [],
+    "screen": "AD2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-role",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-guest",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-attendee",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-speaker",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-organizer",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-admin",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "home-language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S2",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S2",
+    "overflow": false,
+    "selects": [],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S3",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S3",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "role",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S6",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "S6",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "language",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "A1",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "category",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "slot",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "sort",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "O2",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "O2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-day",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-room",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "AD2",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "external": [],
+    "screen": "AD2",
+    "overflow": false,
+    "selects": [
+      {
+        "id": "filter-role",
+        "appearance": "none",
+        "wrapped": true
+      },
+      {
+        "id": "filter-status",
+        "appearance": "none",
+        "wrapped": true
+      }
+    ],
+    "checkboxes": [
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "headerCount": 1,
+    "bodyWidth": 390
+  },
+  {
+    "id": "S1-tablet",
+    "width": 1024,
+    "theme": "light",
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "id": "S1-tablet",
+    "width": 1024,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "id": "S1-tablet",
+    "width": 768,
+    "theme": "light",
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "id": "S1-tablet",
+    "width": 768,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false
+  }
+]

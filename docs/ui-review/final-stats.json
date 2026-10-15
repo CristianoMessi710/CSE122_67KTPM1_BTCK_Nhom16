@@ -1,0 +1,18 @@
+{
+  "changedFiles": [
+    "css/tokens.css",
+    "css/attendee.css",
+    "css/speaker-materials.css",
+    "css/speaker-profile.css",
+    "css/speaker-settings.css",
+    "css/style.css",
+    "css/speaker-my-sessions.css",
+    "css/speaker-interest-forecast.css",
+    "css/responsive.css",
+    "css/speaker-session-edit.css",
+    "css/components.css",
+    "js/ui.js"
+  ],
+  "onlyInitialsChangedInJS": true,
+  "allHtmlUnchanged": true
+}

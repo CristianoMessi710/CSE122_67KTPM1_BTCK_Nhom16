@@ -1,0 +1,98 @@
+[
+  {
+    "id": "A1",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": true,
+    "aligned": true,
+    "height": 3
+  },
+  {
+    "id": "A3",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": true,
+    "aligned": true,
+    "height": 3
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": false,
+    "aligned": true,
+    "height": 0
+  },
+  {
+    "id": "A3",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": false,
+    "aligned": true,
+    "height": 0
+  },
+  {
+    "id": "A1",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": true,
+    "aligned": true,
+    "height": 3
+  },
+  {
+    "id": "A3",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": true,
+    "aligned": true,
+    "height": 3
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": false,
+    "aligned": true,
+    "height": 0
+  },
+  {
+    "id": "A3",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "indicatorCount": 1,
+    "legacyAfter": "none",
+    "visible": false,
+    "aligned": true,
+    "height": 0
+  }
+]

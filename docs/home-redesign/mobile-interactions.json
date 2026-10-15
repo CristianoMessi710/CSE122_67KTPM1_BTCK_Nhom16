@@ -1,0 +1,32 @@
+{
+  "hamburger": "true",
+  "escape": "false",
+  "indicator": [
+    {
+      "left": 4,
+      "width": 95.5
+    },
+    {
+      "left": 62.649688720703125,
+      "width": 95.5
+    },
+    {
+      "left": 195,
+      "width": 95.5
+    },
+    {
+      "left": 136.31307983398438,
+      "width": 95.5
+    },
+    {
+      "left": 4,
+      "width": 95.5
+    }
+  ],
+  "pause": "paused",
+  "bottomEnglish": "Home\nSessions\nRoles\nSpeakers",
+  "keyboardFAQ": true,
+  "theme": "dark",
+  "overflow": false,
+  "errors": []
+}

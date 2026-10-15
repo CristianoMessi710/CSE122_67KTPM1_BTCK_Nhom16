@@ -1,0 +1,100 @@
+[
+    {
+        "id": "ROM001",
+        "eventId": "EVT001",
+        "name": "Room A",
+        "location": "Tầng 2",
+        "capacity": 150,
+        "facilities": [
+            "projector",
+            "microphone",
+            "wifi"
+        ],
+        "status": "available",
+        "name_en": "Room A",
+        "location_en": "Level 2"
+    },
+    {
+        "id": "ROM002",
+        "eventId": "EVT001",
+        "name": "Room B",
+        "location": "Tầng 2",
+        "capacity": 150,
+        "facilities": [
+            "projector",
+            "microphone",
+            "wifi"
+        ],
+        "status": "available",
+        "name_en": "Room B",
+        "location_en": "Level 2"
+    },
+    {
+        "id": "ROM003",
+        "eventId": "EVT001",
+        "name": "Room C",
+        "location": "Tầng 3",
+        "capacity": 120,
+        "facilities": [
+            "projector",
+            "microphone"
+        ],
+        "status": "available",
+        "name_en": "Room C",
+        "location_en": "Level 3"
+    },
+    {
+        "id": "ROM004",
+        "eventId": "EVT001",
+        "name": "Room D",
+        "location": "Tầng 3",
+        "capacity": 100,
+        "facilities": [
+            "projector"
+        ],
+        "status": "available",
+        "name_en": "Room D",
+        "location_en": "Level 3"
+    },
+    {
+        "id": "ROM005",
+        "eventId": "EVT001",
+        "name": "Room E",
+        "location": "Tầng 3",
+        "capacity": 200,
+        "facilities": [
+            "projector",
+            "microphone",
+            "wifi"
+        ],
+        "status": "available",
+        "name_en": "Room E",
+        "location_en": "Level 3"
+    },
+    {
+        "id": "ROM006",
+        "eventId": "EVT001",
+        "name": "Room F",
+        "location": "Tầng 3",
+        "capacity": 120,
+        "facilities": [
+            "projector",
+            "microphone",
+            "wifi"
+        ],
+        "status": "available",
+        "name_en": "Room F",
+        "location_en": "Level 3"
+    },
+    {
+        "id": "ROM900",
+        "eventId": "EVT002",
+        "name": "Phòng cộng đồng 2025",
+        "location": "Hà Nội",
+        "capacity": 100,
+        "facilities": [],
+        "status": "disabled",
+        "name_en": "Community room 2025",
+        "location_en": "Hanoi"
+    }
+]

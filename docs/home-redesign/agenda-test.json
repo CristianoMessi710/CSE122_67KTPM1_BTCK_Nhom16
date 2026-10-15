@@ -1,0 +1,68 @@
+{
+  "detail": {
+    "screen": "A2",
+    "query": "?id=SES002"
+  },
+  "saved": {
+    "agendas": [
+      {
+        "id": "AGD3dbeee5350d34322a0d140e7c341439a",
+        "userId": "USR001",
+        "eventId": "EVT001",
+        "sessionId": "SES002",
+        "status": "saved",
+        "addedAt": "2026-10-13T01:58:04.483Z"
+      }
+    ],
+    "session": {
+      "id": "SES002",
+      "eventId": "EVT001",
+      "title": "Future of Web Development",
+      "description": "Xu hướng xây dựng ứng dụng web hiện đại và cách chuẩn bị cho thế hệ trải nghiệm tiếp theo.",
+      "category": "web-development",
+      "speakerIds": [
+        "USR102"
+      ],
+      "roomId": "ROM001",
+      "startTime": "2026-10-20T10:00:00",
+      "endTime": "2026-10-20T11:00:00",
+      "capacity": 150,
+      "registeredCount": 128,
+      "status": "published",
+      "tags": [
+        "web",
+        "frontend",
+        "product"
+      ],
+      "createdAt": "2026-09-01T08:00:00",
+      "updatedAt": "2026-10-01T08:00:00",
+      "reviewStatus": "approved",
+      "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+      "reviewNote": "",
+      "history": [
+        {
+          "status": "approved",
+          "at": "2026-10-01T08:00:00",
+          "note": ""
+        }
+      ],
+      "title_en": "Future of Web Development",
+      "description_en": "Explore modern web development trends and prepare for the next generation of experiences."
+    },
+    "notifications": [
+      {
+        "id": "NOT7f22c16f8f164947bcc6952a2a5a1de5",
+        "userId": "USR001",
+        "type": "system",
+        "title": "Đã cập nhật agenda",
+        "message": "Future of Web Development",
+        "relatedEntityType": "session",
+        "relatedEntityId": "SES002",
+        "isRead": false,
+        "createdAt": "2026-10-13T01:58:04.484Z"
+      }
+    ]
+  },
+  "persists": true,
+  "errors": []
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "UTK001",
+        "ticketTypeId": "TKT001",
+        "eventId": "EVT001",
+        "userId": "USR001",
+        "ticketCode": "EP26-001-A7K2",
+        "status": "valid",
+        "checkedInAt": null,
+        "createdAt": "2026-09-15T10:00:00"
+    },
+    {
+        "id": "UTK900",
+        "ticketTypeId": "TKT900",
+        "eventId": "EVT002",
+        "userId": "USR001",
+        "ticketCode": "EP25-DEMO-001",
+        "status": "checkedIn",
+        "checkedInAt": "2025-10-20T08:30:00",
+        "createdAt": "2025-09-20T10:00:00"
+    }
+]

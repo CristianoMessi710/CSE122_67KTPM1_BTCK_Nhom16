@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "test": "Demo role routes to Speaker",
+      "status": "PASS"
+    },
+    {
+      "test": "Speaker profile saves canonical users",
+      "status": "PASS"
+    },
+    {
+      "test": "Speaker proposes pending session",
+      "status": "PASS"
+    },
+    {
+      "test": "Pending session is read-only",
+      "status": "PASS"
+    },
+    {
+      "test": "Organizer approves same shared session",
+      "status": "PASS"
+    },
+    {
+      "test": "Approved Speaker permissions",
+      "status": "PASS"
+    },
+    {
+      "test": "Attendee sees approved session and adds agenda",
+      "status": "PASS"
+    },
+    {
+      "test": "Agenda persistence after reload",
+      "status": "PASS"
+    },
+    {
+      "test": "Ended attended session feedback",
+      "status": "PASS"
+    },
+    {
+      "test": "Speaker reads Attendee feedback",
+      "status": "PASS"
+    },
+    {
+      "test": "Materials canonical schema",
+      "status": "PASS"
+    },
+    {
+      "test": "Attendee reads Speaker materials",
+      "status": "PASS"
+    },
+    {
+      "test": "Admin check-in updates canonical ticket",
+      "status": "PASS"
+    },
+    {
+      "test": "Attendee sees Admin check-in",
+      "status": "PASS"
+    },
+    {
+      "test": "Shared notifications linked across roles",
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}

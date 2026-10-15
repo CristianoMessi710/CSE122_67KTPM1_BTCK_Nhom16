@@ -1,0 +1,222 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="../../assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="../../js/view-transitions.js"></script>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>EventPulse — Tài liệu Session</title>
+
+        <link href="../../css/tokens.css" rel="stylesheet" />
+        <link href="../../css/style.css" rel="stylesheet" />
+        <link href="../../css/speaker-materials.css" rel="stylesheet" />
+        <link href="../../css/components.css" rel="stylesheet" />
+        <link href="../../css/responsive.css" rel="stylesheet" />
+    </head>
+    <body data-module="speaker-materials.js" data-role="speaker" data-screen="SP4">
+        <main class="workspace speaker-content">
+            <div class="actions speaker-shortcuts">
+                <a class="btn btn-secondary" href="speaker-my-session.html">Phiên của tôi</a
+                ><a class="btn btn-secondary" href="speaker-session-materials.html">Tài liệu</a
+                ><a class="btn btn-secondary" href="speaker-interest-forecast.html">Dự báo AI</a
+                ><a class="btn btn-secondary" href="speaker-feedback-overview.html">Phản hồi</a>
+            </div>
+            <div class="page-head">
+                <div>
+                    <div class="eyebrow">SPEAKER / SESSION MATERIALS</div>
+                    <h1 data-i18n="materials.title">Tài liệu Session</h1>
+                    <p id="sessionInfo">Đang tải session...</p>
+                </div>
+                <button class="btn ghost" id="backBtn">← Session của tôi</button>
+            </div>
+
+            <!-- Loading -->
+            <section class="state-card" id="loadingState">
+                <div class="spinner"></div>
+                <h2>Đang tải tài liệu...</h2>
+                <p>Vui lòng chờ trong giây lát.</p>
+            </section>
+            <!-- Error -->
+            <section class="state-card error-state" hidden="" id="errorState">
+                <div class="state-icon">!</div>
+                <h2>Không thể tải tài liệu</h2>
+                <p id="errorMessage">Có lỗi xảy ra khi đọc dữ liệu session.</p>
+                <button class="btn primary" id="retryBtn">Thử lại</button>
+            </section>
+            <!-- App -->
+            <section hidden="" id="app">
+                <div class="layout">
+                    <div class="main-column">
+                        <section class="card">
+                            <div class="card-head">
+                                <div>
+                                    <h2>Kho tài liệu</h2>
+                                    <p>Upload slide hoặc tài liệu tham khảo cho người tham dự.</p>
+                                </div>
+                                <span class="count-pill" id="materialCount">0 tài liệu</span>
+                            </div>
+                            <div class="drop-zone" id="dropZone">
+                                <input
+                                    accept=".pdf,.ppt,.pptx,.doc,.docx,.xls,.xlsx,.zip,.txt,.png,.jpg,.jpeg"
+                                    hidden=""
+                                    id="fileInput"
+                                    multiple=""
+                                    type="file"
+                                />
+                                <div class="upload-icon">↑</div>
+                                <h3>Kéo thả file vào đây</h3>
+                                <p>hoặc</p>
+                                <button class="btn primary" id="chooseBtn" type="button">
+                                    Chọn file từ máy
+                                </button>
+                                <small
+                                    >PDF, PPT/PPTX, DOC/DOCX, XLS/XLSX, ZIP, TXT, PNG, JPG · tối đa
+                                    20MB/file</small
+                                >
+                            </div>
+                            <div class="upload-progress" hidden="" id="uploadProgress">
+                                <div class="progress-row">
+                                    <span id="progressName">Đang upload...</span>
+                                    <strong id="progressPercent">0%</strong>
+                                </div>
+                                <div class="progress-track"><div id="progressBar"></div></div>
+                            </div>
+                            <div
+                                style="
+                                    margin-top: 16px;
+                                    padding-top: 14px;
+                                    border-top: 1px solid var(--border, #e4e4ec);
+                                "
+                            >
+                                <h3 style="margin: 0 0 8px; font-size: 14px">Link tham khảo</h3>
+                                <p
+                                    style="
+                                        margin: 0 0 10px;
+                                        font-size: 12px;
+                                        color: var(--muted, #747681);
+                                    "
+                                >
+                                    Thêm URL tài liệu / slide online (không upload file).
+                                </p>
+                                <div style="display: flex; gap: 8px; flex-wrap: wrap">
+                                    <input
+                                        id="refLinkInput"
+                                        placeholder="https://..."
+                                        style="
+                                            flex: 1;
+                                            min-width: 180px;
+                                            border: 1px solid var(--border, #e4e4ec);
+                                            border-radius: 8px;
+                                            padding: 10px 12px;
+                                        "
+                                        type="url"
+                                    />
+                                    <input
+                                        id="refTitleInput"
+                                        placeholder="Tiêu đề (tuỳ chọn)"
+                                        style="
+                                            width: 160px;
+                                            border: 1px solid var(--border, #e4e4ec);
+                                            border-radius: 8px;
+                                            padding: 10px 12px;
+                                        "
+                                        type="text"
+                                    />
+                                    <button class="btn primary" id="addRefBtn" type="button">
+                                        Thêm link
+                                    </button>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="card">
+                            <div class="card-head">
+                                <div>
+                                    <h2>Danh sách tài liệu</h2>
+                                    <p>Người tham dự có thể xem tên và kích thước file.</p>
+                                </div>
+                            </div>
+                            <div class="empty-state" hidden="" id="emptyState">
+                                <div class="empty-icon">□</div>
+                                <h3>Chưa có tài liệu</h3>
+                                <p>
+                                    Hãy upload slide hoặc tài liệu tham khảo đầu tiên cho session
+                                    này.
+                                </p>
+                                <button class="btn primary" id="emptyChooseBtn">
+                                    Upload tài liệu
+                                </button>
+                            </div>
+                            <div class="material-list" id="materialList"></div>
+                        </section>
+                    </div>
+                    <aside class="side-column">
+                        <section class="card">
+                            <div class="card-head">
+                                <div>
+                                    <h2>Thông tin session</h2>
+                                    <p id="sessionTitle">—</p>
+                                </div>
+                            </div>
+                            <dl class="session-meta">
+                                <div>
+                                    <dt>Session ID</dt>
+                                    <dd id="sessionId">—</dd>
+                                </div>
+                                <div>
+                                    <dt>Trạng thái</dt>
+                                    <dd>
+                                        <span class="status-badge pending" id="statusBadge"
+                                            >Chờ duyệt</span
+                                        >
+                                    </dd>
+                                </div>
+                                <div>
+                                    <dt>Số tài liệu</dt>
+                                    <dd id="sideCount">0</dd>
+                                </div>
+                            </dl>
+                        </section>
+                        <section class="card tips">
+                            <h2>Lưu ý</h2>
+                            <ul>
+                                <li>Kiểm tra tên file trước khi upload.</li>
+                                <li>Không upload thông tin nhạy cảm.</li>
+                                <li>File lớn hơn 20MB sẽ bị từ chối.</li>
+                                <li>Demo hiện lưu metadata bằng LocalStorage.</li>
+                            </ul>
+                        </section>
+                    </aside>
+                </div>
+            </section>
+            <!-- Success -->
+            <div class="modal-backdrop" hidden="" id="successModal">
+                <div class="modal">
+                    <div class="state-icon success">✓</div>
+                    <h2>Upload thành công</h2>
+                    <p id="successText">Tài liệu đã được thêm vào session.</p>
+                    <button class="btn primary" id="successClose">Đã hiểu</button>
+                </div>
+            </div>
+            <!-- Delete confirm -->
+            <div class="modal-backdrop" hidden="" id="deleteModal">
+                <div class="modal">
+                    <div class="state-icon danger">!</div>
+                    <h2>Xoá tài liệu?</h2>
+                    <p>
+                        Bạn có chắc muốn xoá <strong id="deleteFileName"></strong>? Hành động này
+                        không thể hoàn tác.
+                    </p>
+                    <div class="modal-actions">
+                        <button class="btn ghost" id="cancelDelete">Huỷ</button>
+                        <button class="btn danger-btn" id="confirmDelete">Xoá tài liệu</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <script src="../../js/main.js" type="module"></script>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <div aria-live="polite" id="toasts"></div>
+    </body>
+</html>

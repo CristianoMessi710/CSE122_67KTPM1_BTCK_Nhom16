@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "metrics": {
+        "size": "82.08px",
+        "weight": "700",
+        "lineHeight": "98.496px",
+        "letterSpacing": "-0.8208px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "metrics": {
+        "size": "82.08px",
+        "weight": "700",
+        "lineHeight": "98.496px",
+        "letterSpacing": "-0.8208px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 1024,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ],
+      "metrics": {
+        "size": "60px",
+        "weight": "700",
+        "lineHeight": "72px",
+        "letterSpacing": "-0.6px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 1024,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ],
+      "metrics": {
+        "size": "60px",
+        "weight": "700",
+        "lineHeight": "72px",
+        "letterSpacing": "-0.6px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ],
+      "metrics": {
+        "size": "61.44px",
+        "weight": "700",
+        "lineHeight": "73.728px",
+        "letterSpacing": "-0.6144px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ],
+      "metrics": {
+        "size": "61.44px",
+        "weight": "700",
+        "lineHeight": "73.728px",
+        "letterSpacing": "-0.6144px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "metrics": {
+        "size": "46.8px",
+        "weight": "700",
+        "lineHeight": "56.16px",
+        "letterSpacing": "-0.468px",
+        "overflow": false
+      }
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "metrics": {
+        "size": "46.8px",
+        "weight": "700",
+        "lineHeight": "56.16px",
+        "letterSpacing": "-0.468px",
+        "overflow": false
+      }
+    }
+  ],
+  "errors": []
+}

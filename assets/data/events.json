@@ -1,0 +1,28 @@
+[
+    {
+        "id": "EVT001",
+        "name": "EventPulse Tech Conference 2026",
+        "description": "Sự kiện công nghệ nhiều phiên về Web, AI, Product và Data.",
+        "startDate": "2026-10-20",
+        "endDate": "2026-10-22",
+        "location": "Hanoi",
+        "status": "published",
+        "banner": "",
+        "description_en": "A multi-session technology gathering exploring Web, AI, Product and Data.",
+        "name_en": "EventPulse Tech Conference 2026",
+        "location_en": "Hanoi"
+    },
+    {
+        "id": "EVT002",
+        "name": "EventPulse Community 2025",
+        "description": "Sự kiện đã kết thúc để minh họa phản hồi.",
+        "startDate": "2025-10-20",
+        "endDate": "2025-10-21",
+        "location": "Hà Nội",
+        "status": "completed",
+        "banner": "",
+        "description_en": "A completed event used to demonstrate feedback.",
+        "name_en": "EventPulse Community 2025",
+        "location_en": "Hanoi"
+    }
+]

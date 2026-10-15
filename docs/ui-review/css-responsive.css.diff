@@ -1,0 +1,374 @@
+--- a/css/responsive.css
++++ b/css/responsive.css
+@@ -4,68 +4,82 @@
+         padding-inline: 24px;
+         flex-wrap: wrap;
+     }
++
+     .app-header .nav {
+         gap: 16px;
+     }
++
+     .app-header .settings-link {
+         display: none;
+     }
++
+     .split,
+     .split.wide {
+         grid-template-columns: minmax(0, 1fr);
+     }
+-    .session-grid {
+-        grid-template-columns: repeat(2, minmax(0, 1fr));
+-    }
++
++    .session-grid,
+     .kpis,
+     .stats {
+         grid-template-columns: repeat(2, minmax(0, 1fr));
+     }
++
+     body main.workspace,
+     body main.page,
+     body main.container {
+         padding: 24px;
+     }
+ }
++
+ @media (max-width: 767px) {
+     body {
+         font-size: 14px;
+         padding-bottom: calc(80px + env(safe-area-inset-bottom));
+     }
++
+     body main.workspace,
+     body main.page,
+     body main.container {
+         padding: 24px 16px;
+         width: 100%;
+     }
++
+     h1 {
+         font-size: 24px;
+     }
++
+     h2 {
+         font-size: 22px;
+     }
++
+     .header-inner {
+         min-height: 64px;
+         padding: 8px 16px;
+         gap: 8px;
+         flex-wrap: nowrap;
+     }
++
+     .app-header .nav {
+         display: none;
+     }
++
+     .app-header .brand {
+         font-size: 16px;
+     }
++
+     .app-header .profile-link {
+         display: none;
+     }
++
+     .header-actions {
+         gap: 4px;
+     }
++
+     .demo-button {
+         padding-inline: 8px;
+         font-size: 12px;
+     }
++
+     .bottom-nav {
+         display: grid;
+         grid-template-columns: repeat(4, minmax(0, 1fr));
+@@ -78,6 +92,7 @@
+         border-top: 1px solid var(--border);
+         z-index: 60;
+     }
++
+     .bottom-nav a {
+         display: flex;
+         flex-direction: column;
+@@ -89,11 +104,13 @@
+         min-height: 48px;
+         text-align: center;
+     }
++
+     .bottom-nav a.active {
+-        color: var(--primary);
++        color: var(--primary-ink);
+         background: var(--primary-light);
+         border-radius: 8px;
+     }
++
+     .session-grid,
+     .session-list-view,
+     .detail-grid,
+@@ -110,94 +127,103 @@
+     .conflict-pair {
+         grid-template-columns: minmax(0, 1fr);
+     }
++
+     .metrics,
+     .kpis,
+     .stats {
+         grid-template-columns: repeat(2, minmax(0, 1fr));
+     }
++
+     .side-col,
+     .side-column {
+         display: grid;
+         grid-template-columns: 1fr;
+     }
++
+     .page-head,
+     .page-header,
+-    .page-top,
++    .page-top {
++        flex-direction: column;
++        align-items: stretch;
++    }
++
+     .hero {
+         flex-direction: column;
+         align-items: stretch;
+-    }
+-    .hero,
++        padding: 16px;
++    }
++
+     .panel,
+     .card {
+         padding: 16px;
+     }
+-    .toolbar,
+-    .filters {
+-        align-items: stretch;
+-    }
+-    .toolbar > *,
+-    .filters > * {
+-        flex: 1 1 100%;
+-        width: 100%;
+-        min-width: 0;
+-    }
+-    .toolbar select {
+-        min-width: 0;
+-        width: 100%;
+-    }
++
+     .room-card,
+     .alert-card,
+     .notification {
+         flex-wrap: wrap;
+         padding: 16px;
+     }
+-    .room-card .actions,
++
+     .alert-card .actions {
+         width: 100%;
+     }
++
+     .actions .btn {
+         max-width: 100%;
+     }
++
+     .table-wrap {
+         overflow: visible;
+     }
++
+     .data-table,
+-    .data-table tbody,
+-    .data-table tr,
+-    .data-table td {
++    .data-table tbody {
+         display: block;
+         width: 100%;
+         min-width: 0;
+     }
+-    .data-table thead {
+-        display: none;
+-    }
++
+     .data-table tr {
++        display: block;
++        width: 100%;
++        min-width: 0;
+         border: 1px solid var(--border);
+         border-radius: 12px;
+         margin-bottom: 12px;
+         padding: 12px;
+     }
++
+     .data-table td {
++        display: block;
++        width: 100%;
++        min-width: 0;
+         border: 0;
+         padding: 8px 0;
+         white-space: normal;
+         overflow-wrap: anywhere;
+     }
++
++    .data-table thead {
++        display: none;
++    }
++
+     .data-table td::before {
+         content: attr(data-label);
+         color: var(--muted);
+         font-size: 12px;
+         display: block;
+     }
++
+     .data-table .title-cell {
+         min-width: 0;
+     }
++
+     .line-chart {
+         width: 100%;
+         height: auto;
+     }
++
+     #toasts {
+         top: auto;
+         bottom: calc(88px + env(safe-area-inset-bottom));
+@@ -205,54 +231,59 @@
+         right: 16px;
+         width: auto;
+     }
++
+     .role-grid {
+         grid-template-columns: 1fr;
+     }
++
+     .material-item {
+         flex-wrap: wrap;
+     }
++
+     .material-name {
+         white-space: normal;
+         max-width: 100%;
+     }
++
+     .modal-layer,
+     .modal-backdrop {
+         padding: 16px;
+     }
++
+     .sticky,
+     .side-nav {
+         position: static;
+     }
++
+     .speaker-shortcuts .btn {
+         flex: 1 1 40%;
+     }
++
+     .setting-row {
+         flex-wrap: wrap;
+     }
++
+     .setting-row select {
+         width: 100%;
+     }
++
+     .welcome {
+         padding: 32px 16px;
+     }
++
+     .welcome h1 {
+         font-size: 32px;
+     }
++
+     .session-feature {
+         grid-template-columns: 1fr;
+     }
++
+     .session-number {
+         display: none;
+     }
+ }
+-@media (max-width: 767px) {
+-    .filters select,
+-    .filters .field {
+-        flex: 1 1 100%;
+-        width: 100%;
+-        min-width: 0;
+-    }
+-}
++
+ @media print {
+     .app-header,
+     .bottom-nav,
+@@ -262,18 +293,22 @@
+     .no-print {
+         display: none !important;
+     }
++
+     body {
+         padding-bottom: 0;
+         background: var(--surface);
+     }
++
+     body main.workspace {
+         max-width: none;
+         padding: 0;
+     }
++
+     .agenda-card {
+         break-inside: avoid;
+     }
+ }
++
+ @media (prefers-reduced-motion: reduce) {
+     *,
+     *::before,
+@@ -282,8 +317,43 @@
+         transition: none !important;
+         scroll-behavior: auto !important;
+     }
++
+     ::view-transition-old(root),
+     ::view-transition-new(root) {
+         animation: none;
+     }
+ }
++
++@media (max-width: 767px) {
++    .filters,
++    .toolbar {
++        align-items: stretch;
++    }
++
++    .filters > *,
++    .toolbar > *,
++    .filters > .search,
++    .toolbar > .search,
++    .filters select,
++    .toolbar select,
++    .filters > input,
++    .toolbar > input,
++    .filters > .field,
++    .toolbar > .field,
++    .filters > .btn,
++    .toolbar > .btn {
++        flex: 1 1 100%;
++        width: 100%;
++        min-width: 0;
++        max-width: 100%;
++    }
++
++    .room-card .actions {
++        flex-basis: 100%;
++        width: 100%;
++    }
++
++    .room-card .actions .btn {
++        flex: 1 1 auto;
++    }
++}

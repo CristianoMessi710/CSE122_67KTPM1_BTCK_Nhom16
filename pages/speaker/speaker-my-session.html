@@ -1,0 +1,125 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="../../assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="../../js/view-transitions.js"></script>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>EventPulse — Session của tôi</title>
+
+        <link href="../../css/tokens.css" rel="stylesheet" />
+        <link href="../../css/style.css" rel="stylesheet" />
+        <link href="../../css/speaker-my-sessions.css" rel="stylesheet" />
+        <link href="../../css/components.css" rel="stylesheet" />
+        <link href="../../css/responsive.css" rel="stylesheet" />
+    </head>
+    <body data-module="speaker-my-sessions.js" data-role="speaker" data-screen="SP2">
+        <main class="workspace speaker-content">
+            <div class="actions speaker-shortcuts">
+                <a class="btn btn-secondary" href="speaker-my-session.html">Phiên của tôi</a
+                ><a class="btn btn-secondary" href="speaker-session-materials.html">Tài liệu</a
+                ><a class="btn btn-secondary" href="speaker-interest-forecast.html">Dự báo AI</a
+                ><a class="btn btn-secondary" href="speaker-feedback-overview.html">Phản hồi</a>
+            </div>
+            <section class="hero">
+                <div>
+                    <div class="eyebrow">SPEAKER</div>
+                    <h1 data-i18n="sessions.title">Session của tôi</h1>
+                    <p data-i18n="sessions.sub">
+                        Theo dõi các session đã đăng ký, đề xuất và trạng thái duyệt của bạn.
+                    </p>
+                </div>
+                <button class="btn primary" data-i18n="sessions.create" id="btnCreate">
+                    ＋ Đề xuất session mới
+                </button>
+            </section>
+
+            <section class="stats">
+                <div><span>Tất cả</span><strong id="countAll">0</strong></div>
+                <div><span>Chờ duyệt</span><strong id="countPending">0</strong></div>
+                <div><span>Đã duyệt</span><strong id="countApproved">0</strong></div>
+                <div><span>Từ chối</span><strong id="countRejected">0</strong></div>
+            </section>
+
+            <section class="toolbar">
+                <div class="search">
+                    <span>⌕</span><input id="searchInput" placeholder="Tìm session..." />
+                </div>
+                <select id="statusFilter">
+                    <option value="all">Tất cả trạng thái</option>
+                    <option value="pending">Chờ duyệt</option>
+                    <option value="approved">Đã duyệt</option>
+                    <option value="rejected">Từ chối</option>
+                </select>
+                <button class="btn ghost" id="btnReload">↻ Làm mới</button>
+            </section>
+            <section class="state" hidden="" id="loading">
+                <div class="spinner"></div>
+                <h3>Đang tải session...</h3>
+            </section>
+            <section class="state error" hidden="" id="error">
+                <div class="state-icon">!</div>
+                <h3>Không thể tải dữ liệu</h3>
+                <p id="errorText"></p>
+                <button class="btn primary" id="btnRetry">Thử lại</button>
+            </section>
+            <section class="state" hidden="" id="empty">
+                <div class="state-icon">○</div>
+                <h3>Không có session phù hợp</h3>
+                <p>Thử đổi bộ lọc hoặc tạo một session mới.</p>
+                <button class="btn primary" id="btnEmptyCreate">Đề xuất session</button>
+            </section>
+            <section class="session-list" id="sessionList"></section>
+        </main>
+        <div class="modal-layer" hidden="" id="modal">
+            <div class="modal">
+                <button class="modal-close" data-close="">×</button>
+                <div id="modalContent"></div>
+            </div>
+        </div>
+        <div class="modal-layer" hidden="" id="formModal">
+            <div class="modal form-modal">
+                <button class="modal-close" data-form-close="">×</button>
+                <div class="eyebrow">TẠO / CHỈNH SỬA</div>
+                <h2 id="formHeading">Đề xuất session mới</h2>
+                <form id="sessionForm" novalidate="">
+                    <label>Tên session *<input id="title" maxlength="120" /></label>
+                    <small class="field-error" id="titleError"></small>
+                    <label>Chủ đề *<input id="category" maxlength="80" /></label>
+                    <small class="field-error" id="categoryError"></small>
+                    <div class="two">
+                        <div>
+                            <label>Bắt đầu *<input id="startTime" type="datetime-local" /></label
+                            ><small class="field-error" id="startError"></small>
+                        </div>
+                        <div>
+                            <label>Kết thúc *<input id="endTime" type="datetime-local" /></label
+                            ><small class="field-error" id="endError"></small>
+                        </div>
+                    </div>
+                    <label
+                        >Phòng<input
+                            id="room"
+                            disabled
+                            maxlength="60"
+                            placeholder="Ban tổ chức sẽ phân công phòng"
+                    /></label>
+                    <label
+                        >Mô tả *<textarea id="description" maxlength="600" rows="5"></textarea>
+                    </label>
+                    <div class="counter"><span id="descriptionCount">0</span>/600</div>
+                    <small class="field-error" id="descriptionError"></small>
+                    <div class="form-actions">
+                        <button class="btn ghost" data-form-close="" type="button">Huỷ</button>
+                        <button class="btn primary" type="submit">Gửi đề xuất</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <script src="../../js/main.js" type="module"></script>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <div aria-live="polite" id="toasts"></div>
+    </body>
+</html>

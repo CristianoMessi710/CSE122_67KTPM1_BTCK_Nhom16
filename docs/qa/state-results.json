@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "name": "AI loading and insufficient data",
+      "status": "PASS"
+    },
+    {
+      "name": "Speaker rejects unauthorized session material access",
+      "status": "PASS"
+    },
+    {
+      "name": "Missing entity and empty agenda states",
+      "status": "PASS"
+    },
+    {
+      "name": "Role guard returns 403",
+      "status": "PASS"
+    },
+    {
+      "name": "Legacy key migration removes duplicate entity key",
+      "status": "PASS"
+    },
+    {
+      "name": "Invalid JSON preserves data and shows load error",
+      "status": "PASS"
+    }
+  ],
+  "errors": [
+    "Transition was aborted because of invalid state. ViewTransition opt-in disabled"
+  ]
+}

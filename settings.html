@@ -1,0 +1,153 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="js/view-transitions.js"></script>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>EventPulse — Cài đặt</title>
+        <link href="css/tokens.css" rel="stylesheet" />
+        <link href="css/style.css" rel="stylesheet" />
+        <link href="css/speaker-settings.css" rel="stylesheet" />
+        <link href="css/components.css" rel="stylesheet" />
+        <link href="css/responsive.css" rel="stylesheet" />
+    </head>
+    <body data-module="settings.js" data-role="shared" data-screen="S6">
+        <main class="workspace speaker-content">
+            <div class="breadcrumb">Dùng chung / <b>Cài đặt</b></div>
+            <section class="page-title">
+                <div>
+                    <div class="eyebrow">ACCOUNT SETTINGS</div>
+                    <h1 data-i18n="settings.title">Cài đặt</h1>
+                    <p data-i18n="settings.sub">
+                        Tùy chỉnh tài khoản và trải nghiệm sử dụng EventPulse.
+                    </p>
+                </div>
+                <span class="save-status" id="saveStatus">✓ Đã tự động lưu</span>
+            </section>
+            <div class="layout">
+                <aside class="side-nav card">
+                    <button class="nav-item active" data-target="account">Tài khoản</button>
+                    <button class="nav-item" data-target="appearance">Giao diện</button>
+                    <button class="nav-item" data-target="preferences">Tùy chọn</button>
+                    <button class="nav-item" data-target="security">Bảo mật</button>
+                </aside>
+                <section class="content">
+                    <section class="settings-section card" id="account">
+                        <div class="section-head">
+                            <div>
+                                <h2>Tài khoản</h2>
+                                <p>Thông tin cơ bản của tài khoản đang đăng nhập.</p>
+                            </div>
+                        </div>
+                        <div class="profile-row">
+                            <div class="big-avatar">PV</div>
+                            <div>
+                                <strong>Phan Anh Vũ</strong>
+                                <span>Diễn giả</span>
+                            </div>
+                        </div>
+                        <div class="form-grid">
+                            <label>Họ và tên<input id="name" value="Phan Anh Vũ" /></label>
+                            <label>Email<input disabled="" value="phananhvu@example.com" /></label>
+                        </div>
+                    </section>
+                    <section class="settings-section card" id="appearance">
+                        <div class="section-head">
+                            <div>
+                                <h2>Giao diện</h2>
+                                <p>Chọn ngôn ngữ và chế độ hiển thị.</p>
+                            </div>
+                        </div>
+                        <div class="setting-row">
+                            <div>
+                                <strong>Ngôn ngữ</strong><span>Ngôn ngữ hiển thị của ứng dụng</span>
+                            </div>
+                            <select id="language">
+                                <option value="vi">Tiếng Việt</option>
+                                <option value="en">English</option>
+                            </select>
+                        </div>
+                        <div class="setting-row">
+                            <div>
+                                <strong>Chế độ tối/sáng</strong
+                                ><span>Thay đổi giao diện theo sở thích</span>
+                            </div>
+                            <div class="segmented">
+                                <button class="theme active" data-theme="light">Sáng</button
+                                ><button class="theme" data-theme="dark">Tối</button>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="settings-section card" id="preferences">
+                        <div class="section-head">
+                            <div>
+                                <h2>Tùy chọn</h2>
+                                <p>Các hành vi được tự động lưu khi bạn thay đổi.</p>
+                            </div>
+                        </div>
+                        <div class="setting-row">
+                            <div>
+                                <strong>Tự động lưu</strong
+                                ><span>Lưu thay đổi ngay sau khi bạn bật/tắt tùy chọn.</span>
+                            </div>
+                            <label class="switch"
+                                ><input checked="" id="autosave" type="checkbox" /><span></span
+                            ></label>
+                        </div>
+                        <div class="setting-row">
+                            <div>
+                                <strong>Nhắc lịch session</strong
+                                ><span>Hiển thị nhắc nhở trước session đã thêm vào agenda.</span>
+                            </div>
+                            <label class="switch"
+                                ><input checked="" id="reminder" type="checkbox" /><span></span
+                            ></label>
+                        </div>
+                    </section>
+                    <section class="settings-section card" id="security">
+                        <div class="section-head">
+                            <div>
+                                <h2>Bảo mật</h2>
+                                <p>Đổi mật khẩu tài khoản.</p>
+                            </div>
+                        </div>
+                        <form id="passwordForm">
+                            <div class="form-grid">
+                                <label
+                                    >Mật khẩu hiện tại<input
+                                        id="currentPassword"
+                                        required=""
+                                        type="password"
+                                /></label>
+                                <div></div>
+                                <label
+                                    >Mật khẩu mới<input
+                                        id="newPassword"
+                                        minlength="8"
+                                        required=""
+                                        type="password"
+                                /></label>
+                                <label
+                                    >Xác nhận mật khẩu<input
+                                        id="confirmPassword"
+                                        minlength="8"
+                                        required=""
+                                        type="password"
+                                /></label>
+                            </div>
+                            <div class="form-actions">
+                                <button class="btn primary" type="submit">Đổi mật khẩu</button>
+                            </div>
+                            <p class="form-message" id="passwordMessage"></p>
+                        </form>
+                    </section>
+                </section>
+            </div>
+        </main>
+        <script src="js/main.js" type="module"></script>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <div aria-live="polite" id="toasts"></div>
+    </body>
+</html>

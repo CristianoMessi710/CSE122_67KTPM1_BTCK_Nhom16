@@ -1,0 +1,48 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="js/view-transitions.js"></script>
+        <meta content="width=device-width,initial-scale=1" name="viewport" />
+        <meta
+            content="EventPulse — Trang chủ sự kiện"
+            name="description"
+            data-i18n-content="home.meta.description"
+        />
+        <title>Trang chủ sự kiện · EventPulse</title>
+
+        <link href="css/tokens.css" rel="stylesheet" />
+        <link href="css/style.css" rel="stylesheet" />
+        <link href="css/components.css" rel="stylesheet" />
+        <link href="css/responsive.css" rel="stylesheet" />
+        <link href="css/home.css" rel="stylesheet" />
+    </head>
+    <body data-role="shared" data-screen="S1">
+        <a class="sr-only" href="#main" data-i18n="home.skip">Đến nội dung chính</a>
+        <div id="app">
+            <main id="main" class="home-main">
+                <section
+                    aria-busy="true"
+                    class="home-loading home-wrap"
+                    aria-labelledby="home-loading-label"
+                >
+                    <div class="skeleton"></div>
+                    <div class="skeleton"></div>
+                    <div class="skeleton"></div>
+                    <p id="home-loading-label" role="status" data-i18n="home.loading">
+                        Đang chuẩn bị trải nghiệm của bạn…
+                    </p>
+                </section>
+            </main>
+        </div>
+        <div aria-live="polite" class="toast-region" id="toasts" role="status"></div>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <noscript data-i18n="home.noscript"
+            >Vui lòng bật JavaScript để sử dụng EventPulse.</noscript
+        >
+
+        <script src="js/main.js" type="module"></script>
+    </body>
+</html>

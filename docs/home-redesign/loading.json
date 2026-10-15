@@ -1,0 +1,9 @@
+{
+  "loading": {
+    "skeletons": 3,
+    "busy": "true",
+    "status": "Đang chuẩn bị trải nghiệm của bạn…"
+  },
+  "ready": 1,
+  "errors": []
+}

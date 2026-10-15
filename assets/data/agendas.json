@@ -1,0 +1,26 @@
+[
+    {
+        "id": "AGD001",
+        "userId": "USR001",
+        "eventId": "EVT001",
+        "sessionId": "SES001",
+        "status": "saved",
+        "addedAt": "2026-10-01T10:00:00"
+    },
+    {
+        "id": "AGD002",
+        "userId": "USR001",
+        "eventId": "EVT001",
+        "sessionId": "SES003",
+        "status": "saved",
+        "addedAt": "2026-10-01T10:05:00"
+    },
+    {
+        "id": "AGD900",
+        "userId": "USR001",
+        "eventId": "EVT002",
+        "sessionId": "SES900",
+        "status": "completed",
+        "addedAt": "2025-10-01T00:00:00"
+    }
+]

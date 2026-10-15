@@ -1,0 +1,23 @@
+{
+    "SV3-users": {
+        "USR001": "USR102",
+        "USR002": "USR101",
+        "USR003": "USR103",
+        "USR004": "USR104",
+        "USR005": "USR3005",
+        "USR006": "USR3006",
+        "USR007": "USR3007",
+        "USR008": "USR3008",
+        "USR009": "USR3009"
+    },
+    "SV3-sessions": {
+        "SES001": "SES002",
+        "SES002": "SES001",
+        "SES003": "SES003",
+        "SES004": "SES005",
+        "SES005": "SES007",
+        "SES006": "SES3006",
+        "SES007": "SES3007",
+        "SES008": "SES3008"
+    }
+}

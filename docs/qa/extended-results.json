@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "name": "Room validation, create, archive",
+      "status": "PASS"
+    },
+    {
+      "name": "Organizer alert reaches attendee notification",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin user validation, create and lock",
+      "status": "PASS"
+    },
+    {
+      "name": "AI attendee failure, retry, user selection and save",
+      "status": "PASS"
+    },
+    {
+      "name": "AI Speaker failure retry and confirmed note",
+      "status": "PASS"
+    },
+    {
+      "name": "Storage write failure keeps input and retry succeeds",
+      "status": "PASS"
+    },
+    {
+      "name": "Page error state and retry",
+      "status": "PASS"
+    },
+    {
+      "name": "Empty state, phone modal and reduced motion",
+      "status": "PASS"
+    },
+    {
+      "name": "Materials upload, edit and delete",
+      "status": "PASS"
+    },
+    {
+      "name": "Ticket type create and pause",
+      "status": "PASS"
+    },
+    {
+      "name": "Organizer conflict AI needs confirmation and applies shared room",
+      "status": "PASS"
+    },
+    {
+      "name": "Attendee overlap routes to conflict and preserves agenda",
+      "status": "PASS"
+    },
+    {
+      "name": "Registration validation and login route",
+      "status": "PASS"
+    },
+    {
+      "name": "Canonical keys only",
+      "status": "PASS"
+    }
+  ],
+  "errors": [
+    "Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "Transition was aborted because of invalid state. ViewTransition opt-in disabled"
+  ]
+}

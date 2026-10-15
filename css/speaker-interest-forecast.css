@@ -1,0 +1,274 @@
+/* SP5 Interest Forecast */
+
+.page {
+    width: min(1160px, calc(100% - 44px));
+    margin: auto;
+    padding: 28px 0 70px;
+}
+
+.crumb {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 13px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    gap: 20px;
+    padding: 28px 30px;
+    background: linear-gradient(135deg, var(--primary-light), var(--surface));
+    border-radius: 16px;
+    margin-bottom: 17px;
+}
+
+.hero h1 {
+    font-size: 29px;
+    margin: 4px 0;
+}
+
+.hero p {
+    margin: 0;
+    color: var(--muted);
+}
+
+.btn {
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.primary {
+    background: var(--primary);
+    color: var(--on-primary);
+}
+
+.primary:hover {
+    background: var(--primary-dark);
+}
+
+.secondary {
+    background: var(--surface);
+    color: var(--primary-ink);
+    border-color: var(--primary-ink);
+}
+
+.full {
+    width: 100%;
+}
+
+.card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px var(--text);
+}
+
+.notice {
+    padding: 12px 15px;
+    background: var(--primary-light);
+    color: var(--success);
+    border: 1px solid var(--success);
+    border-radius: 9px;
+    margin-bottom: 15px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.state {
+    text-align: center;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 60px 20px;
+}
+
+.state h3 {
+    margin: 10px 0 3px;
+}
+
+.state p {
+    color: var(--muted);
+    font-size: 13px;
+}
+
+.icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: var(--primary-light);
+    color: var(--primary-ink);
+    display: grid;
+    place-items: center;
+    margin: auto;
+    font-weight: 900;
+}
+
+.toolbar > div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 15px;
+}
+
+.metrics article {
+    padding: 17px;
+}
+
+.metrics small,
+.metrics em {
+    display: block;
+    color: var(--muted);
+    font-size: 11px;
+    font-style: normal;
+}
+
+.metrics strong {
+    display: block;
+    font-size: 27px;
+    margin: 4px 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1.55fr 1fr;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.panel {
+    padding: 20px;
+}
+
+.panel h2 {
+    font-size: 17px;
+    margin: 0;
+}
+
+.panel > p {
+    font-size: 12px;
+    color: var(--muted);
+    margin: 3px 0;
+}
+
+.chart {
+    height: 255px;
+    margin-top: 25px;
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    border-bottom: 1px solid var(--border);
+    background: repeating-linear-gradient(to top, transparent 0, transparent 49px, var(--bg) 50px);
+}
+
+.barwrap {
+    height: 100%;
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+}
+
+.bar b {
+    position: absolute;
+    bottom: calc(100% + 4px);
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+}
+
+.date {
+    position: absolute;
+    bottom: -21px;
+    font-size: 10px;
+    color: var(--muted);
+}
+
+.reason {
+    padding: 11px;
+    margin: 16px 0 0;
+    background: var(--bg);
+    border: 1px solid var(--primary-light);
+    border-radius: 9px;
+}
+
+.reason b {
+    display: block;
+    font-size: 12px;
+}
+
+.reason span {
+    display: block;
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 3px;
+}
+
+.tablewrap {
+    overflow: auto;
+    margin-top: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+
+th {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid var(--border);
+    color: var(--muted);
+}
+
+td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid var(--border);
+}
+
+@media (max-width: 900px) {
+    .page {
+        width: min(100% - 28px, 760px);
+    }
+
+    .metrics {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .page {
+        width: calc(100% - 20px);
+        padding-top: 16px;
+    }
+
+    .hero {
+        display: block;
+        padding: 21px;
+    }
+
+    .hero .btn {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .panel {
+        padding: 15px;
+    }
+}

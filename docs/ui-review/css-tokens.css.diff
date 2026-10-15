@@ -1,0 +1,39 @@
+--- a/css/tokens.css
++++ b/css/tokens.css
+@@ -22,4 +22,36 @@
+     color: var(--text);
+     background: var(--bg);
+     font-size: 16px;
++    --on-primary: #ffffff;
++    --primary-ink: #3730a3;
++    --success-soft: #dcfce7;
++    --success-ink: #166534;
++    --warning-soft: #fef3c7;
++    --warning-ink: #92400e;
++    --error-soft: #fee2e2;
++    --error-ink: #991b1b;
++    --info-soft: #dbeafe;
++    --info-ink: #1e40af;
+ }
++
++html[data-appearance='dark'] {
++    color-scheme: dark;
++    --bg: #111827;
++    --surface: #1f2937;
++    --text: #f3f4f6;
++    --muted: #b6c0ce;
++    --border: #4b5563;
++    --primary-light: #312e5e;
++    --primary-ink: #c4b5fd;
++    --shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
++    --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.45);
++    --gradient: linear-gradient(135deg, var(--primary-light), var(--surface));
++    --success-soft: #163c2a;
++    --success-ink: #86efac;
++    --warning-soft: #422d16;
++    --warning-ink: #fcd34d;
++    --error-soft: #482329;
++    --error-ink: #fca5a5;
++    --info-soft: #1d3557;
++    --info-ink: #93c5fd;
++}

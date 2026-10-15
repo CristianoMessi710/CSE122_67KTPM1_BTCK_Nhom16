@@ -1,0 +1,82 @@
+/* Bundled Inter 4.1; no CDN or system-installed font dependency. */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('../assets/fonts/InterVariable.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('../assets/fonts/InterVariable-Italic.woff2') format('woff2');
+}
+
+:root {
+    --primary: #4f46ff;
+    --primary-dark: #3730d9;
+    --primary-light: #eef0ff;
+    --bg: #f7f8fc;
+    --surface: #ffffff;
+    --text: #1f1f2c;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --success: #22c55e;
+    --warning: #f59e0b;
+    --error: #ef4444;
+    --info: #3b82f6;
+    --gradient: linear-gradient(135deg, #eef0ff 0%, #f5f3ff 100%);
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 16px 40px rgba(31, 31, 44, 0.12);
+    --r-input: 8px;
+    --r-btn: 8px;
+    --r-card: 12px;
+    --r-lg: 16px;
+    font-family: Inter, Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-synthesis: none;
+    color: var(--text);
+    background: var(--bg);
+    font-size: 16px;
+    --home-glass: transparent;
+    --home-muted: #596174;
+    --form-ring: var(--primary);
+    --on-primary: #ffffff;
+    --primary-ink: #3730a3;
+    --success-soft: #dcfce7;
+    --success-ink: #166534;
+    --warning-soft: #fef3c7;
+    --warning-ink: #92400e;
+    --error-soft: #fee2e2;
+    --error-ink: #991b1b;
+    --info-soft: #dbeafe;
+    --info-ink: #1e40af;
+}
+
+html[data-appearance='dark'] {
+    --home-muted: var(--muted);
+    color-scheme: dark;
+    --home-glass: transparent;
+    --form-ring: var(--primary-ink);
+    --bg: #111827;
+    --surface: #1f2937;
+    --text: #f3f4f6;
+    --muted: #b6c0ce;
+    --border: #4b5563;
+    --primary-light: #312e5e;
+    --primary-ink: #c4b5fd;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.45);
+    --gradient: linear-gradient(135deg, var(--primary-light), var(--surface));
+    --success-soft: #163c2a;
+    --success-ink: #86efac;
+    --warning-soft: #422d16;
+    --warning-ink: #fcd34d;
+    --error-soft: #482329;
+    --error-ink: #fca5a5;
+    --info-soft: #1d3557;
+    --info-ink: #93c5fd;
+}

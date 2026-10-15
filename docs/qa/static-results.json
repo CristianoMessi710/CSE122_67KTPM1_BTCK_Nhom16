@@ -1,0 +1,22 @@
+{
+  "htmlFiles": 32,
+  "referencesChecked": 193,
+  "pathErrors": [],
+  "syntaxErrors": [],
+  "entityReferenceErrors": [],
+  "missingScreens": [],
+  "extraScreens": [],
+  "entityCounts": {
+    "feedback": 1,
+    "sessions": 16,
+    "agendas": 3,
+    "ticket-types": 2,
+    "events": 2,
+    "notifications": 1,
+    "materials": 0,
+    "user-tickets": 2,
+    "rooms": 7,
+    "users": 12,
+    "event-alerts": 2
+  }
+}

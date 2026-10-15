@@ -1,0 +1,103 @@
+{
+  "screens": [
+    {
+      "id": "A6",
+      "errors": [],
+      "darkOnDark": []
+    }
+  ],
+  "primitives": {
+    "initials": [
+      [
+        "Ban tổ chức demo",
+        "BD"
+      ],
+      [
+        " nguyễn   hữu tú ",
+        "NT"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "   ",
+        ""
+      ],
+      [
+        "A",
+        "A"
+      ],
+      [
+        "null",
+        ""
+      ],
+      [
+        "undefined",
+        ""
+      ]
+    ],
+    "badges": [
+      {
+        "theme": "light",
+        "variant": "green",
+        "contrast": 6.4923831516894746,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "yellow",
+        "contrast": 6.367237188363559,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "red",
+        "contrast": 6.802728419777387,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "blue",
+        "contrast": 7.149175584004714,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "purple",
+        "contrast": 8.771349684108158,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "green",
+        "contrast": 8.726327429383552,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "yellow",
+        "contrast": 8.99792994427741,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "red",
+        "contrast": 7.14770152567142,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "blue",
+        "contrast": 6.853881016613997,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "purple",
+        "contrast": 6.758718260680562,
+        "border": "0px"
+      }
+    ]
+  }
+}

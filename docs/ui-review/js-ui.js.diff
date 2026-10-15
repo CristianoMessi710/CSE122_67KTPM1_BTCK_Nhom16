@@ -1,0 +1,25 @@
+--- a/js/ui.js
++++ b/js/ui.js
+@@ -82,12 +82,16 @@
+               hour12: false
+           }).format(new Date(s))
+         : '—';
+-export const initials = (n) =>
+-    n
+-        .split(' ')
+-        .slice(-2)
+-        .map((w) => w[0])
+-        .join('');
++export const initials = (name = '') => {
++    const words = String(name ?? '')
++        .trim()
++        .split(/\s+/)
++        .filter(Boolean);
++    if (!words.length) return '';
++    const first = Array.from(words[0])[0];
++    const last = words.length > 1 ? Array.from(words.at(-1))[0] : '';
++    return (first + last).toUpperCase();
++};
+ export const empty = (title, text = '', cta = '') =>
+     `<div class="empty"><div class="empty-icon">${icon('calendar')}</div><h3>${esc(title)}</h3><p>${esc(text)}</p>${cta}</div>`;
+ export const notice = (title, text, type = '') =>

@@ -1,0 +1,34 @@
+[
+  {
+    "role": "attendee",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "bottomVisible": true,
+    "font": "Inter, Arial, sans-serif"
+  },
+  {
+    "role": "speaker",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "bottomVisible": true,
+    "font": "Inter, Arial, sans-serif"
+  },
+  {
+    "role": "organizer",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "bottomVisible": true,
+    "font": "Inter, Arial, sans-serif"
+  },
+  {
+    "role": "admin",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "bottomVisible": true,
+    "font": "Inter, Arial, sans-serif"
+  }
+]

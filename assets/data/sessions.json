@@ -1,0 +1,534 @@
+[
+    {
+        "id": "SES001",
+        "eventId": "EVT001",
+        "title": "Modern JavaScript Best Practices",
+        "description": "Các kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.",
+        "category": "web-development",
+        "speakerIds": [
+            "USR101"
+        ],
+        "roomId": "ROM001",
+        "startTime": "2026-10-20T09:00:00",
+        "endTime": "2026-10-20T10:00:00",
+        "capacity": 120,
+        "registeredCount": 95,
+        "status": "published",
+        "tags": [
+            "javascript",
+            "frontend",
+            "web"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Modern JavaScript Best Practices",
+        "description_en": "Modern JavaScript techniques for clear, safe and maintainable code."
+    },
+    {
+        "id": "SES002",
+        "eventId": "EVT001",
+        "title": "Future of Web Development",
+        "description": "Xu hướng xây dựng ứng dụng web hiện đại và cách chuẩn bị cho thế hệ trải nghiệm tiếp theo.",
+        "category": "web-development",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM001",
+        "startTime": "2026-10-20T10:00:00",
+        "endTime": "2026-10-20T11:00:00",
+        "capacity": 150,
+        "registeredCount": 128,
+        "status": "published",
+        "tags": [
+            "web",
+            "frontend",
+            "product"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Future of Web Development",
+        "description_en": "Explore modern web development trends and prepare for the next generation of experiences."
+    },
+    {
+        "id": "SES003",
+        "eventId": "EVT001",
+        "title": "Building AI-Powered Applications",
+        "description": "Từ ý tưởng đến tính năng AI có giải thích, có kiểm soát và hữu ích cho người dùng.",
+        "category": "ai",
+        "speakerIds": [
+            "USR103"
+        ],
+        "roomId": "ROM002",
+        "startTime": "2026-10-20T11:00:00",
+        "endTime": "2026-10-20T12:00:00",
+        "capacity": 150,
+        "registeredCount": 142,
+        "status": "published",
+        "tags": [
+            "ai",
+            "machine-learning",
+            "product"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Building AI-Powered Applications",
+        "description_en": "From an idea to useful AI features with explanations and human control."
+    },
+    {
+        "id": "SES004",
+        "eventId": "EVT001",
+        "title": "AI in Product Development",
+        "description": "Ứng dụng AI để nghiên cứu, ưu tiên và cải thiện vòng đời phát triển sản phẩm.",
+        "category": "ai",
+        "speakerIds": [
+            "USR104"
+        ],
+        "roomId": "ROM003",
+        "startTime": "2026-10-20T13:30:00",
+        "endTime": "2026-10-20T14:30:00",
+        "capacity": 120,
+        "registeredCount": 84,
+        "status": "published",
+        "tags": [
+            "ai",
+            "product",
+            "ux"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "AI in Product Development",
+        "description_en": "Use AI to research, prioritize and improve the product development lifecycle."
+    },
+    {
+        "id": "SES005",
+        "eventId": "EVT001",
+        "title": "Design Systems in Practice",
+        "description": "Cách xây dựng design system nhất quán cho sản phẩm số nhiều vai trò.",
+        "category": "product-design",
+        "speakerIds": [
+            "USR104"
+        ],
+        "roomId": "ROM003",
+        "startTime": "2026-10-20T15:00:00",
+        "endTime": "2026-10-20T16:00:00",
+        "capacity": 120,
+        "registeredCount": 74,
+        "status": "published",
+        "tags": [
+            "design",
+            "ux",
+            "design-system"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Design Systems in Practice",
+        "description_en": "Build a consistent design system for digital products with multiple roles."
+    },
+    {
+        "id": "SES006",
+        "eventId": "EVT001",
+        "title": "Security in a DevOps World",
+        "description": "Các nguyên tắc bảo mật cơ bản trong quy trình phát triển và triển khai web.",
+        "category": "cybersecurity",
+        "speakerIds": [
+            "USR101"
+        ],
+        "roomId": "ROM004",
+        "startTime": "2026-10-21T09:30:00",
+        "endTime": "2026-10-21T10:30:00",
+        "capacity": 100,
+        "registeredCount": 61,
+        "status": "published",
+        "tags": [
+            "security",
+            "devops",
+            "web"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Security in a DevOps World",
+        "description_en": "Essential security principles for web development and deployment."
+    },
+    {
+        "id": "SES007",
+        "eventId": "EVT001",
+        "title": "Data Storytelling with Impact",
+        "description": "Biến dữ liệu thành câu chuyện dễ hiểu để hỗ trợ quyết định sản phẩm.",
+        "category": "data-analytics",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM002",
+        "startTime": "2026-10-21T11:00:00",
+        "endTime": "2026-10-21T12:00:00",
+        "capacity": 150,
+        "registeredCount": 150,
+        "status": "published",
+        "tags": [
+            "data",
+            "analytics",
+            "product"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Data Storytelling with Impact",
+        "description_en": "Turn data into clear stories to support product decisions."
+    },
+    {
+        "id": "SES008",
+        "eventId": "EVT001",
+        "title": "Designing for Impact",
+        "description": "Tư duy thiết kế hướng tới tác động đo được và trải nghiệm người dùng tốt hơn.",
+        "category": "product-design",
+        "speakerIds": [
+            "USR104"
+        ],
+        "roomId": "ROM001",
+        "startTime": "2026-10-22T10:00:00",
+        "endTime": "2026-10-22T11:00:00",
+        "capacity": 120,
+        "registeredCount": 67,
+        "status": "published",
+        "tags": [
+            "design",
+            "product",
+            "ux"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Designing for Impact",
+        "description_en": "Design thinking for measurable impact and better user experiences."
+    },
+    {
+        "id": "SES009",
+        "eventId": "EVT001",
+        "title": "AI Strategy for Product Teams",
+        "description": "Một phiên mô phỏng để minh hoạ xử lý xung đột agenda bằng AI.",
+        "category": "ai",
+        "speakerIds": [
+            "USR103"
+        ],
+        "roomId": "ROM002",
+        "startTime": "2026-10-20T11:30:00",
+        "endTime": "2026-10-20T12:30:00",
+        "capacity": 150,
+        "registeredCount": 76,
+        "status": "published",
+        "tags": [
+            "ai",
+            "product",
+            "strategy"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-10-01T08:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "AI Strategy for Product Teams",
+        "description_en": "A sample session demonstrating AI-assisted agenda conflict resolution."
+    },
+    {
+        "id": "SES3006",
+        "eventId": "EVT001",
+        "title": "Responsible AI: From Ideas to Action",
+        "description": "Cùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.",
+        "category": "ai",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM005",
+        "startTime": "2026-10-20T15:00:00",
+        "endTime": "2026-10-20T16:00:00",
+        "capacity": 200,
+        "registeredCount": 110,
+        "status": "pending",
+        "rejectionReason": "",
+        "tags": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-14T10:00:00",
+        "reviewStatus": "pending",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "pending",
+                "at": "2026-09-14T10:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Responsible AI: From Ideas to Action",
+        "description_en": "Explore practical methods, exchange experience and apply new knowledge to your technology projects."
+    },
+    {
+        "id": "SES3007",
+        "eventId": "EVT001",
+        "title": "Scaling Frontend Architecture",
+        "description": "Cùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.",
+        "category": "web-development",
+        "speakerIds": [
+            "USR101"
+        ],
+        "roomId": "ROM001",
+        "startTime": "2026-10-21T09:00:00",
+        "endTime": "2026-10-21T10:00:00",
+        "capacity": 150,
+        "registeredCount": 62,
+        "status": "completed",
+        "rejectionReason": "",
+        "tags": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-14T10:00:00",
+        "reviewStatus": "approved",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "",
+        "history": [
+            {
+                "status": "approved",
+                "at": "2026-09-14T10:00:00",
+                "note": ""
+            }
+        ],
+        "title_en": "Scaling Frontend Architecture",
+        "description_en": "Explore practical methods, exchange experience and apply new knowledge to your technology projects."
+    },
+    {
+        "id": "SES3008",
+        "eventId": "EVT001",
+        "title": "Product Discovery Workshop",
+        "description": "Cùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.",
+        "category": "product-design",
+        "speakerIds": [
+            "USR103"
+        ],
+        "roomId": "ROM003",
+        "startTime": "2026-10-21T11:00:00",
+        "endTime": "2026-10-21T12:00:00",
+        "capacity": 100,
+        "registeredCount": 46,
+        "status": "rejected",
+        "rejectionReason": "Cần bổ sung mục tiêu và nội dung thực hành.",
+        "tags": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-14T10:00:00",
+        "reviewStatus": "rejected",
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "reviewNote": "Cần bổ sung mục tiêu và nội dung thực hành.",
+        "history": [
+            {
+                "status": "rejected",
+                "at": "2026-09-14T10:00:00",
+                "note": "Cần bổ sung mục tiêu và nội dung thực hành."
+            }
+        ],
+        "title_en": "Product Discovery Workshop",
+        "description_en": "Explore practical methods, exchange experience and apply new knowledge to your technology projects."
+    },
+    {
+        "id": "SES101",
+        "eventId": "EVT001",
+        "title": "Building AI-Powered Applications",
+        "description": "Thiết kế ứng dụng có AI và cách đưa AI vào trải nghiệm sản phẩm.",
+        "objectives": "Biết cách xác định điểm tích hợp AI phù hợp trong sản phẩm.",
+        "category": "ai",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM002",
+        "startTime": "2026-10-20T11:00:00",
+        "endTime": "2026-10-20T12:00:00",
+        "status": "published",
+        "reviewStatus": "approved",
+        "reviewNote": "Session đã được ban tổ chức duyệt.",
+        "createdAt": "2026-09-05T09:00:00",
+        "updatedAt": "2026-09-10T09:00:00",
+        "history": [
+            {
+                "status": "pending",
+                "at": "2026-09-05T09:00:00",
+                "note": "Đề xuất session."
+            },
+            {
+                "status": "approved",
+                "at": "2026-09-10T09:00:00",
+                "note": "Session đã được duyệt."
+            }
+        ],
+        "registeredCount": 0,
+        "capacity": 150,
+        "tags": [],
+        "title_en": "Building AI-Powered Applications",
+        "description_en": "Design AI-powered applications and integrate AI into product experiences."
+    },
+    {
+        "id": "SES102",
+        "eventId": "EVT001",
+        "title": "Modern JavaScript Best Practices",
+        "description": "Các kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.",
+        "objectives": "Người tham dự hiểu các pattern JavaScript hiện đại và biết áp dụng vào frontend.",
+        "category": "web-development",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM001",
+        "startTime": "2026-10-20T09:00:00",
+        "endTime": "2026-10-20T10:00:00",
+        "status": "pending",
+        "reviewStatus": "pending",
+        "reviewNote": "Đang chờ ban tổ chức xem xét.",
+        "createdAt": "2026-09-18T10:30:00",
+        "updatedAt": "2026-09-18T10:30:00",
+        "history": [
+            {
+                "status": "pending",
+                "at": "2026-09-18T10:30:00",
+                "note": "Đề xuất session, chờ ban tổ chức xem xét."
+            }
+        ],
+        "registeredCount": 0,
+        "capacity": 150,
+        "tags": [],
+        "title_en": "Modern JavaScript Best Practices",
+        "description_en": "Modern JavaScript techniques for maintainable frontends."
+    },
+    {
+        "id": "SES103",
+        "eventId": "EVT001",
+        "title": "Design Systems in Practice",
+        "description": "Xây dựng design system dùng xuyên suốt sản phẩm và đội ngũ.",
+        "category": "product-design",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM004",
+        "startTime": "2026-10-21T15:00:00",
+        "endTime": "2026-10-21T16:00:00",
+        "status": "rejected",
+        "reviewStatus": "rejected",
+        "reviewNote": "Cần bổ sung phạm vi nội dung và mục tiêu session.",
+        "createdAt": "2026-09-05T14:20:00",
+        "updatedAt": "2026-09-08T14:20:00",
+        "history": [
+            {
+                "status": "rejected",
+                "at": "2026-09-08T14:20:00",
+                "note": "Cần bổ sung phạm vi nội dung và mục tiêu session."
+            }
+        ],
+        "registeredCount": 0,
+        "capacity": 100,
+        "objectives": "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "tags": [],
+        "title_en": "Design Systems in Practice",
+        "description_en": "Build a design system shared across the product and team."
+    },
+    {
+        "id": "SES900",
+        "eventId": "EVT002",
+        "title": "Thực hành xây dựng sản phẩm web",
+        "description": "Phiên thực hành đã diễn ra, dùng để kiểm thử phản hồi của người tham dự.",
+        "category": "web-development",
+        "speakerIds": [
+            "USR102"
+        ],
+        "roomId": "ROM900",
+        "startTime": "2025-10-20T09:00:00",
+        "endTime": "2025-10-20T10:00:00",
+        "capacity": 100,
+        "registeredCount": 32,
+        "status": "completed",
+        "reviewStatus": "approved",
+        "objectives": "Thực hành các kỹ thuật thiết kế web.",
+        "createdAt": "2025-09-01T00:00:00",
+        "updatedAt": "2025-10-20T10:00:00",
+        "tags": [],
+        "title_en": "Hands-on web product development",
+        "description_en": "A completed hands-on session used to test attendee feedback."
+    }
+]

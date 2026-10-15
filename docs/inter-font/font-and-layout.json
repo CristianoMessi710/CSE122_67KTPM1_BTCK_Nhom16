@@ -1,0 +1,538 @@
+{
+  "results": [
+    {
+      "id": "S1",
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "A1",
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "SP2",
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "O4",
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "AD2",
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S6",
+      "width": 1440,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S1",
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "A1",
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "SP2",
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "O4",
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "AD2",
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S6",
+      "width": 1440,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S1",
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "A1",
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "SP2",
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "O4",
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "AD2",
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S6",
+      "width": 390,
+      "theme": "light",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S1",
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "A1",
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "SP2",
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "O4",
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "AD2",
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S6",
+      "width": 390,
+      "theme": "dark",
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ],
+      "overflow": false,
+      "errors": [],
+      "external": []
+    },
+    {
+      "id": "S1-tablet",
+      "width": 1024,
+      "theme": "light",
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "id": "S1-tablet",
+      "width": 1024,
+      "theme": "dark",
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "id": "S1-tablet",
+      "width": 768,
+      "theme": "light",
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "id": "S1-tablet",
+      "width": 768,
+      "theme": "dark",
+      "overflow": false,
+      "errors": []
+    }
+  ],
+  "probe": [
+    {
+      "style": "normal",
+      "weight": 400,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "normal",
+      "weight": 500,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "normal",
+      "weight": 600,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "normal",
+      "weight": 700,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "normal",
+      "weight": 800,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariable",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "italic",
+      "weight": 400,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariableItalic",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "italic",
+      "weight": 500,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariableItalic",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "italic",
+      "weight": 600,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariableItalic",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "italic",
+      "weight": 700,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariableItalic",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "style": "italic",
+      "weight": 800,
+      "fonts": [
+        {
+          "familyName": "Inter Variable",
+          "postScriptName": "InterVariableItalic",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    }
+  ]
+}

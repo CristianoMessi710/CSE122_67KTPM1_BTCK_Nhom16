@@ -1,0 +1,3578 @@
+[
+  {
+    "id": "A1",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [
+      {
+        "x": 112,
+        "y": 680.5,
+        "w": 394.65625,
+        "h": 377.28125
+      },
+      {
+        "x": 522.65625,
+        "y": 680.5,
+        "w": 394.671875,
+        "h": 377.28125
+      },
+      {
+        "x": 933.328125,
+        "y": 680.5,
+        "w": 394.65625,
+        "h": 377.28125
+      },
+      {
+        "x": 112,
+        "y": 1073.78125,
+        "w": 394.65625,
+        "h": 352.984375
+      },
+      {
+        "x": 522.65625,
+        "y": 1073.78125,
+        "w": 394.671875,
+        "h": 352.984375
+      },
+      {
+        "x": 933.328125,
+        "y": 1073.78125,
+        "w": 394.65625,
+        "h": 352.984375
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn 68 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 25 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 22 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 8 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 150 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 74 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 36 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 46 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 88 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 39 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Hết chỗ",
+        "cls": "badge error",
+        "color": "rgb(153, 27, 27)",
+        "bg": "rgb(254, 226, 226)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 53 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "LABEL",
+          "text": "Tìm kiếm",
+          "x": 137,
+          "y": 461.109375,
+          "w": 251,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "Chủ đềTất cảWeb DevelopmentAI & Mac",
+          "x": 400,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "NgàyTất cả2025-10-202026-10-202026-",
+          "x": 583,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "Khung giờTất cảSáng trước 12 giờChi",
+          "x": 766,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "PhòngTất cảRoom ARoom BRoom CRoom D",
+          "x": 949,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "Sắp xếpThời gianTên A–ZChỗ còn lại",
+          "x": 1132,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O4",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 112,
+          "y": 334.59375,
+          "w": 671,
+          "h": 44,
+          "color": "rgb(31, 31, 44)",
+          "bg": "rgb(255, 255, 255)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 124,
+          "y": 346.59375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [
+      {
+        "rect": {
+          "x": 682,
+          "y": 421.59375,
+          "w": 269,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 682,
+            "y": 421.59375,
+            "w": 85,
+            "h": 44
+          },
+          {
+            "x": 775,
+            "y": 421.59375,
+            "w": 94,
+            "h": 44
+          },
+          {
+            "x": 877,
+            "y": 421.59375,
+            "w": 74,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "rect": {
+          "x": 682,
+          "y": 601.78125,
+          "w": 269,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 682,
+            "y": 601.78125,
+            "w": 85,
+            "h": 44
+          },
+          {
+            "x": 775,
+            "y": 601.78125,
+            "w": 94,
+            "h": 44
+          },
+          {
+            "x": 877,
+            "y": 601.78125,
+            "w": 74,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ngừng sử dụng",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 112,
+          "y": 334.59375,
+          "w": 671,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiCòn trốngĐang sử d",
+          "x": 795,
+          "y": 334.59375,
+          "w": 179,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O1",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [],
+    "roomActions": [],
+    "bars": [
+      "rgb(34, 197, 94)",
+      "rgb(245, 158, 11)",
+      "rgb(239, 68, 68)",
+      "rgb(59, 130, 246)"
+    ],
+    "badges": [
+      {
+        "text": "20–21 tháng 10",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": []
+  },
+  {
+    "id": "AD2",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 112,
+          "y": 334.59375,
+          "w": 495,
+          "h": 44,
+          "color": "rgb(31, 31, 44)",
+          "bg": "rgb(255, 255, 255)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 124,
+          "y": 346.59375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 112,
+          "y": 334.59375,
+          "w": 495,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả vai tròNgười tham dựDiễn giả",
+          "x": 619,
+          "y": 334.59375,
+          "w": 164,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiĐang hoạt độngChờ ",
+          "x": 795,
+          "y": 334.59375,
+          "w": 179,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "SP2",
+    "width": 1440,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 112,
+          "y": 436.890625,
+          "w": 894,
+          "h": 44,
+          "color": "rgb(31, 31, 44)",
+          "bg": "rgb(255, 255, 255)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 124,
+          "y": 448.890625,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [
+      {
+        "x": 112,
+        "y": 500.890625,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 727,
+        "y": 500.890625,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 112,
+        "y": 820.359375,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 727,
+        "y": 820.359375,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 112,
+        "y": 1139.828125,
+        "w": 601,
+        "h": 284.03125
+      },
+      {
+        "x": 727,
+        "y": 1139.828125,
+        "w": 601,
+        "h": 284.03125
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(146, 64, 14)",
+        "bg": "rgb(254, 243, 199)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(146, 64, 14)",
+        "bg": "rgb(254, 243, 199)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Từ chối",
+        "cls": "badge rejected",
+        "color": "rgb(153, 27, 27)",
+        "bg": "rgb(254, 226, 226)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "\n                    \n             ",
+          "x": 112,
+          "y": 436.890625,
+          "w": 894,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "\n                    Tất cả trạng t",
+          "x": 1018,
+          "y": 436.890625,
+          "w": 179,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "text": "↻ Làm mới",
+          "x": 1209,
+          "y": 436.890625,
+          "w": 119,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [
+      {
+        "x": 16,
+        "y": 1099,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 1519.59375,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 1940.1875,
+        "w": 358,
+        "h": 380.296875
+      },
+      {
+        "x": 16,
+        "y": 2336.484375,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 2757.078125,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 3177.671875,
+        "w": 358,
+        "h": 380.296875
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn 68 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 25 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 22 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 8 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 150 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 74 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 36 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 46 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 88 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 39 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Hết chỗ",
+        "cls": "badge error",
+        "color": "rgb(153, 27, 27)",
+        "bg": "rgb(254, 226, 226)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 53 chỗ",
+        "cls": "badge success",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "LABEL",
+          "text": "Tìm kiếm",
+          "x": 33,
+          "y": 470.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "Chủ đềTất cảWeb DevelopmentAI & Mac",
+          "x": 33,
+          "y": 555.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "NgàyTất cả2025-10-202026-10-202026-",
+          "x": 33,
+          "y": 640.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "Khung giờTất cảSáng trước 12 giờChi",
+          "x": 33,
+          "y": 725.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "PhòngTất cảRoom ARoom BRoom CRoom D",
+          "x": 33,
+          "y": 810.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "Sắp xếpThời gianTên A–ZChỗ còn lại",
+          "x": 33,
+          "y": 895.90625,
+          "w": 324,
+          "h": 73
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O4",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44,
+          "color": "rgb(31, 31, 44)",
+          "bg": "rgb(255, 255, 255)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 28,
+          "y": 455.09375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [
+      {
+        "rect": {
+          "x": 33,
+          "y": 714.375,
+          "w": 324,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 33,
+            "y": 714.375,
+            "w": 103.328125,
+            "h": 44
+          },
+          {
+            "x": 144.328125,
+            "y": 714.375,
+            "w": 112.34375,
+            "h": 44
+          },
+          {
+            "x": 264.671875,
+            "y": 714.375,
+            "w": 92.328125,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "rect": {
+          "x": 33,
+          "y": 938.65625,
+          "w": 324,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 33,
+            "y": 938.65625,
+            "w": 103.328125,
+            "h": 44
+          },
+          {
+            "x": 144.328125,
+            "y": 938.65625,
+            "w": 112.34375,
+            "h": 44
+          },
+          {
+            "x": 264.671875,
+            "y": 938.65625,
+            "w": 92.328125,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ngừng sử dụng",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiCòn trốngĐang sử d",
+          "x": 16,
+          "y": 499.09375,
+          "w": 358,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O1",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [],
+    "roomActions": [],
+    "bars": [
+      "rgb(34, 197, 94)",
+      "rgb(245, 158, 11)",
+      "rgb(239, 68, 68)",
+      "rgb(59, 130, 246)"
+    ],
+    "badges": [
+      {
+        "text": "20–21 tháng 10",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": []
+  },
+  {
+    "id": "AD2",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44,
+          "color": "rgb(31, 31, 44)",
+          "bg": "rgb(255, 255, 255)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 28,
+          "y": 455.09375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(55, 48, 163)",
+        "bg": "rgb(238, 240, 255)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả vai tròNgười tham dựDiễn giả",
+          "x": 16,
+          "y": 499.09375,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiĐang hoạt độngChờ ",
+          "x": 16,
+          "y": 555.09375,
+          "w": 358,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "SP2",
+    "width": 390,
+    "theme": "light",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 16,
+          "y": 610.6875,
+          "w": 358,
+          "h": 44,
+          "color": "rgb(31, 31, 44)",
+          "bg": "rgb(255, 255, 255)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 28,
+          "y": 622.6875,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [
+      {
+        "x": 16,
+        "y": 786.6875,
+        "w": 358,
+        "h": 357.46875
+      },
+      {
+        "x": 16,
+        "y": 1158.15625,
+        "w": 358,
+        "h": 357.46875
+      },
+      {
+        "x": 16,
+        "y": 1529.625,
+        "w": 358,
+        "h": 405
+      },
+      {
+        "x": 16,
+        "y": 1948.625,
+        "w": 358,
+        "h": 383.5625
+      },
+      {
+        "x": 16,
+        "y": 2346.1875,
+        "w": 358,
+        "h": 383.5625
+      },
+      {
+        "x": 16,
+        "y": 2743.75,
+        "w": 358,
+        "h": 357.46875
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(146, 64, 14)",
+        "bg": "rgb(254, 243, 199)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(146, 64, 14)",
+        "bg": "rgb(254, 243, 199)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Từ chối",
+        "cls": "badge rejected",
+        "color": "rgb(153, 27, 27)",
+        "bg": "rgb(254, 226, 226)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(22, 101, 52)",
+        "bg": "rgb(220, 252, 231)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(31, 31, 44)",
+      "bg": "rgb(247, 248, 252)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "\n                    \n             ",
+          "x": 16,
+          "y": 610.6875,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "\n                    Tất cả trạng t",
+          "x": 16,
+          "y": 666.6875,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "text": "↻ Làm mới",
+          "x": 16,
+          "y": 722.6875,
+          "w": 358,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "A1",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [
+      {
+        "x": 112,
+        "y": 680.5,
+        "w": 394.65625,
+        "h": 377.28125
+      },
+      {
+        "x": 522.65625,
+        "y": 680.5,
+        "w": 394.671875,
+        "h": 377.28125
+      },
+      {
+        "x": 933.328125,
+        "y": 680.5,
+        "w": 394.65625,
+        "h": 377.28125
+      },
+      {
+        "x": 112,
+        "y": 1073.78125,
+        "w": 394.65625,
+        "h": 352.984375
+      },
+      {
+        "x": 522.65625,
+        "y": 1073.78125,
+        "w": 394.671875,
+        "h": 352.984375
+      },
+      {
+        "x": 933.328125,
+        "y": 1073.78125,
+        "w": 394.65625,
+        "h": 352.984375
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn 68 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 25 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 22 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 8 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 150 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 74 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 36 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 46 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 88 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 39 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Hết chỗ",
+        "cls": "badge error",
+        "color": "rgb(252, 165, 165)",
+        "bg": "rgb(72, 35, 41)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 53 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "LABEL",
+          "text": "Tìm kiếm",
+          "x": 137,
+          "y": 461.109375,
+          "w": 251,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "Chủ đềTất cảWeb DevelopmentAI & Mac",
+          "x": 400,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "NgàyTất cả2025-10-202026-10-202026-",
+          "x": 583,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "Khung giờTất cảSáng trước 12 giờChi",
+          "x": 766,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "PhòngTất cảRoom ARoom BRoom CRoom D",
+          "x": 949,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        },
+        {
+          "tag": "LABEL",
+          "text": "Sắp xếpThời gianTên A–ZChỗ còn lại",
+          "x": 1132,
+          "y": 461.109375,
+          "w": 171,
+          "h": 76
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O4",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 112,
+          "y": 334.59375,
+          "w": 671,
+          "h": 44,
+          "color": "rgb(243, 244, 246)",
+          "bg": "rgb(31, 41, 55)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 124,
+          "y": 346.59375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [
+      {
+        "rect": {
+          "x": 682,
+          "y": 421.59375,
+          "w": 269,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 682,
+            "y": 421.59375,
+            "w": 85,
+            "h": 44
+          },
+          {
+            "x": 775,
+            "y": 421.59375,
+            "w": 94,
+            "h": 44
+          },
+          {
+            "x": 877,
+            "y": 421.59375,
+            "w": 74,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "rect": {
+          "x": 682,
+          "y": 601.78125,
+          "w": 269,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 682,
+            "y": 601.78125,
+            "w": 85,
+            "h": 44
+          },
+          {
+            "x": 775,
+            "y": 601.78125,
+            "w": 94,
+            "h": 44
+          },
+          {
+            "x": 877,
+            "y": 601.78125,
+            "w": 74,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ngừng sử dụng",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 112,
+          "y": 334.59375,
+          "w": 671,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiCòn trốngĐang sử d",
+          "x": 795,
+          "y": 334.59375,
+          "w": 179,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O1",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [],
+    "roomActions": [],
+    "bars": [
+      "rgb(34, 197, 94)",
+      "rgb(245, 158, 11)",
+      "rgb(239, 68, 68)",
+      "rgb(59, 130, 246)"
+    ],
+    "badges": [
+      {
+        "text": "20–21 tháng 10",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": []
+  },
+  {
+    "id": "AD2",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 112,
+          "y": 334.59375,
+          "w": 495,
+          "h": 44,
+          "color": "rgb(243, 244, 246)",
+          "bg": "rgb(31, 41, 55)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 124,
+          "y": 346.59375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 112,
+          "y": 334.59375,
+          "w": 495,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả vai tròNgười tham dựDiễn giả",
+          "x": 619,
+          "y": 334.59375,
+          "w": 164,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiĐang hoạt độngChờ ",
+          "x": 795,
+          "y": 334.59375,
+          "w": 179,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "SP2",
+    "width": 1440,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 112,
+          "y": 436.890625,
+          "w": 894,
+          "h": 44,
+          "color": "rgb(243, 244, 246)",
+          "bg": "rgb(31, 41, 55)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 124,
+          "y": 448.890625,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [
+      {
+        "x": 112,
+        "y": 500.890625,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 727,
+        "y": 500.890625,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 112,
+        "y": 820.359375,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 727,
+        "y": 820.359375,
+        "w": 601,
+        "h": 305.46875
+      },
+      {
+        "x": 112,
+        "y": 1139.828125,
+        "w": 601,
+        "h": 284.03125
+      },
+      {
+        "x": 727,
+        "y": 1139.828125,
+        "w": 601,
+        "h": 284.03125
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(252, 211, 77)",
+        "bg": "rgb(66, 45, 22)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(252, 211, 77)",
+        "bg": "rgb(66, 45, 22)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Từ chối",
+        "cls": "badge rejected",
+        "color": "rgb(252, 165, 165)",
+        "bg": "rgb(72, 35, 41)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "\n                    \n             ",
+          "x": 112,
+          "y": 436.890625,
+          "w": 894,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "\n                    Tất cả trạng t",
+          "x": 1018,
+          "y": 436.890625,
+          "w": 179,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "text": "↻ Làm mới",
+          "x": 1209,
+          "y": 436.890625,
+          "w": 119,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [
+      {
+        "x": 16,
+        "y": 1099,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 1519.59375,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 1940.1875,
+        "w": 358,
+        "h": 380.296875
+      },
+      {
+        "x": 16,
+        "y": 2336.484375,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 2757.078125,
+        "w": 358,
+        "h": 404.59375
+      },
+      {
+        "x": 16,
+        "y": 3177.671875,
+        "w": 358,
+        "h": 380.296875
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn 68 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 25 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 22 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 8 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 150 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 74 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 36 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 46 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 88 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 39 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Hết chỗ",
+        "cls": "badge error",
+        "color": "rgb(252, 165, 165)",
+        "bg": "rgb(72, 35, 41)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn 53 chỗ",
+        "cls": "badge success",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "LABEL",
+          "text": "Tìm kiếm",
+          "x": 33,
+          "y": 470.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "Chủ đềTất cảWeb DevelopmentAI & Mac",
+          "x": 33,
+          "y": 555.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "NgàyTất cả2025-10-202026-10-202026-",
+          "x": 33,
+          "y": 640.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "Khung giờTất cảSáng trước 12 giờChi",
+          "x": 33,
+          "y": 725.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "PhòngTất cảRoom ARoom BRoom CRoom D",
+          "x": 33,
+          "y": 810.90625,
+          "w": 324,
+          "h": 73
+        },
+        {
+          "tag": "LABEL",
+          "text": "Sắp xếpThời gianTên A–ZChỗ còn lại",
+          "x": 33,
+          "y": 895.90625,
+          "w": 324,
+          "h": 73
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O4",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44,
+          "color": "rgb(243, 244, 246)",
+          "bg": "rgb(31, 41, 55)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 28,
+          "y": 455.09375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [
+      {
+        "rect": {
+          "x": 33,
+          "y": 714.375,
+          "w": 324,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 33,
+            "y": 714.375,
+            "w": 103.328125,
+            "h": 44
+          },
+          {
+            "x": 144.328125,
+            "y": 714.375,
+            "w": 112.34375,
+            "h": 44
+          },
+          {
+            "x": 264.671875,
+            "y": 714.375,
+            "w": 92.328125,
+            "h": 44
+          }
+        ]
+      },
+      {
+        "rect": {
+          "x": 33,
+          "y": 938.65625,
+          "w": 324,
+          "h": 44
+        },
+        "buttons": [
+          {
+            "x": 33,
+            "y": 938.65625,
+            "w": 103.328125,
+            "h": 44
+          },
+          {
+            "x": 144.328125,
+            "y": 938.65625,
+            "w": 112.34375,
+            "h": 44
+          },
+          {
+            "x": 264.671875,
+            "y": 938.65625,
+            "w": 92.328125,
+            "h": 44
+          }
+        ]
+      }
+    ],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Còn trống",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ngừng sử dụng",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiCòn trốngĐang sử d",
+          "x": 16,
+          "y": 499.09375,
+          "w": 358,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "O1",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [],
+    "cards": [],
+    "roomActions": [],
+    "bars": [
+      "rgb(34, 197, 94)",
+      "rgb(245, 158, 11)",
+      "rgb(239, 68, 68)",
+      "rgb(59, 130, 246)"
+    ],
+    "badges": [
+      {
+        "text": "20–21 tháng 10",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": []
+  },
+  {
+    "id": "AD2",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44,
+          "color": "rgb(243, 244, 246)",
+          "bg": "rgb(31, 41, 55)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 28,
+          "y": 455.09375,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Diễn giả",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Ban tổ chức",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Quản trị viên",
+        "cls": "badge purple",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Người tham dự",
+        "cls": "badge ",
+        "color": "rgb(196, 181, 253)",
+        "bg": "rgb(49, 46, 94)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đang hoạt động",
+        "cls": "badge green",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "inline-flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "",
+          "x": 16,
+          "y": 443.09375,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả vai tròNgười tham dựDiễn giả",
+          "x": 16,
+          "y": 499.09375,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "Tất cả trạng tháiĐang hoạt độngChờ ",
+          "x": 16,
+          "y": 555.09375,
+          "w": 358,
+          "h": 44
+        }
+      ]
+    ]
+  },
+  {
+    "id": "SP2",
+    "width": 390,
+    "theme": "dark",
+    "errors": [],
+    "overflow": false,
+    "search": [
+      {
+        "input": {
+          "x": 16,
+          "y": 610.6875,
+          "w": 358,
+          "h": 44,
+          "color": "rgb(243, 244, 246)",
+          "bg": "rgb(31, 41, 55)",
+          "padding": "40px",
+          "display": "inline-block"
+        },
+        "icon": {
+          "x": 28,
+          "y": 622.6875,
+          "w": 20,
+          "h": 20
+        }
+      }
+    ],
+    "cards": [
+      {
+        "x": 16,
+        "y": 786.6875,
+        "w": 358,
+        "h": 357.46875
+      },
+      {
+        "x": 16,
+        "y": 1158.15625,
+        "w": 358,
+        "h": 357.46875
+      },
+      {
+        "x": 16,
+        "y": 1529.625,
+        "w": 358,
+        "h": 405
+      },
+      {
+        "x": 16,
+        "y": 1948.625,
+        "w": 358,
+        "h": 383.5625
+      },
+      {
+        "x": 16,
+        "y": 2346.1875,
+        "w": 358,
+        "h": 383.5625
+      },
+      {
+        "x": 16,
+        "y": 2743.75,
+        "w": 358,
+        "h": 357.46875
+      }
+    ],
+    "roomActions": [],
+    "bars": [],
+    "badges": [
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(252, 211, 77)",
+        "bg": "rgb(66, 45, 22)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Chờ duyệt",
+        "cls": "badge pending",
+        "color": "rgb(252, 211, 77)",
+        "bg": "rgb(66, 45, 22)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Từ chối",
+        "cls": "badge rejected",
+        "color": "rgb(252, 165, 165)",
+        "bg": "rgb(72, 35, 41)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      },
+      {
+        "text": "Đã duyệt",
+        "cls": "badge approved",
+        "color": "rgb(134, 239, 172)",
+        "bg": "rgb(22, 60, 42)",
+        "padding": "8px",
+        "display": "flex",
+        "border": "0px"
+      }
+    ],
+    "body": {
+      "color": "rgb(243, 244, 246)",
+      "bg": "rgb(17, 24, 39)",
+      "padding": "0px",
+      "display": "block"
+    },
+    "filters": [
+      [
+        {
+          "tag": "DIV",
+          "text": "\n                    \n             ",
+          "x": 16,
+          "y": 610.6875,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "text": "\n                    Tất cả trạng t",
+          "x": 16,
+          "y": 666.6875,
+          "w": 358,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "text": "↻ Làm mới",
+          "x": 16,
+          "y": 722.6875,
+          "w": 358,
+          "h": 44
+        }
+      ]
+    ]
+  }
+]

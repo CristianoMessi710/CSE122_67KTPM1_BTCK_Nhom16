@@ -1,0 +1,42 @@
+[
+    {
+        "id": "ALT001",
+        "eventId": "EVT001",
+        "createdBy": "USR3008",
+        "title": "Chào mừng đến với EventPulse 2026",
+        "message": "Hãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.",
+        "severity": "info",
+        "target": "all",
+        "status": "published",
+        "createdAt": "2026-09-20T08:30:00",
+        "scheduledAt": null,
+        "sentAt": "2026-09-20T08:30:00",
+        "recipientIds": [
+            "USR001",
+            "USR002",
+            "USR003",
+            "USR004",
+            "USR005",
+            "USR006",
+            "USR007",
+            "USR008",
+            "USR009"
+        ],
+        "sessionId": null
+    },
+    {
+        "id": "ALT002",
+        "eventId": "EVT001",
+        "createdBy": "USR3008",
+        "title": "Nhắc lịch sự kiện ngày 2",
+        "message": "Ngày thứ hai tại EventPulse bắt đầu lúc 09:00.",
+        "severity": "info",
+        "target": "attendees",
+        "status": "draft",
+        "createdAt": "2026-09-21T08:30:00",
+        "scheduledAt": null,
+        "sentAt": null,
+        "recipientIds": [],
+        "sessionId": null
+    }
+]

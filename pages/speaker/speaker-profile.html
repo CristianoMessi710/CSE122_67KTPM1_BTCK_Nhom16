@@ -1,0 +1,223 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="../../assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="../../js/view-transitions.js"></script>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>EventPulse — Hồ sơ Diễn giả</title>
+
+        <link href="../../css/tokens.css" rel="stylesheet" />
+        <link href="../../css/style.css" rel="stylesheet" />
+        <link href="../../css/speaker-profile.css" rel="stylesheet" />
+        <link href="../../css/components.css" rel="stylesheet" />
+        <link href="../../css/responsive.css" rel="stylesheet" />
+    </head>
+    <body data-module="speaker-profile.js" data-role="speaker" data-screen="SP1">
+        <main class="workspace speaker-content">
+            <div class="actions speaker-shortcuts">
+                <a class="btn btn-secondary" href="speaker-my-session.html">Phiên của tôi</a
+                ><a class="btn btn-secondary" href="speaker-session-materials.html">Tài liệu</a
+                ><a class="btn btn-secondary" href="speaker-interest-forecast.html">Dự báo AI</a
+                ><a class="btn btn-secondary" href="speaker-feedback-overview.html">Phản hồi</a>
+            </div>
+            <div class="breadcrumb">Speaker / <strong>Hồ sơ diễn giả</strong></div>
+            <section class="hero">
+                <div>
+                    <p class="eyebrow">SP1 · SPEAKER PROFILE</p>
+                    <h1 data-i18n="profile.title">Hồ sơ Diễn giả</h1>
+                    <p class="sub" data-i18n="profile.sub">
+                        Quản lý thông tin công khai để người tham dự và ban tổ chức nhận diện đúng
+                        diễn giả.
+                    </p>
+                </div>
+                <button class="button secondary" data-i18n="profile.preview" id="previewBtn">
+                    Xem trước
+                </button>
+            </section>
+            <div class="message" hidden="" id="message"></div>
+            <section class="layout">
+                <div class="main-col">
+                    <form id="speakerForm" novalidate="">
+                        <section class="card">
+                            <div class="section-head">
+                                <div>
+                                    <h2>Thông tin cơ bản</h2>
+                                    <p>Thông tin hiển thị trên trang diễn giả.</p>
+                                </div>
+                            </div>
+                            <div class="avatar-row">
+                                <div class="avatar-large" id="avatarPreview">PV</div>
+                                <div>
+                                    <h3>Ảnh đại diện</h3>
+                                    <p class="muted">PNG, JPG hoặc WEBP · tối đa 5MB</p>
+                                    <input
+                                        accept="image/png,image/jpeg,image/webp"
+                                        hidden=""
+                                        id="avatarInput"
+                                        type="file"
+                                    />
+                                    <button
+                                        class="button secondary"
+                                        data-i18n="profile.changePhoto"
+                                        id="uploadBtn"
+                                        type="button"
+                                    >
+                                        Đổi ảnh
+                                    </button>
+                                    <button class="text-btn" id="removeAvatar" type="button">
+                                        Xoá ảnh
+                                    </button>
+                                    <div class="field-error" id="avatarError"></div>
+                                </div>
+                            </div>
+                            <div class="form-grid">
+                                <label class="field">
+                                    <span>Họ và tên <b>*</b></span>
+                                    <input id="name" maxlength="100" placeholder="Nguyễn Văn A" />
+                                    <small class="hint">Tên hiển thị công khai</small>
+                                    <small class="field-error" id="nameError"></small>
+                                </label>
+                                <label class="field">
+                                    <span>Chức danh</span>
+                                    <input
+                                        id="jobTitle"
+                                        maxlength="120"
+                                        placeholder="Senior Product Designer"
+                                    />
+                                    <small class="hint">Ví dụ: Product Manager, CTO...</small>
+                                </label>
+                                <label class="field full">
+                                    <span>Đơn vị / Công ty</span>
+                                    <input
+                                        id="company"
+                                        maxlength="150"
+                                        placeholder="Tên công ty hoặc tổ chức"
+                                    />
+                                </label>
+                                <label class="field full">
+                                    <span>Lĩnh vực chuyên môn</span>
+                                    <input
+                                        id="expertise"
+                                        maxlength="200"
+                                        placeholder="AI, Product Design, Web Development"
+                                    />
+                                    <small class="hint"
+                                        >Phân tách nhiều lĩnh vực bằng dấu phẩy</small
+                                    >
+                                </label>
+                                <label class="field full">
+                                    <span>Tiểu sử <b>*</b></span>
+                                    <textarea
+                                        id="bio"
+                                        maxlength="500"
+                                        placeholder="Giới thiệu ngắn gọn về kinh nghiệm và chuyên môn..."
+                                        rows="7"
+                                    ></textarea>
+                                    <div class="counter"><small id="bioCount">0/500</small></div>
+                                    <small class="field-error" id="bioError"></small>
+                                </label>
+                            </div>
+                        </section>
+                        <section class="card">
+                            <div class="section-head">
+                                <div>
+                                    <h2>Mạng xã hội</h2>
+                                    <p>Các liên kết để người tham dự tìm hiểu thêm về diễn giả.</p>
+                                </div>
+                            </div>
+                            <div class="form-grid">
+                                <label class="field full"
+                                    ><span>LinkedIn</span
+                                    ><input
+                                        id="linkedin"
+                                        placeholder="https://linkedin.com/in/ten-cua-ban"
+                                        type="url" /><small
+                                        class="field-error"
+                                        id="linkedinError"
+                                    ></small
+                                ></label>
+                                <label class="field full"
+                                    ><span>Website</span
+                                    ><input
+                                        id="website"
+                                        placeholder="https://example.com"
+                                        type="url" /><small
+                                        class="field-error"
+                                        id="websiteError"
+                                    ></small
+                                ></label>
+                                <label class="field"
+                                    ><span>Facebook</span
+                                    ><input
+                                        id="facebook"
+                                        placeholder="https://facebook.com/..."
+                                        type="url" /><small
+                                        class="field-error"
+                                        id="facebookError"
+                                    ></small
+                                ></label>
+                                <label class="field"
+                                    ><span>X / Twitter</span
+                                    ><input
+                                        id="twitter"
+                                        placeholder="https://x.com/..."
+                                        type="url" /><small
+                                        class="field-error"
+                                        id="twitterError"
+                                    ></small
+                                ></label>
+                            </div>
+                        </section>
+                        <div class="form-actions">
+                            <button class="button secondary" id="cancelBtn" type="button">
+                                Huỷ
+                            </button>
+                            <button class="button primary" id="saveBtn" type="submit">
+                                Lưu hồ sơ
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <aside class="side-col">
+                    <section class="card sticky">
+                        <div class="section-head">
+                            <div>
+                                <h2>Xem trước</h2>
+                                <p>Hiển thị gần giống hồ sơ công khai.</p>
+                            </div>
+                        </div>
+                        <article class="profile-preview">
+                            <div class="preview-avatar" id="previewAvatar">PV</div>
+                            <h2 id="previewName">Phan Anh Vũ</h2>
+                            <p class="preview-role" id="previewRole">Speaker</p>
+                            <p class="muted" id="previewCompany">EventPulse</p>
+                            <div class="tags" id="previewTags"></div>
+                            <p class="preview-bio" id="previewBio">Chưa có tiểu sử.</p>
+                            <div class="socials" id="previewSocials"></div>
+                        </article>
+                    </section>
+                    <section class="card checklist">
+                        <h3>Kiểm tra hồ sơ</h3>
+                        <p id="checkName">○ Họ tên</p>
+                        <p id="checkBio">○ Tiểu sử</p>
+                        <p id="checkAvatar">○ Ảnh đại diện</p>
+                        <p id="checkLinks">○ Liên kết hợp lệ</p>
+                    </section>
+                </aside>
+            </section>
+        </main>
+        <div class="modal-backdrop" hidden="" id="previewModal">
+            <div class="modal">
+                <button class="close" id="closePreview">×</button>
+                <p class="eyebrow">HỒ SƠ CÔNG KHAI</p>
+                <div id="modalPreview"></div>
+            </div>
+        </div>
+
+        <script src="../../js/main.js" type="module"></script>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <div aria-live="polite" id="toasts"></div>
+    </body>
+</html>

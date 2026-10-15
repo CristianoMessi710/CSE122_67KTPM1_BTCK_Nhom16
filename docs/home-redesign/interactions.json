@@ -1,0 +1,248 @@
+{
+  "english": {
+    "lang": "en",
+    "title": "Event home · EventPulse",
+    "hero": "\n                        Connect ideas.Shape the future.\n                    ",
+    "header": "EventPulse\nThe event\nAI assistant\nRoles\nProgram\nLog in\nExplore the demo",
+    "footer": "EventPulse\n\nA space where ideas meet. Manage events, connect people and create meaningful experiences together.\n\nProduct\nProgram\nAI assistant\nSpeakers\nRoles\nAttendee\nSpeaker\nOrganizer\nAdmin\nSupport\nFrequently asked questions\nLog in\nCreate your account\nLegal & data\nAbout demo data\nBrowser data storage\n\n© 2026 EventPulse · CSE122 project.\n\nLanguage\nVietnamese\nEnglish",
+    "category": "All topics\nWeb development\nArtificial intelligence\nProduct design\nCybersecurity\nData analytics",
+    "untranslatedUI": []
+  },
+  "persisted": {
+    "lang": "en",
+    "title": "Event home · EventPulse"
+  },
+  "dialog": "Explore the demo\n\nChoose a role to explore the shared event data.\n\nAttendee\nSpeaker\nOrganizer\nAdmin\nLog in with your account",
+  "anchorForward": {
+    "left": {
+      "left": 503.5,
+      "width": 73,
+      "transform": "matrix(1, 0, 0, 1, 275.5, 0)"
+    },
+    "during": {
+      "left": 539.9844360351562,
+      "width": 67.203125,
+      "transform": "matrix(1, 0, 0, 1, 311.984, 0)"
+    },
+    "right": {
+      "left": 711.5,
+      "width": 40,
+      "transform": "matrix(1, 0, 0, 1, 483.5, 0)"
+    },
+    "headerPreserved": true
+  },
+  "anchorBackward": {
+    "during": {
+      "left": 675.071533203125,
+      "width": 45.765625,
+      "transform": "matrix(1, 0, 0, 1, 447.072, 0)"
+    },
+    "end": {
+      "left": 503.5,
+      "width": 73,
+      "transform": "matrix(1, 0, 0, 1, 275.5, 0)"
+    }
+  },
+  "filter": 4,
+  "onlyAI": [
+    "Artificial intelligence",
+    "Artificial intelligence",
+    "Artificial intelligence",
+    "Artificial intelligence"
+  ],
+  "carousel": "2 / 10",
+  "faq": true,
+  "vietnamese": {
+    "lang": "vi",
+    "hero": "\n                        Kết nối ý tưởng.Tạo nên tương lai.\n                    "
+  },
+  "crossPage": {
+    "from": {
+      "left": 284,
+      "width": 45,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "to": {
+      "left": 353,
+      "width": 91,
+      "transform": "matrix(1, 0, 0, 1, 69, 0)"
+    },
+    "samples": [
+      {
+        "time": 61.10000000009313,
+        "left": 284
+      },
+      {
+        "time": 63.10000000009313,
+        "left": 284
+      },
+      {
+        "time": 83.5,
+        "left": 284
+      },
+      {
+        "time": 108.70000000018626,
+        "left": 284.4951171875
+      },
+      {
+        "time": 130.20000000018626,
+        "left": 289.880615234375
+      },
+      {
+        "time": 150.89999999990687,
+        "left": 296.11553955078125
+      },
+      {
+        "time": 171.20000000018626,
+        "left": 305.1900329589844
+      },
+      {
+        "time": 191.3000000002794,
+        "left": 315.56787109375
+      },
+      {
+        "time": 221.39999999990687,
+        "left": 331.9695739746094
+      },
+      {
+        "time": 284.89999999990687,
+        "left": 347.5373229980469
+      },
+      {
+        "time": 310.3000000002794,
+        "left": 349.4314880371094
+      },
+      {
+        "time": 330.3000000002794,
+        "left": 351.8531799316406
+      },
+      {
+        "time": 347.60000000009313,
+        "left": 352.5132751464844
+      },
+      {
+        "time": 365.8000000002794,
+        "left": 352.8840637207031
+      },
+      {
+        "time": 378.70000000018626,
+        "left": 353
+      },
+      {
+        "time": 395.5,
+        "left": 353
+      },
+      {
+        "time": 412,
+        "left": 353
+      },
+      {
+        "time": 428.70000000018626,
+        "left": 353
+      },
+      {
+        "time": 445.39999999990687,
+        "left": 353
+      },
+      {
+        "time": 462.10000000009313,
+        "left": 353
+      },
+      {
+        "time": 478.70000000018626,
+        "left": 353
+      },
+      {
+        "time": 495.39999999990687,
+        "left": 353
+      },
+      {
+        "time": 512.1000000000931,
+        "left": 353
+      },
+      {
+        "time": 528.8999999999069,
+        "left": 353
+      },
+      {
+        "time": 545.3999999999069,
+        "left": 353
+      },
+      {
+        "time": 562,
+        "left": 353
+      },
+      {
+        "time": 578.8000000002794,
+        "left": 353
+      },
+      {
+        "time": 595.3999999999069,
+        "left": 353
+      },
+      {
+        "time": 612.1000000000931,
+        "left": 353
+      },
+      {
+        "time": 628.7000000001863,
+        "left": 353
+      },
+      {
+        "time": 645.5,
+        "left": 353
+      },
+      {
+        "time": 662,
+        "left": 353
+      },
+      {
+        "time": 678.7000000001863,
+        "left": 353
+      },
+      {
+        "time": 695.3999999999069,
+        "left": 353
+      },
+      {
+        "time": 712.1000000000931,
+        "left": 353
+      },
+      {
+        "time": 729.8999999999069,
+        "left": 353
+      },
+      {
+        "time": 748,
+        "left": 353
+      }
+    ]
+  },
+  "crossBack": {
+    "left": 284,
+    "width": 45,
+    "transform": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "roles": [
+    {
+      "role": "attendee",
+      "screen": "A1"
+    },
+    {
+      "role": "speaker",
+      "screen": "SP1"
+    },
+    {
+      "role": "organizer",
+      "screen": "O1"
+    },
+    {
+      "role": "admin",
+      "screen": "AD3"
+    }
+  ],
+  "empty": 1,
+  "error": "Chưa thể tải chương trình\n\nHãy kiểm tra kết nối và thử lại. Dữ liệu đã lưu của bạn vẫn được giữ nguyên.\n\nThử lại",
+  "reduced": "none",
+  "errors": []
+}

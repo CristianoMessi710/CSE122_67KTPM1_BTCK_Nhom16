@@ -1,0 +1,299 @@
+{
+  "screens": [
+    {
+      "id": "S1",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S2",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S3",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S4",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S5",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S6",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S7",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S8",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "S9",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "A1",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "A2",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "A3",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "A4",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "A5",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "A6",
+      "errors": [],
+      "darkOnDark": [
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "★",
+          "fg": "rgb(75, 85, 99)",
+          "bg": "rgb(31, 41, 55)",
+          "contrast": 1.942355963372302
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "★",
+          "fg": "rgb(75, 85, 99)",
+          "bg": "rgb(31, 41, 55)",
+          "contrast": 1.942355963372302
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "★",
+          "fg": "rgb(75, 85, 99)",
+          "bg": "rgb(31, 41, 55)",
+          "contrast": 1.942355963372302
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "★",
+          "fg": "rgb(75, 85, 99)",
+          "bg": "rgb(31, 41, 55)",
+          "contrast": 1.942355963372302
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "★",
+          "fg": "rgb(75, 85, 99)",
+          "bg": "rgb(31, 41, 55)",
+          "contrast": 1.942355963372302
+        }
+      ]
+    },
+    {
+      "id": "A7",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "SP1",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "SP2",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "SP3",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "SP4",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "SP5",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "SP6",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "O1",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "O2",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "O3",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "O4",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "O5",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "O6",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "AD1",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "AD2",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "AD3",
+      "errors": [],
+      "darkOnDark": []
+    },
+    {
+      "id": "AD4",
+      "errors": [],
+      "darkOnDark": []
+    }
+  ],
+  "primitives": {
+    "initials": [
+      [
+        "Ban tổ chức demo",
+        "BD"
+      ],
+      [
+        " nguyễn   hữu tú ",
+        "NT"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "   ",
+        ""
+      ],
+      [
+        "A",
+        "A"
+      ],
+      [
+        "null",
+        ""
+      ],
+      [
+        "undefined",
+        ""
+      ]
+    ],
+    "badges": [
+      {
+        "theme": "light",
+        "variant": "green",
+        "contrast": 6.4923831516894746,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "yellow",
+        "contrast": 6.367237188363559,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "red",
+        "contrast": 6.802728419777387,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "blue",
+        "contrast": 7.149175584004714,
+        "border": "0px"
+      },
+      {
+        "theme": "light",
+        "variant": "purple",
+        "contrast": 8.771349684108158,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "green",
+        "contrast": 8.726327429383552,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "yellow",
+        "contrast": 8.99792994427741,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "red",
+        "contrast": 7.14770152567142,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "blue",
+        "contrast": 6.853881016613997,
+        "border": "0px"
+      },
+      {
+        "theme": "dark",
+        "variant": "purple",
+        "contrast": 6.758718260680562,
+        "border": "0px"
+      }
+    ]
+  }
+}

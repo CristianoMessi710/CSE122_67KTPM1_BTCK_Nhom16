@@ -1,0 +1,12 @@
+[
+    {
+        "id": "FDB001",
+        "sessionId": "SES005",
+        "userId": "USR001",
+        "rating": 4,
+        "comment": "Nội dung dễ hiểu, phần ví dụ thực tế rất hữu ích.",
+        "status": "published",
+        "createdAt": "2026-10-20T16:10:00",
+        "updatedAt": "2026-10-20T16:10:00"
+    }
+]

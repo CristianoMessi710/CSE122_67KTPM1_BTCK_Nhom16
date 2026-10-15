@@ -1,0 +1,197 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="../../assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="../../js/view-transitions.js"></script>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>EventPulse — Chi tiết phiên</title>
+
+        <link href="../../css/tokens.css" rel="stylesheet" />
+        <link href="../../css/style.css" rel="stylesheet" />
+        <link href="../../css/speaker-session-edit.css" rel="stylesheet" />
+        <link href="../../css/components.css" rel="stylesheet" />
+        <link href="../../css/responsive.css" rel="stylesheet" />
+    </head>
+    <body data-module="speaker-session-edit.js" data-role="speaker" data-screen="SP3">
+        <main class="workspace speaker-content">
+            <div class="actions speaker-shortcuts">
+                <a class="btn btn-secondary" href="speaker-my-session.html">Phiên của tôi</a
+                ><a class="btn btn-secondary" href="speaker-session-materials.html">Tài liệu</a
+                ><a class="btn btn-secondary" href="speaker-interest-forecast.html">Dự báo AI</a
+                ><a class="btn btn-secondary" href="speaker-feedback-overview.html">Phản hồi</a>
+            </div>
+            <div class="page-top">
+                <div>
+                    <div class="eyebrow">SPEAKER / SESSION</div>
+                    <h1>Chi tiết phiên</h1>
+                    <p id="sessionSubtitle">Đang tải thông tin session...</p>
+                </div>
+                <div class="top-actions">
+                    <span class="save-status" id="saveStatus">● Chưa lưu</span>
+                    <button class="btn ghost" id="btnBack">← Quay lại</button>
+                </div>
+            </div>
+
+            <section class="state" id="loading">
+                <div class="spinner"></div>
+                <h3>Đang tải session...</h3>
+            </section>
+            <section class="state error" hidden="" id="error">
+                <div class="state-icon">!</div>
+                <h3>Không thể tải session</h3>
+                <p id="errorText">Session không tồn tại hoặc dữ liệu không hợp lệ.</p>
+                <button class="btn primary" id="btnRetry">Thử lại</button>
+            </section>
+            <section hidden="" id="editor">
+                <form id="editForm" novalidate="">
+                    <div class="layout">
+                        <div class="main-col">
+                            <section class="card">
+                                <div class="card-title">
+                                    <div>
+                                        <h2>Nội dung session</h2>
+                                        <p>Cập nhật thông tin chi tiết cho buổi nói chuyện.</p>
+                                    </div>
+                                    <span class="required">* Bắt buộc</span>
+                                </div>
+                                <label
+                                    >Tên session *
+                                    <input
+                                        id="title"
+                                        maxlength="120"
+                                        placeholder="Nhập tên session"
+                                    />
+                                    <small class="field-error" id="titleError"></small>
+                                </label>
+                                <label
+                                    >Mô tả *
+                                    <textarea
+                                        id="description"
+                                        maxlength="1000"
+                                        placeholder="Mô tả nội dung session..."
+                                        rows="6"
+                                    ></textarea>
+                                    <div class="counter">
+                                        <span id="descriptionCount">0</span>/1000
+                                    </div>
+                                    <small class="field-error" id="descriptionError"></small>
+                                </label>
+                                <label
+                                    >Mục tiêu buổi nói chuyện *
+                                    <textarea
+                                        id="objectives"
+                                        maxlength="700"
+                                        placeholder="Sau session, người tham dự sẽ..."
+                                        rows="5"
+                                    ></textarea>
+                                    <div class="counter">
+                                        <span id="objectivesCount">0</span>/700
+                                    </div>
+                                    <small class="field-error" id="objectivesError"></small>
+                                </label>
+                                <div class="two">
+                                    <label
+                                        >Chủ đề *
+                                        <input
+                                            id="category"
+                                            maxlength="80"
+                                            placeholder="Ví dụ: AI, Web Development"
+                                        />
+                                        <small class="field-error" id="categoryError"></small>
+                                    </label>
+                                    <label
+                                        >Phòng
+                                        <input
+                                            id="room"
+                                            maxlength="60"
+                                            placeholder="Chưa xếp phòng"
+                                        />
+                                    </label>
+                                </div>
+                            </section>
+                            <section class="card">
+                                <div class="card-title">
+                                    <div>
+                                        <h2>Thời gian</h2>
+                                        <p>Điều chỉnh thời lượng của session.</p>
+                                    </div>
+                                </div>
+                                <div class="two">
+                                    <label
+                                        >Bắt đầu *
+                                        <input id="startTime" type="datetime-local" />
+                                        <small class="field-error" id="startError"></small>
+                                    </label>
+                                    <label
+                                        >Kết thúc *
+                                        <input id="endTime" type="datetime-local" />
+                                        <small class="field-error" id="endError"></small>
+                                    </label>
+                                </div>
+                                <div class="duration" id="duration">Thời lượng: —</div>
+                            </section>
+                            <section class="card">
+                                <div class="form-actions">
+                                    <button class="btn ghost" id="btnCancel" type="button">
+                                        Huỷ thay đổi
+                                    </button>
+                                    <button class="btn primary" id="btnSave" type="button">
+                                        Lưu thay đổi
+                                    </button>
+                                </div>
+                            </section>
+                        </div>
+                        <aside class="side-col">
+                            <section class="card status-card">
+                                <div class="card-title">
+                                    <div><h2>Trạng thái duyệt</h2></div>
+                                </div>
+                                <div class="status-badge pending" id="statusBadge">Chờ duyệt</div>
+                                <p class="muted" id="statusNote"></p>
+                                <p
+                                    class="muted"
+                                    hidden=""
+                                    id="lockHint"
+                                    style="margin-top: 10px; font-size: 12px"
+                                ></p>
+                                <button
+                                    class="btn primary"
+                                    hidden=""
+                                    id="btnResubmit"
+                                    style="margin-top: 12px; width: 100%"
+                                    type="button"
+                                >
+                                    Gửi lại để duyệt
+                                </button>
+                            </section>
+                            <section class="card">
+                                <div class="card-title">
+                                    <div>
+                                        <h2>Timeline</h2>
+                                        <p>Lịch sử trạng thái session.</p>
+                                    </div>
+                                </div>
+                                <div class="timeline" id="timeline"></div>
+                            </section>
+                        </aside>
+                    </div>
+                </form>
+            </section>
+            <section class="state success-state" hidden="" id="success">
+                <div class="state-icon">✓</div>
+                <h3>Đã lưu thay đổi</h3>
+                <p>Thông tin session đã được cập nhật và lưu vào dữ liệu hiện tại.</p>
+                <div>
+                    <button class="btn ghost" id="btnEditAgain">Tiếp tục chỉnh sửa</button>
+                    <button class="btn primary" id="btnSuccessBack">Về Session của tôi</button>
+                </div>
+            </section>
+        </main>
+
+        <script src="../../js/main.js" type="module"></script>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <div aria-live="polite" id="toasts"></div>
+    </body>
+</html>

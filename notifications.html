@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="preload" href="assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+        <script src="js/view-transitions.js"></script>
+        <meta content="width=device-width,initial-scale=1" name="viewport" />
+        <meta content="EventPulse — Thông báo" name="description" />
+        <title>Thông báo · EventPulse</title>
+
+        <link href="css/tokens.css" rel="stylesheet" />
+        <link href="css/style.css" rel="stylesheet" />
+        <link href="css/components.css" rel="stylesheet" />
+        <link href="css/responsive.css" rel="stylesheet" />
+    </head>
+    <body data-role="shared" data-screen="S7">
+        <a class="sr-only" href="#main">Đến nội dung chính</a>
+        <div id="app">
+            <main class="workspace">
+                <div class="loading"><span class="spinner"> </span>Đang tải EventPulse…</div>
+            </main>
+        </div>
+        <div aria-live="polite" class="toast-region" id="toasts" role="status"></div>
+        <dialog aria-labelledby="dialog-title" id="dialog"></dialog>
+        <noscript>Vui lòng bật JavaScript để sử dụng EventPulse.</noscript>
+
+        <script src="js/main.js" type="module"></script>
+    </body>
+</html>

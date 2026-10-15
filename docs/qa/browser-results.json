@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "S1",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n19/10/2026 – 21/10/2026 · Hanoi\nKết nối ý tưởng.\nTạo nên tương lai.\n\nSự kiện công nghệ nhiều phiên về Web, AI, Product và Data.\n\nMở bảng điều khiển\nĐăng ký tham dự\nTrải nghiệm bản demo\n19/10/2026 – 21/10/2026\nHanoi\n16 phiên chia sẻ\nKHÁM PHÁ CHƯƠNG TRÌNH\nPhiên nổi bật\nweb-development\nModern JavaScript Best Practices\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\n 09:00 – 10:00\nRoom A\n\nTrần Đức Huy\nDiễn giả · EventPulse 2026\n\n01\n\n1 / 10 phiên nổi bật\n\nSẵn sàng cho EventPulse?\n\nTruy cập tài khoản để nhận thông báo và theo dõi sự kiện.\n\nTrải nghiệm bản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Kết nối ý tưởng.Tạo nên tương lai.",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S2",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐăng nhập\n\nChào mừng bạn đến với EventPulse.\n\nEmail *\nMật khẩu *\nHiện\nĐăng nhập\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Đăng nhập",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S3",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nTạo tài khoản\n\nChào mừng bạn đến với EventPulse.\n\nHọ và tên *\nEmail *\nMật khẩu *\nHiện\nĐộ mạnh mật khẩu\nÍt nhất 8 ký tự.\nXác nhận mật khẩu *\nHiện\nVai trò\nNgười tham dự\nDiễn giả\nTạo tài khoản\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Tạo tài khoản",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S4",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nQuên mật khẩu\n\nNhận liên kết đặt lại mật khẩu qua email giả lập.\n\nEmail *\nGửi liên kết đặt lại\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Quên mật khẩu",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S5",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nHồ sơ cá nhân\n\nCập nhật thông tin và sở thích của bạn.\n\nẢnh đại diện PNG JPG WEBP tối đa 1 MB\nXóa ảnh\nHọ và tên *\nEmail *\nSố điện thoại\nSở thích cách nhau bằng dấu phẩy\nGiới thiệu\nLưu thay đổi\nHủy thay đổi",
+    "h1": "Hồ sơ cá nhân",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S6",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nDùng chung / Cài đặt\nACCOUNT SETTINGS\nCài đặt\n\nTùy chỉnh tài khoản và trải nghiệm sử dụng EventPulse.\n\n✓ Đã tự động lưu\nTài khoản\nGiao diện\nTùy chọn\nBảo mật\nTài khoản\n\nThông tin cơ bản của tài khoản đang đăng nhập.\n\nMA\nNguyễn Minh Anh\nNgười tham dự\nHọ và tên\nEmail\nGiao diện\n\nChọn ngôn ngữ và chế độ hiển thị.\n\nNgôn ngữ\nNgôn ngữ hiển thị của ứng dụng\nTiếng Việt\nEnglish\nChế độ tối/sáng\nThay đổi giao diện theo sở thích\nSáng\nTối\nTùy chọn\n\nCác hành vi được tự động lưu khi bạn thay đổi.\n\nTự động lưu\nLưu thay đổi ngay sau khi bạn bật/tắt tùy chọn.\nNhắc lịch session\nHiển thị nhắc nhở trước session đã thêm vào agenda.\nBảo mật\n\nĐổi mật khẩu tài khoản.\n\nMật khẩu hiện tại\nMật khẩu mới\nXác nhận mật khẩu\nĐổi mật khẩu",
+    "h1": "Cài đặt",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S7",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\nThông báo\n\nCập nhật mới nhất dành cho bạn.\n\nĐánh dấu tất cả đã đọc\nTất cả loại thông báo\nThông tin chung\nThay đổi lịch\nVé\nPhản hồi\nNhắc lịch\nHệ thống\nTất cả trạng thái\nChưa đọc\n1 chưa đọc\nChào mừng đến EventPulse\n\nBạn có thể khám phá session và xây dựng agenda cá nhân.\n\n01/10/2026 · 08:00\nĐánh dấu đã đọc\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Thông báo",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S8",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n\n403\n\nBạn chưa có quyền truy cập\n\nTrang này dành cho vai trò khác. Bạn đang dùng tài khoản Người tham dự.\n\nTự chuyển về trang phù hợp sau 8 giây.\n\nVề trang phù hợp\nChọn tài khoản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Bạn chưa có quyền truy cập",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S9",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n\n404\n\nKhông tìm thấy trang\n\nĐường dẫn có thể đã thay đổi hoặc không tồn tại. Bạn có thể quay lại và tiếp tục khám phá EventPulse.\n\nQuay lại\nVề trang chủ\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Không tìm thấy trang",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A1",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nKhám phá các phiên sự kiện\n\nTìm theo diễn giả, chủ đề, giờ và phòng.\n\nChọn phiên phù hợp với bạn\n\nXây dựng lịch cá nhân và nhận gợi ý theo sở thích.\n\nGợi ý cho bạn\nVé của tôi\nĐánh giá phiên\nTìm kiếm\nChủ đề\nTất cả\nWeb Development\nAI & Machine Learning\nProduct & Design\nCybersecurity\nData & Analytics\nNgày\nTất cả\n2025-10-20\n2026-10-20\n2026-10-21\n2026-10-22\nKhung giờ\nTất cả\nSáng trước 12 giờ\nChiều từ 12 đến 18 giờ\nTối từ 18 giờ\nPhòng\nTất cả\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nSắp xếp\nThời gian\nTên A–Z\nChỗ còn lại\nXóa bộ lọc\nDạng danh sách\n\n12 phiên\n\nCòn 68 chỗ\n◈\nWeb Development\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\n20/10/2025 · 09:00 – 10:00\nPhòng cộng đồng 2025\nChi tiết\nKhông thể đăng ký\nCòn 25 chỗ\n◈\nWeb Development\nModern JavaScript Best Practices\nTrần Đức Huy\n20/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nĐã lưu\nCòn 22 chỗ\n◈\nWeb Development\nFuture of Web Development\nNguyễn Minh Anh\n20/10/2026 · 10:00 – 11:00\nRoom A\nChi tiết\nThêm vào agenda\nCòn 8 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nLê Thu Trang\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nĐã lưu\nCòn 150 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nNguyễn Minh Anh\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nThêm vào agenda\nCòn 74 chỗ\n◈\nAI & Machine Learning\nAI Strategy for Product Teams\nLê Thu Trang\n20/10/2026 · 11:30 – 12:30\nRoom B\nChi tiết\nThêm vào agenda\nCòn 36 chỗ\n◈\nAI & Machine Learning\nAI in Product Development\nPhạm Quốc Bảo\n20/10/2026 · 13:30 – 14:30\nRoom C\nChi tiết\nThêm vào agenda\nCòn 46 chỗ\n◈\nProduct & Design\nDesign Systems in Practice\nPhạm Quốc Bảo\n20/10/2026 · 15:00 – 16:00\nRoom C\nChi tiết\nThêm vào agenda\nCòn 88 chỗ\n◈\nWeb Development\nScaling Frontend Architecture\nTrần Đức Huy\n21/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nKhông thể đăng ký\nCòn 39 chỗ\n◈\nCybersecurity\nSecurity in a DevOps World\nTrần Đức Huy\n21/10/2026 · 09:30 – 10:30\nRoom D\nChi tiết\nThêm vào agenda\nHết chỗ\n◈\nData & ",
+    "h1": "Khám phá các phiên sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A2",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nChi tiết session\n\nThông tin phiên và tình trạng đăng ký.\n\nWeb Development\nModern JavaScript Best Practices\n\n20/10/2026 · 09:00 – 10:00 · Room A\n\nMô tả\nDiễn giả\nTài liệu\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\nMục tiêu\n\nHiểu nội dung và áp dụng kiến thức vào dự án thực tế.\n\nĐăng ký phiên\n\n25 / 120 chỗ còn lại\n\nĐã có trong agenda\nXem My Agenda\nQuay lại Catalog",
+    "h1": "Chi tiết session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A3",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nLịch trình của tôi\n\nTimeline theo ngày. Kéo thả hoặc dùng nút lên/xuống để đổi thứ tự hiển thị; thời gian phiên không thay đổi.\n\nThêm session\nGợi ý AI\nIn / Xuất PDF\nSắp theo giờ\n20/10/2026\n\n09:00 – 10:00\n\nModern JavaScript Best Practices\n\nRoom A\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\n\n11:00 – 12:00\n\nBuilding AI-Powered Applications\n\nRoom B\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\nTổng quan lịch\nPhiên\n2\nGiờ phiên\n2\nNgày\n1\nXung đột\n0",
+    "h1": "Lịch trình của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A4",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nXử lý xung đột lịch\n\nAI mock đề xuất phiên thay thế; bạn kiểm soát việc áp dụng.\n\nKhông còn cặp xung đột hợp lệ. Hãy kiểm tra lại agenda.\nVề My Agenda",
+    "h1": "Xử lý xung đột lịch",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A5",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nGợi ý dành cho bạn\n\nAI mock theo sở thích và lịch hiện tại. Chỉ lưu sau khi bạn xác nhận.\n\nSession đề xuất\n\nBỏ chọn những phiên bạn không muốn lưu.\n\n AI in Product Development\n\n20/10/2026 · 13:30 – 14:30\n\nVì sao gợi ý này\n Future of Web Development\n\n20/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\n Designing for Impact\n\n22/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\nLưu các phiên đã chọn\nTạo lại\nBỏ qua",
+    "h1": "Gợi ý dành cho bạn",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A6",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nPhản hồi session\n\nĐánh giá các phiên đã kết thúc tại sự kiện bạn đã check-in.\n\nChọn session\nThực hành xây dựng sản phẩm web\nThực hành xây dựng sản phẩm web\nĐánh giá sao *\n★\n★\n★\n★\n★\n\nNhận xét * từ 10 đến 500 ký tự\n\n0/500\nGửi đánh giá\nĐánh giá của bạn\n\nBạn chưa đánh giá phiên này.",
+    "h1": "Phản hồi session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A7",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nVé của tôi\n\nVé và trạng thái check-in được cập nhật từ dữ liệu dùng chung.\n\nChọn vé\nEP26-001-A7K2\nEP25-DEMO-001\nEventPulse\nEventPulse Tech Conference 2026\n\nStandard\n\nNguyễn Minh Anh\n\nEP26-001-A7K2\n\n2026-10-20 – 2026-10-22 · Hanoi\n\nQR mô phỏng; dùng mã vé khi check-in.\n\nChưa check-in\n\nXác nhận check-in mock\nTải vé PNG\nPhản hồi các session đã tham dự",
+    "h1": "Vé của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP1",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / Hồ sơ diễn giả\n\nSP1 · SPEAKER PROFILE\n\nHồ sơ Diễn giả\n\nQuản lý thông tin công khai để người tham dự và ban tổ chức nhận diện đúng diễn giả.\n\nXem preview\nThông tin cơ bản\n\nThông tin hiển thị trên trang diễn giả.\n\nẢnh đại diện\n\nPNG, JPG hoặc WEBP · tối đa 5MB\n\nĐổi ảnh Xoá ảnh\nHọ và tên *\nTên hiển thị công khai\nChức danh\nVí dụ: Product Manager, CTO...\nĐơn vị / Công ty\nLĩnh vực chuyên môn\nPhân tách nhiều lĩnh vực bằng dấu phẩy\nTiểu sử *\n40/500\nMạng xã hội\n\nCác liên kết để người tham dự tìm hiểu thêm về diễn giả.\n\nLinkedIn\nWebsite\nFacebook\nX / Twitter\nHuỷ\nLưu hồ sơ\nXem trước\n\nHiển thị gần giống hồ sơ công khai.\n\nNguyễn Minh Anh\n\nProduct Engineer\n\nNova Labs\n\nAI\nProduct\nMachine Learning\n\nTập trung vào AI và phát triển sản phẩm.\n\nKiểm tra hồ sơ\n\n✓ Họ tên\n\n✓ Tiểu sử\n\n✓ Ảnh đại diện\n\n✓ Liên kết hợp lệ",
+    "h1": "Hồ sơ Diễn giả",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP2",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER\nSession của tôi\n\nTheo dõi các session đã đăng ký, đề xuất và trạng thái duyệt của bạn.\n\nĐề xuất session mới\nTất cả\n7\nChờ duyệt\n2\nĐã duyệt\n4\nTừ chối\n1\nTất cả trạng thái\nChờ duyệt\nĐã duyệt\nTừ chối\n↻ Làm mới\nĐã duyệt\nweb-development\nFuture of Web Development\n 10:00 20/10/2026 - 11:00\n Room A\n\nXu hướng xây dựng ứng dụng web hiện đại và cách chuẩn bị cho thế hệ trải nghiệm tiếp theo.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\ndata-analytics\nData Storytelling with Impact\n 11:00 21/10/2026 - 12:00\n Room B\n\nBiến dữ liệu thành câu chuyện dễ hiểu để hỗ trợ quyết định sản phẩm.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nai\nResponsible AI: From Ideas to Action\n 15:00 20/10/2026 - 16:00\n Room E\n\nCùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\nai\nBuilding AI-Powered Applications\n 11:00 20/10/2026 - 12:00\n Room B\n\nThiết kế ứng dụng có AI và cách đưa AI vào trải nghiệm sản phẩm.\n\nSession đã được ban tổ chức duyệt.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nweb-development\nModern JavaScript Best Practices\n 09:00 20/10/2026 - 10:00\n Room A\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nĐang chờ ban tổ chức xem xét.\nXem chi tiết\nChỉnh sửa\nTài liệu\nTừ chối\nproduct-design\nDesign Systems in Practice\n 15:00 21/10/2026 - 16:00\n Room D\n\nXây dựng design system dùng xuyên suốt sản phẩm và đội ngũ.\n\nCần bổ sung phạm vi nội dung và mục tiêu session.\nXem chi tiết\nSửa nhanh\nChỉnh sửa\nTài liệu\nĐã duyệt\nweb-development\nThực hành xây dựng sản phẩm web\n 09:00 20/10/2025 - 10:00\n Phòng cộng đồng 2025\n\nPhiên thực hành đã diễn ra, dùng để kiểm thử phản hồi của người tham dự.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu",
+    "h1": "Session của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP3",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION\nChi tiết phiên\n\nSES002 · Future of Web Development\n\n● Đã lưu\n← Quay lại\nNội dung session\n\nCập nhật thông tin chi tiết cho buổi nói chuyện.\n\n* Bắt buộc\nTên session *\nMô tả *\n90/1000\nMục tiêu buổi nói chuyện *\n53/700\nChủ đề *\nPhòng\nThời gian\n\nĐiều chỉnh thời lượng của session.\n\nBắt đầu *\nKết thúc *\nThời lượng: 1 giờ\nHuỷ thay đổi\nLưu thay đổi\nTrạng thái duyệt\nĐã duyệt\n\nChưa có ghi chú.\n\nPhiên đã duyệt: chỉ sửa mô tả và mục tiêu; phòng và giờ do Ban tổ chức quản lý.\n\nTimeline\n\nLịch sử trạng thái session.\n\nĐã duyệt\n08:00 01/10/2026",
+    "h1": "Chi tiết phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP4",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nChọn phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION MATERIALS\nTài liệu Session\n\nSES002 · Future of Web Development\n\n← Session của tôi\nKho tài liệu\n\nUpload slide hoặc tài liệu tham khảo cho người tham dự.\n\n0 tài liệu\n↑\nKéo thả file vào đây\n\nhoặc\n\nChọn file từ máy\nPDF, PPT/PPTX, DOC/DOCX, XLS/XLSX, ZIP, TXT, PNG, JPG · tối đa 20MB/file\nLink tham khảo\n\nThêm URL tài liệu / slide online (không upload file).\n\nThêm link\nDanh sách tài liệu\n\nNgười tham dự có thể xem tên và kích thước file.\n\n□\nChưa có tài liệu\n\nHãy upload slide hoặc tài liệu tham khảo đầu tiên cho session này.\n\nUpload tài liệu\nThông tin session\n\nFuture of Web Development\n\nSession ID\nSES002\nTrạng thái\nĐã duyệt\nSố tài liệu\n0\nLưu ý\nKiểm tra tên file trước khi upload.\nKhông upload thông tin nhạy cảm.\nFile lớn hơn 20MB sẽ bị từ chối.\nDemo hiện lưu metadata bằng LocalStorage.",
+    "h1": "Tài liệu Session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP5",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / AI / Dự báo Quan tâm Session\nAI-3 · INTEREST FORECAST\nDự báo quan tâm\n\nƯớc lượng mức độ quan tâm dựa trên lượt lưu và agenda.\n\n↻ Làm mới dự báo\nSession\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nCập nhật: 17:35:37 5/10/2026\nLượt lưu hiện tại\n0\nBookmarks / agenda mock\nDự báo tham dự\n122\nngười\nMức quan tâm\nĐang tăng\nTiếp tục theo dõi\nĐộ tin cậy\n58%\nDữ liệu mock\nDự báo theo thời gian\n\nXu hướng lượt quan tâm của session.\n\n0\nChưa có\nVì sao dự báo này?\n\nGiải thích ngắn gọn từ dữ liệu đầu vào.\n\nDữ liệu hiện tại\n128 lượt đăng ký và 0 lượt lưu lịch.\nĐộ tin cậy\nMẫu ít; AI chưa chắc chắn, cần kiểm tra thủ công.\nMô hình mô phỏng\nDự kiến = 95% lượt đăng ký + 2 lần lượt lưu. Không phải số người tham dự thực tế.\nLàm mới giải thích\nGhi chú diễn giả\nChấp nhận dự báo\nBỏ qua\nLưu ghi chú thủ công\n\nAI chưa chắc chắn về kết quả này. Kiểm tra số liệu trước khi chấp nhận.\n\nDữ liệu đầu vào\n\nsessions · agendas\n\nNgày\tLượt lưu\tAgenda\tDự báo\nChưa có\t0\t0\t122",
+    "h1": "Dự báo quan tâm",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP6",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhản hồi phiên\n\nĐánh giá từ người tham dự các phiên của bạn.\n\nPhiên của tôi\nChọn phiên\nTất cả phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\n— / 5 · 0 phản hồi\n5 sao · 0\n4 sao · 0\n3 sao · 0\n2 sao · 0\n1 sao · 0\nChưa có phản hồi cho các phiên đã chọn.",
+    "h1": "Phản hồi phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O1",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nTổng quan sự kiện\n\nTheo dõi chương trình và tình trạng vận hành của sự kiện.\n\nQuản lý phiên\n16\nTổng số phiên\n6\nPhòng hoạt động\n4\nXung đột lịch\n59%\nTỉ lệ lấp đầy trung bình\nTình trạng chương trình\nXem tất cả\nĐã công bố\n10\nChờ duyệt\n2\nTừ chối\n2\nHoàn thành\n2\nPhiên sắp diễn ra\n20–21 tháng 10\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Trần Đức Huy\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 10:00\nFuture of Web Development\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 11:00\nBuilding AI-Powered Applications\nRoom B · Lê Thu Trang\nCần bạn xử lý\n2 phiên chờ duyệt\n\nKiểm tra nội dung và phân công phòng trước khi duyệt.\n\nDuyệt phiên\n4 xung đột lịch\n\nCó các phiên được xếp cùng phòng trong khung giờ giao nhau.\n\nKiểm tra xung đột\n Điều phối chương trình\n\nKiểm tra lịch toàn sự kiện và xem đề xuất đổi phòng trước khi áp dụng.\n\nMở trợ lý xung đột\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Tổng quan sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O2",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nQuản lý phiên\n\nQuản lý lịch trình, diễn giả và trạng thái duyệt.\n\nKiểm tra xung đột\n16\nTổng số phiên\n10\nĐã xác nhận\n2\nChờ duyệt\n2\nĐã hoàn thành\nTất cả ngày\n19/10/2026\n20/10/2026\n21/10/2026\n19/10/2025\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nTất cả trạng thái\nChờ duyệt\nĐã công bố\nTừ chối\nHoàn thành\n0 đã chọn\nDuyệt đã chọn\nTừ chối đã chọn\n\tPhiên / Diễn giả\tNgày & giờ\tPhòng\tĐăng ký\tTrạng thái\t\n\t\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\t20/10/2025\n09:00 – 10:00\tPhòng cộng đồng 2025\t32 / 100\tHoàn thành\t\nXem\nDuyệt\n\n\t\nModern JavaScript Best Practices\nTrần Đức Huy\t20/10/2026\n09:00 – 10:00\tRoom A\t95 / 120\tĐã công bố\t\nXem\nDuyệt\n\n\t\nModern JavaScript Best Practices\nNguyễn Minh Anh\t20/10/2026\n09:00 – 10:00\tRoom A\t0 / 150\tChờ duyệt\t\nXem\nDuyệt\n\n\t\nFuture of Web Development\nNguyễn Minh Anh\t20/10/2026\n10:00 – 11:00\tRoom A\t128 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nBuilding AI-Powered Applications\nLê Thu Trang\t20/10/2026\n11:00 – 12:00\tRoom B\t142 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nBuilding AI-Powered Applications\nNguyễn Minh Anh\t20/10/2026\n11:00 – 12:00\tRoom B\t0 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nAI Strategy for Product Teams\nLê Thu Trang\t20/10/2026\n11:30 – 12:30\tRoom B\t76 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nAI in Product Development\nPhạm Quốc Bảo\t20/10/2026\n13:30 – 14:30\tRoom C\t84 / 120\tĐã công bố\t\nXem\nDuyệt\n\n\t\nDesign Systems in Practice\nPhạm Quốc Bảo\t20/10/2026\n15:00 – 16:00\tRoom C\t74 / 120\tĐã công bố\t\nXem\nDuyệt\n\n\t\nResponsible AI: From Ideas to Action\nNguyễn Minh Anh\t20/10/2026\n15:00 – 16:00\tRoom E\t110 / 200\tChờ duyệt\t\nXem\nDuyệt\n\n\t\nScaling Frontend Architecture\nTrần Đức Huy\t21/10/2026\n09:00 – 10:00\tRoom A\t62 / 150\tHoàn thành\t\nXem\nDuyệt\n\n\t\nSecurity in a DevOps World\nTrần Đức Huy\t21/10/2026\n09:30 – 10:30\tRoom D\t61 / 100\tĐã công bố\t\nXem\nDuyệt\n\n\t\nData Storytelling with Impact\nNguyễn Minh Anh\t21/10/2026\n11:00 – 12:00\tRoom B\t150 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nProduct Discovery Workshop\nLê Thu T",
+    "h1": "Quản lý phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O3",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nChi tiết duyệt phiên\n\nKiểm tra nội dung, gán phòng và khung giờ cho phiên.\n\nDanh sách phiên\nChi tiết phiên\nChờ duyệt\nModern JavaScript Best Practices\nWeb Development\nDiễn giả\nNguyễn Minh Anh\nNgày\n20/10/2026\nThời gian\n09:00 – 10:00\nPhòng\nRoom A\nSức chứa\n150 người\nĐã đăng ký\n0 người\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nGán phòng / Duyệt\nPhát hiện trùng phòng\n\nHãy chọn phòng/giờ khác hoặc mở trợ lý xung đột.\n\nXem phương án AI\nPhân công phòng & thời gian\nPhòng *\nChọn…\nRoom A · 150 chỗ\nRoom B · 150 chỗ\nRoom C · 120 chỗ\nRoom D · 100 chỗ\nRoom E · 200 chỗ\nRoom F · 120 chỗ\nBắt đầu *\nKết thúc *\nSức chứa *\n\nKhả dụng được kiểm tra lại trước khi lưu. Khung giờ phải nằm trong ngày diễn ra sự kiện.\n\nLưu & duyệt phiên\nLưu phân công\nTừ chối\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Chi tiết duyệt phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O4",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nQuản lý phòng\n\nQuản lý phòng, sức chứa và thiết bị đi kèm.\n\nThêm phòng\n7\nTổng số phòng\n6\nĐang hoạt động\n5\nCó lịch sử dụng\n840\nTổng sức chứa\nTất cả trạng thái\nCòn trống\nĐang sử dụng\nBảo trì\nNgừng sử dụng\nRoom A\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom B\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom C\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom D\n\nTầng 3 · 100 người\n\nCòn trống\nprojector\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom E\n\nTầng 3 · 200 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom F\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nPhòng cộng đồng 2025\n\nHà Nội · 100 người\n\nNgừng sử dụng\nXem lịch\nChỉnh sửa\nRoom A · Lịch sử dụng\n\nTầng 2 · 150 chỗ\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 10:00–11:00\nFuture of Web Development\n22/10/2026 · 10:00–11:00\nDesigning for Impact\nQuản lý cơ sở vật chất\n\nChọn phòng để xem lịch sử dụng hoặc chỉnh sửa thông tin.\n\nThêm phòng\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý phòng",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O5",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nPhát hiện xung đột\n\nKiểm tra lịch trình và xử lý các phiên trùng phòng, trùng giờ.\n\nQuét toàn bộ lịch\nAI Conflict Resolver\n\nĐề xuất dựa trên lịch phòng và sức chứa hiện tại. Chỉ thay đổi lịch khi bạn xác nhận.\n\n Xung đột 1 · Room A\nCần xử lý\nModern JavaScript Best Practices\n\nTrần Đức Huy\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n\nNguyễn Minh Anh\n\n20/10/2026 · 09:00–10:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 2 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nPhân tích phương án\nChỉnh thủ công\n Xung đột 3 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 4 · Room B\nCần xử lý\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Phát hiện xung đột",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O6",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nCảnh báo sự kiện\n\nThông báo thay đổi đến đúng người, đúng thời điểm.\n\nTạo cảnh báo\n2\nTổng cảnh báo\n1\nĐã gửi\n0\nĐã lên lịch\n1\nBản nháp\nTất cả trạng thái\nĐã công bố\nĐã lên lịch\nBản nháp\nĐã lưu trữ\nChào mừng đến với EventPulse 2026\n\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\n\nĐã công bố\nThông tin\n20/09/2026 · 08:30\nXem\nSửa\nThu hồi\nNhắc lịch sự kiện ngày 2\n\nNgày thứ hai tại EventPulse bắt đầu lúc 09:00.\n\nBản nháp\nThông tin\n21/09/2026 · 08:30\nXem\nSửa\nXóa\nChi tiết cảnh báo\nChào mừng đến với EventPulse 2026\nĐã công bố\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\nĐối tượng\nall\nĐã gửi đến\n9 người\nThời gian\n20/09/2026\nChỉnh sửa\nThông báo kịp thời\n\nChọn vai trò hoặc nhóm người liên quan đến một phiên.\n\nSoạn cảnh báo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Cảnh báo sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD1",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý loại vé\n\nQuản lý loại vé, số lượng và trạng thái bán.\n\nTạo loại vé\n2\nLoại vé\n600\nTổng số vé\n321\nĐã bán\n279\nCòn lại\nTất cả trạng thái\nBản nháp\nĐang hoạt động\nĐã bán hết\nNgừng bán\nĐã lưu trữ\nLoại vé\tGiá vé\tĐã bán / Tổng\tTrạng thái\t\n\nStandard\n\t200.000 ₫\t\n320 / 500\n\tĐang hoạt động\t\nXem\nSửa\n\n\nCommunity 2025\n\t0 ₫\t\n1 / 100\n\tĐã lưu trữ\t\nXem\nSửa\nChi tiết loại vé\nStandard\nĐang hoạt động\nGiá vé\n200.000 ₫\nSố lượng\n500\nĐã bán\n320\nCòn lại\n180\nBắt đầu bán\n01/09/2026\nKết thúc\n19/10/2026\nDoanh thu\n64.000.000 ₫\nChỉnh sửa\nNgừng bán\nLưu trữ\nĐón người tham dự\n\nTra cứu mã vé và xác nhận check-in tại sự kiện.\n\nQuản lý check-in\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý loại vé",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD2",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý người dùng\n\nQuản lý tài khoản và quyền truy cập sự kiện.\n\nThêm người dùng\n12\nTổng người dùng\n12\nĐang hoạt động\n5\nDiễn giả\n2\nQuản trị viên\nTất cả vai trò\nNgười tham dự\nDiễn giả\nBan tổ chức\nQuản trị viên\nTất cả trạng thái\nĐang hoạt động\nChờ duyệt\nĐã khóa\nNgừng sử dụng\n0 đã chọn\nKhóa đã chọn\n\tNgười dùng\tVai trò\tTrạng thái\t\n\t\nMA\nNguyễn Minh Anh\nminhanh@example.com\n\tNgười tham dự\tĐang hoạt động\t\nXem\nSửa\n\n\t\nĐH\nTrần Đức Huy\nhuy@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nMA\nNguyễn Minh Anh\nanh@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nTT\nLê Thu Trang\ntrang@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nQB\nPhạm Quốc Bảo\nbao@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nKL\nVũ Khánh Linh\nuser5@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nVA\nNguyễn Văn An\nuser6@example.com\n\tNgười tham dự\tĐang hoạt động\t\nXem\nSửa\n\n\t\nHN\nLê Hoàng Nam\nuser7@example.com\n\tNgười tham dự\tĐang hoạt động\t\nXem\nSửa\n\n\t\nTH\nPhạm Thu Hà\nuser8@example.com\n\tBan tổ chức\tĐang hoạt động\t\nXem\nSửa\n\n\t\nMT\nTrần Minh Tú\nuser9@example.com\n\tQuản trị viên\tĐang hoạt động\t\nXem\nSửa\n\n\t\ncd\nBan tổ chức demo\norganizer@eventpulse.test\n\tBan tổ chức\tĐang hoạt động\t\nXem\nSửa\n\n\t\nvd\nQuản trị viên demo\nadmin@eventpulse.test\n\tQuản trị viên\tĐang hoạt động\t\nXem\nSửa\nChi tiết người dùng\nMA\nNguyễn Minh Anh\nminhanh@example.com\nVai trò\nNgười tham dự\nĐiện thoại\n0900000001\nTham gia\n01/09/2026\nTrạng thái\nĐang hoạt động\nChỉnh sửa\nKhóa tài khoản\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý người dùng",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD3",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nPhân tích sự kiện\n\nTheo dõi hiệu quả sự kiện từ dữ liệu hiện có.\n\nXuất báo cáo\n3\nNgười tham dự đăng ký\n321\nTổng vé đã bán\n50%\nCheck-in / vé hợp lệ mẫu\n16\nTổng số phiên\nTừ ngày\nĐến ngày\nTất cả chủ đề\nweb-development\nai\nproduct-design\ncybersecurity\ndata-analytics\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nXóa bộ lọc\nVé đăng ký theo ngày\n\nSố liệu từ vé cá nhân mẫu, không phải tổng vé phát hành.\n\n09-20\n09-15\n1\n0\nPhân bổ loại vé\n\nTổng vé đã bán của toàn sự kiện.\n\n321\nStandard\nCommunity 2025\nHiệu suất phiên\nDữ liệu hiện tại\nPhiên\tĐăng ký\tLưu lịch\tSức chứa\tTỉ lệ\n\nModern JavaScript Best Practices\nweb-development\t95\t1\t120\t79%\n\nFuture of Web Development\nweb-development\t128\t0\t150\t85%\n\nBuilding AI-Powered Applications\nai\t142\t1\t150\t95%\n\nAI in Product Development\nai\t84\t0\t120\t70%\n\nDesign Systems in Practice\nproduct-design\t74\t0\t120\t62%\n\nSecurity in a DevOps World\ncybersecurity\t61\t0\t100\t61%\n\nData Storytelling with Impact\ndata-analytics\t150\t0\t150\t100%\n\nDesigning for Impact\nproduct-design\t67\t0\t120\t56%\n\nAI Strategy for Product Teams\nai\t76\t0\t150\t51%\n\nResponsible AI: From Ideas to Action\nai\t110\t0\t200\t55%\n\nScaling Frontend Architecture\nweb-development\t62\t0\t150\t41%\n\nProduct Discovery Workshop\nproduct-design\t46\t0\t100\t46%\n\nBuilding AI-Powered Applications\nai\t0\t0\t150\t0%\n\nModern JavaScript Best Practices\nweb-development\t0\t0\t150\t0%\n\nDesign Systems in Practice\nproduct-design\t0\t0\t100\t0%\n\nThực hành xây dựng sản phẩm web\nweb-development\t32\t0\t100\t32%\nChủ đề được quan tâm\nweb-development\n317\nai\n412\nproduct-design\n187\ncybersecurity\n61\ndata-analytics\n150\n AI Interest Forecast\n\nDự báo mức độ quan tâm và nguy cơ quá tải.\n\nChọn phiên\nModern JavaScript Best Practices\nFuture of Web Development\nBuilding AI-Powered Applications\nAI in Product Development\nDesign Systems in Practice\nSecurity in a DevOps World\nData Storytelling with Impact\nDesigning for Impact\nAI Strategy for Product Teams\nResponsible A",
+    "h1": "Phân tích sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD4",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý check-in\n\nTra cứu vé và xác nhận người tham dự.\n\nQuản lý loại vé\n2\nVé cá nhân mẫu\n1\nĐã check-in\n1\nChưa check-in\n0\nKhông hợp lệ\nTra cứu vé\nQuét mã (mock)\n\nNhập mã vé để kiểm tra. Mã mẫu: EP26-001-A7K2\n\nLịch sử check-in\nNgười tham dự\tMã vé\tThời gian\n\nNguyễn Minh Anh\n\tEP25-DEMO-001\t20/10/2025 · 08:30\nThông tin vé\nChưa chọn vé\n\nChọn một kết quả tra cứu để kiểm tra.\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý check-in",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S1",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n19/10/2026 – 21/10/2026 · Hanoi\nKết nối ý tưởng.\nTạo nên tương lai.\n\nSự kiện công nghệ nhiều phiên về Web, AI, Product và Data.\n\nMở bảng điều khiển\nĐăng ký tham dự\nTrải nghiệm bản demo\n19/10/2026 – 21/10/2026\nHanoi\n16 phiên chia sẻ\nKHÁM PHÁ CHƯƠNG TRÌNH\nPhiên nổi bật\nweb-development\nModern JavaScript Best Practices\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\n 09:00 – 10:00\nRoom A\n\nTrần Đức Huy\nDiễn giả · EventPulse 2026\n\n01\n\n1 / 10 phiên nổi bật\n\nSẵn sàng cho EventPulse?\n\nTruy cập tài khoản để nhận thông báo và theo dõi sự kiện.\n\nTrải nghiệm bản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Kết nối ý tưởng.Tạo nên tương lai.",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S2",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐăng nhập\n\nChào mừng bạn đến với EventPulse.\n\nEmail *\nMật khẩu *\nHiện\nĐăng nhập\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Đăng nhập",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S3",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nTạo tài khoản\n\nChào mừng bạn đến với EventPulse.\n\nHọ và tên *\nEmail *\nMật khẩu *\nHiện\nĐộ mạnh mật khẩu\nÍt nhất 8 ký tự.\nXác nhận mật khẩu *\nHiện\nVai trò\nNgười tham dự\nDiễn giả\nTạo tài khoản\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Tạo tài khoản",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S4",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nQuên mật khẩu\n\nNhận liên kết đặt lại mật khẩu qua email giả lập.\n\nEmail *\nGửi liên kết đặt lại\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Quên mật khẩu",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S5",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nHồ sơ cá nhân\n\nCập nhật thông tin và sở thích của bạn.\n\nẢnh đại diện PNG JPG WEBP tối đa 1 MB\nXóa ảnh\nHọ và tên *\nEmail *\nSố điện thoại\nSở thích cách nhau bằng dấu phẩy\nGiới thiệu\nLưu thay đổi\nHủy thay đổi",
+    "h1": "Hồ sơ cá nhân",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S6",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nDùng chung / Cài đặt\nACCOUNT SETTINGS\nCài đặt\n\nTùy chỉnh tài khoản và trải nghiệm sử dụng EventPulse.\n\n✓ Đã tự động lưu\nTài khoản\nGiao diện\nTùy chọn\nBảo mật\nTài khoản\n\nThông tin cơ bản của tài khoản đang đăng nhập.\n\nMA\nNguyễn Minh Anh\nNgười tham dự\nHọ và tên\nEmail\nGiao diện\n\nChọn ngôn ngữ và chế độ hiển thị.\n\nNgôn ngữ\nNgôn ngữ hiển thị của ứng dụng\nTiếng Việt\nEnglish\nChế độ tối/sáng\nThay đổi giao diện theo sở thích\nSáng\nTối\nTùy chọn\n\nCác hành vi được tự động lưu khi bạn thay đổi.\n\nTự động lưu\nLưu thay đổi ngay sau khi bạn bật/tắt tùy chọn.\nNhắc lịch session\nHiển thị nhắc nhở trước session đã thêm vào agenda.\nBảo mật\n\nĐổi mật khẩu tài khoản.\n\nMật khẩu hiện tại\nMật khẩu mới\nXác nhận mật khẩu\nĐổi mật khẩu",
+    "h1": "Cài đặt",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S7",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\nThông báo\n\nCập nhật mới nhất dành cho bạn.\n\nĐánh dấu tất cả đã đọc\nTất cả loại thông báo\nThông tin chung\nThay đổi lịch\nVé\nPhản hồi\nNhắc lịch\nHệ thống\nTất cả trạng thái\nChưa đọc\n1 chưa đọc\nChào mừng đến EventPulse\n\nBạn có thể khám phá session và xây dựng agenda cá nhân.\n\n01/10/2026 · 08:00\nĐánh dấu đã đọc\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Thông báo",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S8",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n\n403\n\nBạn chưa có quyền truy cập\n\nTrang này dành cho vai trò khác. Bạn đang dùng tài khoản Người tham dự.\n\nTự chuyển về trang phù hợp sau 8 giây.\n\nVề trang phù hợp\nChọn tài khoản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Bạn chưa có quyền truy cập",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S9",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n\n404\n\nKhông tìm thấy trang\n\nĐường dẫn có thể đã thay đổi hoặc không tồn tại. Bạn có thể quay lại và tiếp tục khám phá EventPulse.\n\nQuay lại\nVề trang chủ\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Không tìm thấy trang",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A1",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nKhám phá các phiên sự kiện\n\nTìm theo diễn giả, chủ đề, giờ và phòng.\n\nChọn phiên phù hợp với bạn\n\nXây dựng lịch cá nhân và nhận gợi ý theo sở thích.\n\nGợi ý cho bạn\nVé của tôi\nĐánh giá phiên\nTìm kiếm\nChủ đề\nTất cả\nWeb Development\nAI & Machine Learning\nProduct & Design\nCybersecurity\nData & Analytics\nNgày\nTất cả\n2025-10-20\n2026-10-20\n2026-10-21\n2026-10-22\nKhung giờ\nTất cả\nSáng trước 12 giờ\nChiều từ 12 đến 18 giờ\nTối từ 18 giờ\nPhòng\nTất cả\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nSắp xếp\nThời gian\nTên A–Z\nChỗ còn lại\nXóa bộ lọc\nDạng danh sách\n\n12 phiên\n\nCòn 68 chỗ\n◈\nWeb Development\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\n20/10/2025 · 09:00 – 10:00\nPhòng cộng đồng 2025\nChi tiết\nKhông thể đăng ký\nCòn 25 chỗ\n◈\nWeb Development\nModern JavaScript Best Practices\nTrần Đức Huy\n20/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nĐã lưu\nCòn 22 chỗ\n◈\nWeb Development\nFuture of Web Development\nNguyễn Minh Anh\n20/10/2026 · 10:00 – 11:00\nRoom A\nChi tiết\nThêm vào agenda\nCòn 8 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nLê Thu Trang\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nĐã lưu\nCòn 150 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nNguyễn Minh Anh\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nThêm vào agenda\nCòn 74 chỗ\n◈\nAI & Machine Learning\nAI Strategy for Product Teams\nLê Thu Trang\n20/10/2026 · 11:30 – 12:30\nRoom B\nChi tiết\nThêm vào agenda\nCòn 36 chỗ\n◈\nAI & Machine Learning\nAI in Product Development\nPhạm Quốc Bảo\n20/10/2026 · 13:30 – 14:30\nRoom C\nChi tiết\nThêm vào agenda\nCòn 46 chỗ\n◈\nProduct & Design\nDesign Systems in Practice\nPhạm Quốc Bảo\n20/10/2026 · 15:00 – 16:00\nRoom C\nChi tiết\nThêm vào agenda\nCòn 88 chỗ\n◈\nWeb Development\nScaling Frontend Architecture\nTrần Đức Huy\n21/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nKhông thể đăng ký\nCòn 39 chỗ\n◈\nCybersecurity\nSecurity in a DevOps World\nTrần Đức Huy\n21/10/2026 · 09:30 – 10:30\nRoom D\nChi tiết\nThêm vào agenda\nHết chỗ\n◈\nData & ",
+    "h1": "Khám phá các phiên sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A2",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nChi tiết session\n\nThông tin phiên và tình trạng đăng ký.\n\nWeb Development\nModern JavaScript Best Practices\n\n20/10/2026 · 09:00 – 10:00 · Room A\n\nMô tả\nDiễn giả\nTài liệu\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\nMục tiêu\n\nHiểu nội dung và áp dụng kiến thức vào dự án thực tế.\n\nĐăng ký phiên\n\n25 / 120 chỗ còn lại\n\nĐã có trong agenda\nXem My Agenda\nQuay lại Catalog",
+    "h1": "Chi tiết session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A3",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nLịch trình của tôi\n\nTimeline theo ngày. Kéo thả hoặc dùng nút lên/xuống để đổi thứ tự hiển thị; thời gian phiên không thay đổi.\n\nThêm session\nGợi ý AI\nIn / Xuất PDF\nSắp theo giờ\n20/10/2026\n\n09:00 – 10:00\n\nModern JavaScript Best Practices\n\nRoom A\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\n\n11:00 – 12:00\n\nBuilding AI-Powered Applications\n\nRoom B\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\nTổng quan lịch\nPhiên\n2\nGiờ phiên\n2\nNgày\n1\nXung đột\n0",
+    "h1": "Lịch trình của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A4",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nXử lý xung đột lịch\n\nAI mock đề xuất phiên thay thế; bạn kiểm soát việc áp dụng.\n\nKhông còn cặp xung đột hợp lệ. Hãy kiểm tra lại agenda.\nVề My Agenda",
+    "h1": "Xử lý xung đột lịch",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A5",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nGợi ý dành cho bạn\n\nAI mock theo sở thích và lịch hiện tại. Chỉ lưu sau khi bạn xác nhận.\n\nSession đề xuất\n\nBỏ chọn những phiên bạn không muốn lưu.\n\n AI in Product Development\n\n20/10/2026 · 13:30 – 14:30\n\nVì sao gợi ý này\n Future of Web Development\n\n20/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\n Designing for Impact\n\n22/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\nLưu các phiên đã chọn\nTạo lại\nBỏ qua",
+    "h1": "Gợi ý dành cho bạn",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A6",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nPhản hồi session\n\nĐánh giá các phiên đã kết thúc tại sự kiện bạn đã check-in.\n\nChọn session\nThực hành xây dựng sản phẩm web\nThực hành xây dựng sản phẩm web\nĐánh giá sao *\n★\n★\n★\n★\n★\n\nNhận xét * từ 10 đến 500 ký tự\n\n0/500\nGửi đánh giá\nĐánh giá của bạn\n\nBạn chưa đánh giá phiên này.",
+    "h1": "Phản hồi session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A7",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nVé của tôi\n\nVé và trạng thái check-in được cập nhật từ dữ liệu dùng chung.\n\nChọn vé\nEP26-001-A7K2\nEP25-DEMO-001\nEventPulse\nEventPulse Tech Conference 2026\n\nStandard\n\nNguyễn Minh Anh\n\nEP26-001-A7K2\n\n2026-10-20 – 2026-10-22 · Hanoi\n\nQR mô phỏng; dùng mã vé khi check-in.\n\nChưa check-in\n\nXác nhận check-in mock\nTải vé PNG\nPhản hồi các session đã tham dự",
+    "h1": "Vé của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP1",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / Hồ sơ diễn giả\n\nSP1 · SPEAKER PROFILE\n\nHồ sơ Diễn giả\n\nQuản lý thông tin công khai để người tham dự và ban tổ chức nhận diện đúng diễn giả.\n\nXem preview\nThông tin cơ bản\n\nThông tin hiển thị trên trang diễn giả.\n\nẢnh đại diện\n\nPNG, JPG hoặc WEBP · tối đa 5MB\n\nĐổi ảnh Xoá ảnh\nHọ và tên *\nTên hiển thị công khai\nChức danh\nVí dụ: Product Manager, CTO...\nĐơn vị / Công ty\nLĩnh vực chuyên môn\nPhân tách nhiều lĩnh vực bằng dấu phẩy\nTiểu sử *\n40/500\nMạng xã hội\n\nCác liên kết để người tham dự tìm hiểu thêm về diễn giả.\n\nLinkedIn\nWebsite\nFacebook\nX / Twitter\nHuỷ\nLưu hồ sơ\nXem trước\n\nHiển thị gần giống hồ sơ công khai.\n\nNguyễn Minh Anh\n\nProduct Engineer\n\nNova Labs\n\nAI\nProduct\nMachine Learning\n\nTập trung vào AI và phát triển sản phẩm.\n\nKiểm tra hồ sơ\n\n✓ Họ tên\n\n✓ Tiểu sử\n\n✓ Ảnh đại diện\n\n✓ Liên kết hợp lệ",
+    "h1": "Hồ sơ Diễn giả",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP2",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER\nSession của tôi\n\nTheo dõi các session đã đăng ký, đề xuất và trạng thái duyệt của bạn.\n\nĐề xuất session mới\nTất cả\n7\nChờ duyệt\n2\nĐã duyệt\n4\nTừ chối\n1\nTất cả trạng thái\nChờ duyệt\nĐã duyệt\nTừ chối\n↻ Làm mới\nĐã duyệt\nweb-development\nFuture of Web Development\n 10:00 20/10/2026 - 11:00\n Room A\n\nXu hướng xây dựng ứng dụng web hiện đại và cách chuẩn bị cho thế hệ trải nghiệm tiếp theo.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\ndata-analytics\nData Storytelling with Impact\n 11:00 21/10/2026 - 12:00\n Room B\n\nBiến dữ liệu thành câu chuyện dễ hiểu để hỗ trợ quyết định sản phẩm.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nai\nResponsible AI: From Ideas to Action\n 15:00 20/10/2026 - 16:00\n Room E\n\nCùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\nai\nBuilding AI-Powered Applications\n 11:00 20/10/2026 - 12:00\n Room B\n\nThiết kế ứng dụng có AI và cách đưa AI vào trải nghiệm sản phẩm.\n\nSession đã được ban tổ chức duyệt.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nweb-development\nModern JavaScript Best Practices\n 09:00 20/10/2026 - 10:00\n Room A\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nĐang chờ ban tổ chức xem xét.\nXem chi tiết\nChỉnh sửa\nTài liệu\nTừ chối\nproduct-design\nDesign Systems in Practice\n 15:00 21/10/2026 - 16:00\n Room D\n\nXây dựng design system dùng xuyên suốt sản phẩm và đội ngũ.\n\nCần bổ sung phạm vi nội dung và mục tiêu session.\nXem chi tiết\nSửa nhanh\nChỉnh sửa\nTài liệu\nĐã duyệt\nweb-development\nThực hành xây dựng sản phẩm web\n 09:00 20/10/2025 - 10:00\n Phòng cộng đồng 2025\n\nPhiên thực hành đã diễn ra, dùng để kiểm thử phản hồi của người tham dự.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu",
+    "h1": "Session của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP3",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION\nChi tiết phiên\n\nSES002 · Future of Web Development\n\n● Đã lưu\n← Quay lại\nNội dung session\n\nCập nhật thông tin chi tiết cho buổi nói chuyện.\n\n* Bắt buộc\nTên session *\nMô tả *\n90/1000\nMục tiêu buổi nói chuyện *\n53/700\nChủ đề *\nPhòng\nThời gian\n\nĐiều chỉnh thời lượng của session.\n\nBắt đầu *\nKết thúc *\nThời lượng: 1 giờ\nHuỷ thay đổi\nLưu thay đổi\nTrạng thái duyệt\nĐã duyệt\n\nChưa có ghi chú.\n\nPhiên đã duyệt: chỉ sửa mô tả và mục tiêu; phòng và giờ do Ban tổ chức quản lý.\n\nTimeline\n\nLịch sử trạng thái session.\n\nĐã duyệt\n08:00 01/10/2026",
+    "h1": "Chi tiết phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP4",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nChọn phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION MATERIALS\nTài liệu Session\n\nSES002 · Future of Web Development\n\n← Session của tôi\nKho tài liệu\n\nUpload slide hoặc tài liệu tham khảo cho người tham dự.\n\n0 tài liệu\n↑\nKéo thả file vào đây\n\nhoặc\n\nChọn file từ máy\nPDF, PPT/PPTX, DOC/DOCX, XLS/XLSX, ZIP, TXT, PNG, JPG · tối đa 20MB/file\nLink tham khảo\n\nThêm URL tài liệu / slide online (không upload file).\n\nThêm link\nDanh sách tài liệu\n\nNgười tham dự có thể xem tên và kích thước file.\n\n□\nChưa có tài liệu\n\nHãy upload slide hoặc tài liệu tham khảo đầu tiên cho session này.\n\nUpload tài liệu\nThông tin session\n\nFuture of Web Development\n\nSession ID\nSES002\nTrạng thái\nĐã duyệt\nSố tài liệu\n0\nLưu ý\nKiểm tra tên file trước khi upload.\nKhông upload thông tin nhạy cảm.\nFile lớn hơn 20MB sẽ bị từ chối.\nDemo hiện lưu metadata bằng LocalStorage.",
+    "h1": "Tài liệu Session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP5",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / AI / Dự báo Quan tâm Session\nAI-3 · INTEREST FORECAST\nDự báo quan tâm\n\nƯớc lượng mức độ quan tâm dựa trên lượt lưu và agenda.\n\n↻ Làm mới dự báo\nSession\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nCập nhật: 17:36:10 5/10/2026\nLượt lưu hiện tại\n0\nBookmarks / agenda mock\nDự báo tham dự\n122\nngười\nMức quan tâm\nĐang tăng\nTiếp tục theo dõi\nĐộ tin cậy\n58%\nDữ liệu mock\nDự báo theo thời gian\n\nXu hướng lượt quan tâm của session.\n\n0\nChưa có\nVì sao dự báo này?\n\nGiải thích ngắn gọn từ dữ liệu đầu vào.\n\nDữ liệu hiện tại\n128 lượt đăng ký và 0 lượt lưu lịch.\nĐộ tin cậy\nMẫu ít; AI chưa chắc chắn, cần kiểm tra thủ công.\nMô hình mô phỏng\nDự kiến = 95% lượt đăng ký + 2 lần lượt lưu. Không phải số người tham dự thực tế.\nLàm mới giải thích\nGhi chú diễn giả\nChấp nhận dự báo\nBỏ qua\nLưu ghi chú thủ công\n\nAI chưa chắc chắn về kết quả này. Kiểm tra số liệu trước khi chấp nhận.\n\nDữ liệu đầu vào\n\nsessions · agendas\n\nNgày\tLượt lưu\tAgenda\tDự báo\nChưa có\t0\t0\t122",
+    "h1": "Dự báo quan tâm",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP6",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhản hồi phiên\n\nĐánh giá từ người tham dự các phiên của bạn.\n\nPhiên của tôi\nChọn phiên\nTất cả phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\n— / 5 · 0 phản hồi\n5 sao · 0\n4 sao · 0\n3 sao · 0\n2 sao · 0\n1 sao · 0\nChưa có phản hồi cho các phiên đã chọn.",
+    "h1": "Phản hồi phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O1",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nTổng quan sự kiện\n\nTheo dõi chương trình và tình trạng vận hành của sự kiện.\n\nQuản lý phiên\n16\nTổng số phiên\n6\nPhòng hoạt động\n4\nXung đột lịch\n59%\nTỉ lệ lấp đầy trung bình\nTình trạng chương trình\nXem tất cả\nĐã công bố\n10\nChờ duyệt\n2\nTừ chối\n2\nHoàn thành\n2\nPhiên sắp diễn ra\n20–21 tháng 10\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Trần Đức Huy\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 10:00\nFuture of Web Development\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 11:00\nBuilding AI-Powered Applications\nRoom B · Lê Thu Trang\nCần bạn xử lý\n2 phiên chờ duyệt\n\nKiểm tra nội dung và phân công phòng trước khi duyệt.\n\nDuyệt phiên\n4 xung đột lịch\n\nCó các phiên được xếp cùng phòng trong khung giờ giao nhau.\n\nKiểm tra xung đột\n Điều phối chương trình\n\nKiểm tra lịch toàn sự kiện và xem đề xuất đổi phòng trước khi áp dụng.\n\nMở trợ lý xung đột\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Tổng quan sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O2",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nQuản lý phiên\n\nQuản lý lịch trình, diễn giả và trạng thái duyệt.\n\nKiểm tra xung đột\n16\nTổng số phiên\n10\nĐã xác nhận\n2\nChờ duyệt\n2\nĐã hoàn thành\nTất cả ngày\n19/10/2026\n20/10/2026\n21/10/2026\n19/10/2025\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nTất cả trạng thái\nChờ duyệt\nĐã công bố\nTừ chối\nHoàn thành\n0 đã chọn\nDuyệt đã chọn\nTừ chối đã chọn\n\tPhiên / Diễn giả\tNgày & giờ\tPhòng\tĐăng ký\tTrạng thái\t\n\t\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\t20/10/2025\n09:00 – 10:00\tPhòng cộng đồng 2025\t32 / 100\tHoàn thành\t\nXem\nDuyệt\n\n\t\nModern JavaScript Best Practices\nTrần Đức Huy\t20/10/2026\n09:00 – 10:00\tRoom A\t95 / 120\tĐã công bố\t\nXem\nDuyệt\n\n\t\nModern JavaScript Best Practices\nNguyễn Minh Anh\t20/10/2026\n09:00 – 10:00\tRoom A\t0 / 150\tChờ duyệt\t\nXem\nDuyệt\n\n\t\nFuture of Web Development\nNguyễn Minh Anh\t20/10/2026\n10:00 – 11:00\tRoom A\t128 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nBuilding AI-Powered Applications\nLê Thu Trang\t20/10/2026\n11:00 – 12:00\tRoom B\t142 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nBuilding AI-Powered Applications\nNguyễn Minh Anh\t20/10/2026\n11:00 – 12:00\tRoom B\t0 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nAI Strategy for Product Teams\nLê Thu Trang\t20/10/2026\n11:30 – 12:30\tRoom B\t76 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nAI in Product Development\nPhạm Quốc Bảo\t20/10/2026\n13:30 – 14:30\tRoom C\t84 / 120\tĐã công bố\t\nXem\nDuyệt\n\n\t\nDesign Systems in Practice\nPhạm Quốc Bảo\t20/10/2026\n15:00 – 16:00\tRoom C\t74 / 120\tĐã công bố\t\nXem\nDuyệt\n\n\t\nResponsible AI: From Ideas to Action\nNguyễn Minh Anh\t20/10/2026\n15:00 – 16:00\tRoom E\t110 / 200\tChờ duyệt\t\nXem\nDuyệt\n\n\t\nScaling Frontend Architecture\nTrần Đức Huy\t21/10/2026\n09:00 – 10:00\tRoom A\t62 / 150\tHoàn thành\t\nXem\nDuyệt\n\n\t\nSecurity in a DevOps World\nTrần Đức Huy\t21/10/2026\n09:30 – 10:30\tRoom D\t61 / 100\tĐã công bố\t\nXem\nDuyệt\n\n\t\nData Storytelling with Impact\nNguyễn Minh Anh\t21/10/2026\n11:00 – 12:00\tRoom B\t150 / 150\tĐã công bố\t\nXem\nDuyệt\n\n\t\nProduct Discovery Workshop\nLê Thu T",
+    "h1": "Quản lý phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O3",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nChi tiết duyệt phiên\n\nKiểm tra nội dung, gán phòng và khung giờ cho phiên.\n\nDanh sách phiên\nChi tiết phiên\nChờ duyệt\nModern JavaScript Best Practices\nWeb Development\nDiễn giả\nNguyễn Minh Anh\nNgày\n20/10/2026\nThời gian\n09:00 – 10:00\nPhòng\nRoom A\nSức chứa\n150 người\nĐã đăng ký\n0 người\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nGán phòng / Duyệt\nPhát hiện trùng phòng\n\nHãy chọn phòng/giờ khác hoặc mở trợ lý xung đột.\n\nXem phương án AI\nPhân công phòng & thời gian\nPhòng *\nChọn…\nRoom A · 150 chỗ\nRoom B · 150 chỗ\nRoom C · 120 chỗ\nRoom D · 100 chỗ\nRoom E · 200 chỗ\nRoom F · 120 chỗ\nBắt đầu *\nKết thúc *\nSức chứa *\n\nKhả dụng được kiểm tra lại trước khi lưu. Khung giờ phải nằm trong ngày diễn ra sự kiện.\n\nLưu & duyệt phiên\nLưu phân công\nTừ chối\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Chi tiết duyệt phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O4",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nQuản lý phòng\n\nQuản lý phòng, sức chứa và thiết bị đi kèm.\n\nThêm phòng\n7\nTổng số phòng\n6\nĐang hoạt động\n5\nCó lịch sử dụng\n840\nTổng sức chứa\nTất cả trạng thái\nCòn trống\nĐang sử dụng\nBảo trì\nNgừng sử dụng\nRoom A\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom B\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom C\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom D\n\nTầng 3 · 100 người\n\nCòn trống\nprojector\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom E\n\nTầng 3 · 200 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom F\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nPhòng cộng đồng 2025\n\nHà Nội · 100 người\n\nNgừng sử dụng\nXem lịch\nChỉnh sửa\nRoom A · Lịch sử dụng\n\nTầng 2 · 150 chỗ\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 10:00–11:00\nFuture of Web Development\n22/10/2026 · 10:00–11:00\nDesigning for Impact\nQuản lý cơ sở vật chất\n\nChọn phòng để xem lịch sử dụng hoặc chỉnh sửa thông tin.\n\nThêm phòng\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý phòng",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O5",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nPhát hiện xung đột\n\nKiểm tra lịch trình và xử lý các phiên trùng phòng, trùng giờ.\n\nQuét toàn bộ lịch\nAI Conflict Resolver\n\nĐề xuất dựa trên lịch phòng và sức chứa hiện tại. Chỉ thay đổi lịch khi bạn xác nhận.\n\n Xung đột 1 · Room A\nCần xử lý\nModern JavaScript Best Practices\n\nTrần Đức Huy\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n\nNguyễn Minh Anh\n\n20/10/2026 · 09:00–10:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 2 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nPhân tích phương án\nChỉnh thủ công\n Xung đột 3 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 4 · Room B\nCần xử lý\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Phát hiện xung đột",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O6",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nCảnh báo sự kiện\n\nThông báo thay đổi đến đúng người, đúng thời điểm.\n\nTạo cảnh báo\n2\nTổng cảnh báo\n1\nĐã gửi\n0\nĐã lên lịch\n1\nBản nháp\nTất cả trạng thái\nĐã công bố\nĐã lên lịch\nBản nháp\nĐã lưu trữ\nChào mừng đến với EventPulse 2026\n\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\n\nĐã công bố\nThông tin\n20/09/2026 · 08:30\nXem\nSửa\nThu hồi\nNhắc lịch sự kiện ngày 2\n\nNgày thứ hai tại EventPulse bắt đầu lúc 09:00.\n\nBản nháp\nThông tin\n21/09/2026 · 08:30\nXem\nSửa\nXóa\nChi tiết cảnh báo\nChào mừng đến với EventPulse 2026\nĐã công bố\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\nĐối tượng\nall\nĐã gửi đến\n9 người\nThời gian\n20/09/2026\nChỉnh sửa\nThông báo kịp thời\n\nChọn vai trò hoặc nhóm người liên quan đến một phiên.\n\nSoạn cảnh báo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Cảnh báo sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD1",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý loại vé\n\nQuản lý loại vé, số lượng và trạng thái bán.\n\nTạo loại vé\n2\nLoại vé\n600\nTổng số vé\n321\nĐã bán\n279\nCòn lại\nTất cả trạng thái\nBản nháp\nĐang hoạt động\nĐã bán hết\nNgừng bán\nĐã lưu trữ\nLoại vé\tGiá vé\tĐã bán / Tổng\tTrạng thái\t\n\nStandard\n\t200.000 ₫\t\n320 / 500\n\tĐang hoạt động\t\nXem\nSửa\n\n\nCommunity 2025\n\t0 ₫\t\n1 / 100\n\tĐã lưu trữ\t\nXem\nSửa\nChi tiết loại vé\nStandard\nĐang hoạt động\nGiá vé\n200.000 ₫\nSố lượng\n500\nĐã bán\n320\nCòn lại\n180\nBắt đầu bán\n01/09/2026\nKết thúc\n19/10/2026\nDoanh thu\n64.000.000 ₫\nChỉnh sửa\nNgừng bán\nLưu trữ\nĐón người tham dự\n\nTra cứu mã vé và xác nhận check-in tại sự kiện.\n\nQuản lý check-in\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý loại vé",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD2",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý người dùng\n\nQuản lý tài khoản và quyền truy cập sự kiện.\n\nThêm người dùng\n12\nTổng người dùng\n12\nĐang hoạt động\n5\nDiễn giả\n2\nQuản trị viên\nTất cả vai trò\nNgười tham dự\nDiễn giả\nBan tổ chức\nQuản trị viên\nTất cả trạng thái\nĐang hoạt động\nChờ duyệt\nĐã khóa\nNgừng sử dụng\n0 đã chọn\nKhóa đã chọn\n\tNgười dùng\tVai trò\tTrạng thái\t\n\t\nMA\nNguyễn Minh Anh\nminhanh@example.com\n\tNgười tham dự\tĐang hoạt động\t\nXem\nSửa\n\n\t\nĐH\nTrần Đức Huy\nhuy@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nMA\nNguyễn Minh Anh\nanh@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nTT\nLê Thu Trang\ntrang@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nQB\nPhạm Quốc Bảo\nbao@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nKL\nVũ Khánh Linh\nuser5@example.com\n\tDiễn giả\tĐang hoạt động\t\nXem\nSửa\n\n\t\nVA\nNguyễn Văn An\nuser6@example.com\n\tNgười tham dự\tĐang hoạt động\t\nXem\nSửa\n\n\t\nHN\nLê Hoàng Nam\nuser7@example.com\n\tNgười tham dự\tĐang hoạt động\t\nXem\nSửa\n\n\t\nTH\nPhạm Thu Hà\nuser8@example.com\n\tBan tổ chức\tĐang hoạt động\t\nXem\nSửa\n\n\t\nMT\nTrần Minh Tú\nuser9@example.com\n\tQuản trị viên\tĐang hoạt động\t\nXem\nSửa\n\n\t\ncd\nBan tổ chức demo\norganizer@eventpulse.test\n\tBan tổ chức\tĐang hoạt động\t\nXem\nSửa\n\n\t\nvd\nQuản trị viên demo\nadmin@eventpulse.test\n\tQuản trị viên\tĐang hoạt động\t\nXem\nSửa\nChi tiết người dùng\nMA\nNguyễn Minh Anh\nminhanh@example.com\nVai trò\nNgười tham dự\nĐiện thoại\n0900000001\nTham gia\n01/09/2026\nTrạng thái\nĐang hoạt động\nChỉnh sửa\nKhóa tài khoản\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý người dùng",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD3",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nPhân tích sự kiện\n\nTheo dõi hiệu quả sự kiện từ dữ liệu hiện có.\n\nXuất báo cáo\n3\nNgười tham dự đăng ký\n321\nTổng vé đã bán\n50%\nCheck-in / vé hợp lệ mẫu\n16\nTổng số phiên\nTừ ngày\nĐến ngày\nTất cả chủ đề\nweb-development\nai\nproduct-design\ncybersecurity\ndata-analytics\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nXóa bộ lọc\nVé đăng ký theo ngày\n\nSố liệu từ vé cá nhân mẫu, không phải tổng vé phát hành.\n\n09-20\n09-15\n1\n0\nPhân bổ loại vé\n\nTổng vé đã bán của toàn sự kiện.\n\n321\nStandard\nCommunity 2025\nHiệu suất phiên\nDữ liệu hiện tại\nPhiên\tĐăng ký\tLưu lịch\tSức chứa\tTỉ lệ\n\nModern JavaScript Best Practices\nweb-development\t95\t1\t120\t79%\n\nFuture of Web Development\nweb-development\t128\t0\t150\t85%\n\nBuilding AI-Powered Applications\nai\t142\t1\t150\t95%\n\nAI in Product Development\nai\t84\t0\t120\t70%\n\nDesign Systems in Practice\nproduct-design\t74\t0\t120\t62%\n\nSecurity in a DevOps World\ncybersecurity\t61\t0\t100\t61%\n\nData Storytelling with Impact\ndata-analytics\t150\t0\t150\t100%\n\nDesigning for Impact\nproduct-design\t67\t0\t120\t56%\n\nAI Strategy for Product Teams\nai\t76\t0\t150\t51%\n\nResponsible AI: From Ideas to Action\nai\t110\t0\t200\t55%\n\nScaling Frontend Architecture\nweb-development\t62\t0\t150\t41%\n\nProduct Discovery Workshop\nproduct-design\t46\t0\t100\t46%\n\nBuilding AI-Powered Applications\nai\t0\t0\t150\t0%\n\nModern JavaScript Best Practices\nweb-development\t0\t0\t150\t0%\n\nDesign Systems in Practice\nproduct-design\t0\t0\t100\t0%\n\nThực hành xây dựng sản phẩm web\nweb-development\t32\t0\t100\t32%\nChủ đề được quan tâm\nweb-development\n317\nai\n412\nproduct-design\n187\ncybersecurity\n61\ndata-analytics\n150\n AI Interest Forecast\n\nDự báo mức độ quan tâm và nguy cơ quá tải.\n\nChọn phiên\nModern JavaScript Best Practices\nFuture of Web Development\nBuilding AI-Powered Applications\nAI in Product Development\nDesign Systems in Practice\nSecurity in a DevOps World\nData Storytelling with Impact\nDesigning for Impact\nAI Strategy for Product Teams\nResponsible A",
+    "h1": "Phân tích sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD4",
+    "width": 1024,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý check-in\n\nTra cứu vé và xác nhận người tham dự.\n\nQuản lý loại vé\n2\nVé cá nhân mẫu\n1\nĐã check-in\n1\nChưa check-in\n0\nKhông hợp lệ\nTra cứu vé\nQuét mã (mock)\n\nNhập mã vé để kiểm tra. Mã mẫu: EP26-001-A7K2\n\nLịch sử check-in\nNgười tham dự\tMã vé\tThời gian\n\nNguyễn Minh Anh\n\tEP25-DEMO-001\t20/10/2025 · 08:30\nThông tin vé\nChưa chọn vé\n\nChọn một kết quả tra cứu để kiểm tra.\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý check-in",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S1",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n19/10/2026 – 21/10/2026 · Hanoi\nKết nối ý tưởng.\nTạo nên tương lai.\n\nSự kiện công nghệ nhiều phiên về Web, AI, Product và Data.\n\nMở bảng điều khiển\nĐăng ký tham dự\nTrải nghiệm bản demo\n19/10/2026 – 21/10/2026\nHanoi\n16 phiên chia sẻ\nKHÁM PHÁ CHƯƠNG TRÌNH\nPhiên nổi bật\nweb-development\nModern JavaScript Best Practices\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\n 09:00 – 10:00\nRoom A\n\nTrần Đức Huy\nDiễn giả · EventPulse 2026\n\n1 / 10 phiên nổi bật\n\nSẵn sàng cho EventPulse?\n\nTruy cập tài khoản để nhận thông báo và theo dõi sự kiện.\n\nTrải nghiệm bản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Kết nối ý tưởng.Tạo nên tương lai.",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S2",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐăng nhập\n\nChào mừng bạn đến với EventPulse.\n\nEmail *\nMật khẩu *\nHiện\nĐăng nhập\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Đăng nhập",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S3",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nTạo tài khoản\n\nChào mừng bạn đến với EventPulse.\n\nHọ và tên *\nEmail *\nMật khẩu *\nHiện\nĐộ mạnh mật khẩu\nÍt nhất 8 ký tự.\nXác nhận mật khẩu *\nHiện\nVai trò\nNgười tham dự\nDiễn giả\nTạo tài khoản\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Tạo tài khoản",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S4",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nQuên mật khẩu\n\nNhận liên kết đặt lại mật khẩu qua email giả lập.\n\nEmail *\nGửi liên kết đặt lại\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Quên mật khẩu",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S5",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nHồ sơ cá nhân\n\nCập nhật thông tin và sở thích của bạn.\n\nẢnh đại diện PNG JPG WEBP tối đa 1 MB\nXóa ảnh\nHọ và tên *\nEmail *\nSố điện thoại\nSở thích cách nhau bằng dấu phẩy\nGiới thiệu\nLưu thay đổi\nHủy thay đổi",
+    "h1": "Hồ sơ cá nhân",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S6",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nDùng chung / Cài đặt\nACCOUNT SETTINGS\nCài đặt\n\nTùy chỉnh tài khoản và trải nghiệm sử dụng EventPulse.\n\n✓ Đã tự động lưu\nTài khoản\nGiao diện\nTùy chọn\nBảo mật\nTài khoản\n\nThông tin cơ bản của tài khoản đang đăng nhập.\n\nMA\nNguyễn Minh Anh\nNgười tham dự\nHọ và tên\nEmail\nGiao diện\n\nChọn ngôn ngữ và chế độ hiển thị.\n\nNgôn ngữ\nNgôn ngữ hiển thị của ứng dụng\nTiếng Việt\nEnglish\nChế độ tối/sáng\nThay đổi giao diện theo sở thích\nSáng\nTối\nTùy chọn\n\nCác hành vi được tự động lưu khi bạn thay đổi.\n\nTự động lưu\nLưu thay đổi ngay sau khi bạn bật/tắt tùy chọn.\nNhắc lịch session\nHiển thị nhắc nhở trước session đã thêm vào agenda.\nBảo mật\n\nĐổi mật khẩu tài khoản.\n\nMật khẩu hiện tại\nMật khẩu mới\nXác nhận mật khẩu\nĐổi mật khẩu",
+    "h1": "Cài đặt",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S7",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\nThông báo\n\nCập nhật mới nhất dành cho bạn.\n\nĐánh dấu tất cả đã đọc\nTất cả loại thông báo\nThông tin chung\nThay đổi lịch\nVé\nPhản hồi\nNhắc lịch\nHệ thống\nTất cả trạng thái\nChưa đọc\n1 chưa đọc\nChào mừng đến EventPulse\n\nBạn có thể khám phá session và xây dựng agenda cá nhân.\n\n01/10/2026 · 08:00\nĐánh dấu đã đọc\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Thông báo",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S8",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n\n403\n\nBạn chưa có quyền truy cập\n\nTrang này dành cho vai trò khác. Bạn đang dùng tài khoản Người tham dự.\n\nTự chuyển về trang phù hợp sau 8 giây.\n\nVề trang phù hợp\nChọn tài khoản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Bạn chưa có quyền truy cập",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S9",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nĐến nội dung chính\n\n404\n\nKhông tìm thấy trang\n\nĐường dẫn có thể đã thay đổi hoặc không tồn tại. Bạn có thể quay lại và tiếp tục khám phá EventPulse.\n\nQuay lại\nVề trang chủ\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Không tìm thấy trang",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A1",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nKhám phá các phiên sự kiện\n\nTìm theo diễn giả, chủ đề, giờ và phòng.\n\nChọn phiên phù hợp với bạn\n\nXây dựng lịch cá nhân và nhận gợi ý theo sở thích.\n\nGợi ý cho bạn\nVé của tôi\nĐánh giá phiên\nTìm kiếm\nChủ đề\nTất cả\nWeb Development\nAI & Machine Learning\nProduct & Design\nCybersecurity\nData & Analytics\nNgày\nTất cả\n2025-10-20\n2026-10-20\n2026-10-21\n2026-10-22\nKhung giờ\nTất cả\nSáng trước 12 giờ\nChiều từ 12 đến 18 giờ\nTối từ 18 giờ\nPhòng\nTất cả\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nSắp xếp\nThời gian\nTên A–Z\nChỗ còn lại\nXóa bộ lọc\nDạng danh sách\n\n12 phiên\n\nCòn 68 chỗ\n◈\nWeb Development\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\n20/10/2025 · 09:00 – 10:00\nPhòng cộng đồng 2025\nChi tiết\nKhông thể đăng ký\nCòn 25 chỗ\n◈\nWeb Development\nModern JavaScript Best Practices\nTrần Đức Huy\n20/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nĐã lưu\nCòn 22 chỗ\n◈\nWeb Development\nFuture of Web Development\nNguyễn Minh Anh\n20/10/2026 · 10:00 – 11:00\nRoom A\nChi tiết\nThêm vào agenda\nCòn 8 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nLê Thu Trang\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nĐã lưu\nCòn 150 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nNguyễn Minh Anh\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nThêm vào agenda\nCòn 74 chỗ\n◈\nAI & Machine Learning\nAI Strategy for Product Teams\nLê Thu Trang\n20/10/2026 · 11:30 – 12:30\nRoom B\nChi tiết\nThêm vào agenda\nCòn 36 chỗ\n◈\nAI & Machine Learning\nAI in Product Development\nPhạm Quốc Bảo\n20/10/2026 · 13:30 – 14:30\nRoom C\nChi tiết\nThêm vào agenda\nCòn 46 chỗ\n◈\nProduct & Design\nDesign Systems in Practice\nPhạm Quốc Bảo\n20/10/2026 · 15:00 – 16:00\nRoom C\nChi tiết\nThêm vào agenda\nCòn 88 chỗ\n◈\nWeb Development\nScaling Frontend Architecture\nTrần Đức Huy\n21/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nKhông thể đăng ký\nCòn 39 chỗ\n◈\nCybersecurity\nSecurity in a DevOps World\nTrần Đức Huy\n21/10/2026 · 09:30 – 10:30\nRoom D\nChi tiết\nThêm vào agenda\nHết chỗ\n◈\nData & ",
+    "h1": "Khám phá các phiên sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A2",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nChi tiết session\n\nThông tin phiên và tình trạng đăng ký.\n\nWeb Development\nModern JavaScript Best Practices\n\n20/10/2026 · 09:00 – 10:00 · Room A\n\nMô tả\nDiễn giả\nTài liệu\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\nMục tiêu\n\nHiểu nội dung và áp dụng kiến thức vào dự án thực tế.\n\nĐăng ký phiên\n\n25 / 120 chỗ còn lại\n\nĐã có trong agenda\nXem My Agenda\nQuay lại Catalog",
+    "h1": "Chi tiết session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A3",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nLịch trình của tôi\n\nTimeline theo ngày. Kéo thả hoặc dùng nút lên/xuống để đổi thứ tự hiển thị; thời gian phiên không thay đổi.\n\nThêm session\nGợi ý AI\nIn / Xuất PDF\nSắp theo giờ\n20/10/2026\n\n09:00 – 10:00\n\nModern JavaScript Best Practices\n\nRoom A\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\n\n11:00 – 12:00\n\nBuilding AI-Powered Applications\n\nRoom B\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\nTổng quan lịch\nPhiên\n2\nGiờ phiên\n2\nNgày\n1\nXung đột\n0",
+    "h1": "Lịch trình của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A4",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nXử lý xung đột lịch\n\nAI mock đề xuất phiên thay thế; bạn kiểm soát việc áp dụng.\n\nKhông còn cặp xung đột hợp lệ. Hãy kiểm tra lại agenda.\nVề My Agenda",
+    "h1": "Xử lý xung đột lịch",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A5",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nGợi ý dành cho bạn\n\nAI mock theo sở thích và lịch hiện tại. Chỉ lưu sau khi bạn xác nhận.\n\nSession đề xuất\n\nBỏ chọn những phiên bạn không muốn lưu.\n\n AI in Product Development\n\n20/10/2026 · 13:30 – 14:30\n\nVì sao gợi ý này\n Future of Web Development\n\n20/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\n Designing for Impact\n\n22/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\nLưu các phiên đã chọn\nTạo lại\nBỏ qua",
+    "h1": "Gợi ý dành cho bạn",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A6",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nPhản hồi session\n\nĐánh giá các phiên đã kết thúc tại sự kiện bạn đã check-in.\n\nChọn session\nThực hành xây dựng sản phẩm web\nThực hành xây dựng sản phẩm web\nĐánh giá sao *\n★\n★\n★\n★\n★\n\nNhận xét * từ 10 đến 500 ký tự\n\n0/500\nGửi đánh giá\nĐánh giá của bạn\n\nBạn chưa đánh giá phiên này.",
+    "h1": "Phản hồi session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "A7",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nPhiên\nLịch của tôi\nDiễn giả\nSự kiện\n1\nMA\nĐổi vai trò\nVé của tôi\n\nVé và trạng thái check-in được cập nhật từ dữ liệu dùng chung.\n\nChọn vé\nEP26-001-A7K2\nEP25-DEMO-001\nEventPulse\nEventPulse Tech Conference 2026\n\nStandard\n\nNguyễn Minh Anh\n\nEP26-001-A7K2\n\n2026-10-20 – 2026-10-22 · Hanoi\n\nQR mô phỏng; dùng mã vé khi check-in.\n\nChưa check-in\n\nXác nhận check-in mock\nTải vé PNG\nPhản hồi các session đã tham dự",
+    "h1": "Vé của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP1",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / Hồ sơ diễn giả\n\nSP1 · SPEAKER PROFILE\n\nHồ sơ Diễn giả\n\nQuản lý thông tin công khai để người tham dự và ban tổ chức nhận diện đúng diễn giả.\n\nXem preview\nThông tin cơ bản\n\nThông tin hiển thị trên trang diễn giả.\n\nẢnh đại diện\n\nPNG, JPG hoặc WEBP · tối đa 5MB\n\nĐổi ảnh Xoá ảnh\nHọ và tên *\nTên hiển thị công khai\nChức danh\nVí dụ: Product Manager, CTO...\nĐơn vị / Công ty\nLĩnh vực chuyên môn\nPhân tách nhiều lĩnh vực bằng dấu phẩy\nTiểu sử *\n40/500\nMạng xã hội\n\nCác liên kết để người tham dự tìm hiểu thêm về diễn giả.\n\nLinkedIn\nWebsite\nFacebook\nX / Twitter\nHuỷ\nLưu hồ sơ\nXem trước\n\nHiển thị gần giống hồ sơ công khai.\n\nNguyễn Minh Anh\n\nProduct Engineer\n\nNova Labs\n\nAI\nProduct\nMachine Learning\n\nTập trung vào AI và phát triển sản phẩm.\n\nKiểm tra hồ sơ\n\n✓ Họ tên\n\n✓ Tiểu sử\n\n✓ Ảnh đại diện\n\n✓ Liên kết hợp lệ",
+    "h1": "Hồ sơ Diễn giả",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP2",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER\nSession của tôi\n\nTheo dõi các session đã đăng ký, đề xuất và trạng thái duyệt của bạn.\n\nĐề xuất session mới\nTất cả\n7\nChờ duyệt\n2\nĐã duyệt\n4\nTừ chối\n1\nTất cả trạng thái\nChờ duyệt\nĐã duyệt\nTừ chối\n↻ Làm mới\nĐã duyệt\nweb-development\nFuture of Web Development\n 10:00 20/10/2026 - 11:00\n Room A\n\nXu hướng xây dựng ứng dụng web hiện đại và cách chuẩn bị cho thế hệ trải nghiệm tiếp theo.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\ndata-analytics\nData Storytelling with Impact\n 11:00 21/10/2026 - 12:00\n Room B\n\nBiến dữ liệu thành câu chuyện dễ hiểu để hỗ trợ quyết định sản phẩm.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nai\nResponsible AI: From Ideas to Action\n 15:00 20/10/2026 - 16:00\n Room E\n\nCùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\nai\nBuilding AI-Powered Applications\n 11:00 20/10/2026 - 12:00\n Room B\n\nThiết kế ứng dụng có AI và cách đưa AI vào trải nghiệm sản phẩm.\n\nSession đã được ban tổ chức duyệt.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nweb-development\nModern JavaScript Best Practices\n 09:00 20/10/2026 - 10:00\n Room A\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nĐang chờ ban tổ chức xem xét.\nXem chi tiết\nChỉnh sửa\nTài liệu\nTừ chối\nproduct-design\nDesign Systems in Practice\n 15:00 21/10/2026 - 16:00\n Room D\n\nXây dựng design system dùng xuyên suốt sản phẩm và đội ngũ.\n\nCần bổ sung phạm vi nội dung và mục tiêu session.\nXem chi tiết\nSửa nhanh\nChỉnh sửa\nTài liệu\nĐã duyệt\nweb-development\nThực hành xây dựng sản phẩm web\n 09:00 20/10/2025 - 10:00\n Phòng cộng đồng 2025\n\nPhiên thực hành đã diễn ra, dùng để kiểm thử phản hồi của người tham dự.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu",
+    "h1": "Session của tôi",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP3",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION\nChi tiết phiên\n\nSES002 · Future of Web Development\n\n● Đã lưu\n← Quay lại\nNội dung session\n\nCập nhật thông tin chi tiết cho buổi nói chuyện.\n\n* Bắt buộc\nTên session *\nMô tả *\n90/1000\nMục tiêu buổi nói chuyện *\n53/700\nChủ đề *\nPhòng\nThời gian\n\nĐiều chỉnh thời lượng của session.\n\nBắt đầu *\nKết thúc *\nThời lượng: 1 giờ\nHuỷ thay đổi\nLưu thay đổi\nTrạng thái duyệt\nĐã duyệt\n\nChưa có ghi chú.\n\nPhiên đã duyệt: chỉ sửa mô tả và mục tiêu; phòng và giờ do Ban tổ chức quản lý.\n\nTimeline\n\nLịch sử trạng thái session.\n\nĐã duyệt\n08:00 01/10/2026",
+    "h1": "Chi tiết phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP4",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nChọn phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION MATERIALS\nTài liệu Session\n\nSES002 · Future of Web Development\n\n← Session của tôi\nKho tài liệu\n\nUpload slide hoặc tài liệu tham khảo cho người tham dự.\n\n0 tài liệu\n↑\nKéo thả file vào đây\n\nhoặc\n\nChọn file từ máy\nPDF, PPT/PPTX, DOC/DOCX, XLS/XLSX, ZIP, TXT, PNG, JPG · tối đa 20MB/file\nLink tham khảo\n\nThêm URL tài liệu / slide online (không upload file).\n\nThêm link\nDanh sách tài liệu\n\nNgười tham dự có thể xem tên và kích thước file.\n\n□\nChưa có tài liệu\n\nHãy upload slide hoặc tài liệu tham khảo đầu tiên cho session này.\n\nUpload tài liệu\nThông tin session\n\nFuture of Web Development\n\nSession ID\nSES002\nTrạng thái\nĐã duyệt\nSố tài liệu\n0\nLưu ý\nKiểm tra tên file trước khi upload.\nKhông upload thông tin nhạy cảm.\nFile lớn hơn 20MB sẽ bị từ chối.\nDemo hiện lưu metadata bằng LocalStorage.",
+    "h1": "Tài liệu Session",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP5",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / AI / Dự báo Quan tâm Session\nAI-3 · INTEREST FORECAST\nDự báo quan tâm\n\nƯớc lượng mức độ quan tâm dựa trên lượt lưu và agenda.\n\n↻ Làm mới dự báo\nSession\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nCập nhật: 17:36:42 5/10/2026\nLượt lưu hiện tại\n0\nBookmarks / agenda mock\nDự báo tham dự\n122\nngười\nMức quan tâm\nĐang tăng\nTiếp tục theo dõi\nĐộ tin cậy\n58%\nDữ liệu mock\nDự báo theo thời gian\n\nXu hướng lượt quan tâm của session.\n\n0\nChưa có\nVì sao dự báo này?\n\nGiải thích ngắn gọn từ dữ liệu đầu vào.\n\nDữ liệu hiện tại\n128 lượt đăng ký và 0 lượt lưu lịch.\nĐộ tin cậy\nMẫu ít; AI chưa chắc chắn, cần kiểm tra thủ công.\nMô hình mô phỏng\nDự kiến = 95% lượt đăng ký + 2 lần lượt lưu. Không phải số người tham dự thực tế.\nLàm mới giải thích\nGhi chú diễn giả\nChấp nhận dự báo\nBỏ qua\nLưu ghi chú thủ công\n\nAI chưa chắc chắn về kết quả này. Kiểm tra số liệu trước khi chấp nhận.\n\nDữ liệu đầu vào\n\nsessions · agendas\n\nChưa có\n0\n0\n122",
+    "h1": "Dự báo quan tâm",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "SP6",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nĐổi vai trò\nPhản hồi phiên\n\nĐánh giá từ người tham dự các phiên của bạn.\n\nPhiên của tôi\nChọn phiên\nTất cả phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\n— / 5 · 0 phản hồi\n5 sao · 0\n4 sao · 0\n3 sao · 0\n2 sao · 0\n1 sao · 0\nChưa có phản hồi cho các phiên đã chọn.",
+    "h1": "Phản hồi phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O1",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nTổng quan sự kiện\n\nTheo dõi chương trình và tình trạng vận hành của sự kiện.\n\nQuản lý phiên\n16\nTổng số phiên\n6\nPhòng hoạt động\n4\nXung đột lịch\n59%\nTỉ lệ lấp đầy trung bình\nTình trạng chương trình\nXem tất cả\nĐã công bố\n10\nChờ duyệt\n2\nTừ chối\n2\nHoàn thành\n2\nPhiên sắp diễn ra\n20–21 tháng 10\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Trần Đức Huy\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 10:00\nFuture of Web Development\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 11:00\nBuilding AI-Powered Applications\nRoom B · Lê Thu Trang\nCần bạn xử lý\n2 phiên chờ duyệt\n\nKiểm tra nội dung và phân công phòng trước khi duyệt.\n\nDuyệt phiên\n4 xung đột lịch\n\nCó các phiên được xếp cùng phòng trong khung giờ giao nhau.\n\nKiểm tra xung đột\n Điều phối chương trình\n\nKiểm tra lịch toàn sự kiện và xem đề xuất đổi phòng trước khi áp dụng.\n\nMở trợ lý xung đột\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Tổng quan sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O2",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nQuản lý phiên\n\nQuản lý lịch trình, diễn giả và trạng thái duyệt.\n\nKiểm tra xung đột\n16\nTổng số phiên\n10\nĐã xác nhận\n2\nChờ duyệt\n2\nĐã hoàn thành\nTất cả ngày\n19/10/2026\n20/10/2026\n21/10/2026\n19/10/2025\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nTất cả trạng thái\nChờ duyệt\nĐã công bố\nTừ chối\nHoàn thành\n0 đã chọn\nDuyệt đã chọn\nTừ chối đã chọn\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\n20/10/2025\n\n09:00 – 10:00\nPhòng cộng đồng 2025\n32 / 100\nHoàn thành\nXem\nDuyệt\nModern JavaScript Best Practices\nTrần Đức Huy\n20/10/2026\n\n09:00 – 10:00\nRoom A\n95 / 120\nĐã công bố\nXem\nDuyệt\nModern JavaScript Best Practices\nNguyễn Minh Anh\n20/10/2026\n\n09:00 – 10:00\nRoom A\n0 / 150\nChờ duyệt\nXem\nDuyệt\nFuture of Web Development\nNguyễn Minh Anh\n20/10/2026\n\n10:00 – 11:00\nRoom A\n128 / 150\nĐã công bố\nXem\nDuyệt\nBuilding AI-Powered Applications\nLê Thu Trang\n20/10/2026\n\n11:00 – 12:00\nRoom B\n142 / 150\nĐã công bố\nXem\nDuyệt\nBuilding AI-Powered Applications\nNguyễn Minh Anh\n20/10/2026\n\n11:00 – 12:00\nRoom B\n0 / 150\nĐã công bố\nXem\nDuyệt\nAI Strategy for Product Teams\nLê Thu Trang\n20/10/2026\n\n11:30 – 12:30\nRoom B\n76 / 150\nĐã công bố\nXem\nDuyệt\nAI in Product Development\nPhạm Quốc Bảo\n20/10/2026\n\n13:30 – 14:30\nRoom C\n84 / 120\nĐã công bố\nXem\nDuyệt\nDesign Systems in Practice\nPhạm Quốc Bảo\n20/10/2026\n\n15:00 – 16:00\nRoom C\n74 / 120\nĐã công bố\nXem\nDuyệt\nResponsible AI: From Ideas to Action\nNguyễn Minh Anh\n20/10/2026\n\n15:00 – 16:00\nRoom E\n110 / 200\nChờ duyệt\nXem\nDuyệt\nScaling Frontend Architecture\nTrần Đức Huy\n21/10/2026\n\n09:00 – 10:00\nRoom A\n62 / 150\nHoàn thành\nXem\nDuyệt\nSecurity in a DevOps World\nTrần Đức Huy\n21/10/2026\n\n09:30 – 10:30\nRoom D\n61 / 100\nĐã công bố\nXem\nDuyệt\nData Storytelling with Impact\nNguyễn Minh Anh\n21/10/2026\n\n11:00 – 12:00\nRoom B\n150 / 150\nĐã công bố\nXem\nDuyệt\nProduct Discovery Workshop\nLê Thu Trang\n21/10/2026\n\n11:00 – 12:00\nRoom C\n46 / 100\nTừ chối\nXem\nDuyệt\nDesign Systems in Practice\nNguy",
+    "h1": "Quản lý phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O3",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nChi tiết duyệt phiên\n\nKiểm tra nội dung, gán phòng và khung giờ cho phiên.\n\nDanh sách phiên\nChi tiết phiên\nChờ duyệt\nModern JavaScript Best Practices\nWeb Development\nDiễn giả\nNguyễn Minh Anh\nNgày\n20/10/2026\nThời gian\n09:00 – 10:00\nPhòng\nRoom A\nSức chứa\n150 người\nĐã đăng ký\n0 người\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nGán phòng / Duyệt\nPhát hiện trùng phòng\n\nHãy chọn phòng/giờ khác hoặc mở trợ lý xung đột.\n\nXem phương án AI\nPhân công phòng & thời gian\nPhòng *\nChọn…\nRoom A · 150 chỗ\nRoom B · 150 chỗ\nRoom C · 120 chỗ\nRoom D · 100 chỗ\nRoom E · 200 chỗ\nRoom F · 120 chỗ\nBắt đầu *\nKết thúc *\nSức chứa *\n\nKhả dụng được kiểm tra lại trước khi lưu. Khung giờ phải nằm trong ngày diễn ra sự kiện.\n\nLưu & duyệt phiên\nLưu phân công\nTừ chối\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Chi tiết duyệt phiên",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O4",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nQuản lý phòng\n\nQuản lý phòng, sức chứa và thiết bị đi kèm.\n\nThêm phòng\n7\nTổng số phòng\n6\nĐang hoạt động\n5\nCó lịch sử dụng\n840\nTổng sức chứa\nTất cả trạng thái\nCòn trống\nĐang sử dụng\nBảo trì\nNgừng sử dụng\nRoom A\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom B\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom C\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom D\n\nTầng 3 · 100 người\n\nCòn trống\nprojector\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom E\n\nTầng 3 · 200 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom F\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nPhòng cộng đồng 2025\n\nHà Nội · 100 người\n\nNgừng sử dụng\nXem lịch\nChỉnh sửa\nRoom A · Lịch sử dụng\n\nTầng 2 · 150 chỗ\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 10:00–11:00\nFuture of Web Development\n22/10/2026 · 10:00–11:00\nDesigning for Impact\nQuản lý cơ sở vật chất\n\nChọn phòng để xem lịch sử dụng hoặc chỉnh sửa thông tin.\n\nThêm phòng\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý phòng",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O5",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nPhát hiện xung đột\n\nKiểm tra lịch trình và xử lý các phiên trùng phòng, trùng giờ.\n\nQuét toàn bộ lịch\nAI Conflict Resolver\n\nĐề xuất dựa trên lịch phòng và sức chứa hiện tại. Chỉ thay đổi lịch khi bạn xác nhận.\n\n Xung đột 1 · Room A\nCần xử lý\nModern JavaScript Best Practices\n\nTrần Đức Huy\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n\nNguyễn Minh Anh\n\n20/10/2026 · 09:00–10:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 2 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nPhân tích phương án\nChỉnh thủ công\n Xung đột 3 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 4 · Room B\nCần xử lý\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Phát hiện xung đột",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "O6",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nPhiên\nPhòng\nCảnh báo\nTH\nĐổi vai trò\nĐến nội dung chính\nCảnh báo sự kiện\n\nThông báo thay đổi đến đúng người, đúng thời điểm.\n\nTạo cảnh báo\n2\nTổng cảnh báo\n1\nĐã gửi\n0\nĐã lên lịch\n1\nBản nháp\nTất cả trạng thái\nĐã công bố\nĐã lên lịch\nBản nháp\nĐã lưu trữ\nChào mừng đến với EventPulse 2026\n\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\n\nĐã công bố\nThông tin\n20/09/2026 · 08:30\nXem\nSửa\nThu hồi\nNhắc lịch sự kiện ngày 2\n\nNgày thứ hai tại EventPulse bắt đầu lúc 09:00.\n\nBản nháp\nThông tin\n21/09/2026 · 08:30\nXem\nSửa\nXóa\nChi tiết cảnh báo\nChào mừng đến với EventPulse 2026\nĐã công bố\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\nĐối tượng\nall\nĐã gửi đến\n9 người\nThời gian\n20/09/2026\nChỉnh sửa\nThông báo kịp thời\n\nChọn vai trò hoặc nhóm người liên quan đến một phiên.\n\nSoạn cảnh báo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Cảnh báo sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD1",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý loại vé\n\nQuản lý loại vé, số lượng và trạng thái bán.\n\nTạo loại vé\n2\nLoại vé\n600\nTổng số vé\n321\nĐã bán\n279\nCòn lại\nTất cả trạng thái\nBản nháp\nĐang hoạt động\nĐã bán hết\nNgừng bán\nĐã lưu trữ\nStandard\n200.000 ₫\n320 / 500\nĐang hoạt động\nXem\nSửa\nCommunity 2025\n0 ₫\n1 / 100\nĐã lưu trữ\nXem\nSửa\nChi tiết loại vé\nStandard\nĐang hoạt động\nGiá vé\n200.000 ₫\nSố lượng\n500\nĐã bán\n320\nCòn lại\n180\nBắt đầu bán\n01/09/2026\nKết thúc\n19/10/2026\nDoanh thu\n64.000.000 ₫\nChỉnh sửa\nNgừng bán\nLưu trữ\nĐón người tham dự\n\nTra cứu mã vé và xác nhận check-in tại sự kiện.\n\nQuản lý check-in\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý loại vé",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD2",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý người dùng\n\nQuản lý tài khoản và quyền truy cập sự kiện.\n\nThêm người dùng\n12\nTổng người dùng\n12\nĐang hoạt động\n5\nDiễn giả\n2\nQuản trị viên\nTất cả vai trò\nNgười tham dự\nDiễn giả\nBan tổ chức\nQuản trị viên\nTất cả trạng thái\nĐang hoạt động\nChờ duyệt\nĐã khóa\nNgừng sử dụng\n0 đã chọn\nKhóa đã chọn\nMA\nNguyễn Minh Anh\nminhanh@example.com\nNgười tham dự\nĐang hoạt động\nXem\nSửa\nĐH\nTrần Đức Huy\nhuy@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nMA\nNguyễn Minh Anh\nanh@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nTT\nLê Thu Trang\ntrang@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nQB\nPhạm Quốc Bảo\nbao@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nKL\nVũ Khánh Linh\nuser5@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nVA\nNguyễn Văn An\nuser6@example.com\nNgười tham dự\nĐang hoạt động\nXem\nSửa\nHN\nLê Hoàng Nam\nuser7@example.com\nNgười tham dự\nĐang hoạt động\nXem\nSửa\nTH\nPhạm Thu Hà\nuser8@example.com\nBan tổ chức\nĐang hoạt động\nXem\nSửa\nMT\nTrần Minh Tú\nuser9@example.com\nQuản trị viên\nĐang hoạt động\nXem\nSửa\ncd\nBan tổ chức demo\norganizer@eventpulse.test\nBan tổ chức\nĐang hoạt động\nXem\nSửa\nvd\nQuản trị viên demo\nadmin@eventpulse.test\nQuản trị viên\nĐang hoạt động\nXem\nSửa\nChi tiết người dùng\nMA\nNguyễn Minh Anh\nminhanh@example.com\nVai trò\nNgười tham dự\nĐiện thoại\n0900000001\nTham gia\n01/09/2026\nTrạng thái\nĐang hoạt động\nChỉnh sửa\nKhóa tài khoản\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý người dùng",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD3",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nPhân tích sự kiện\n\nTheo dõi hiệu quả sự kiện từ dữ liệu hiện có.\n\nXuất báo cáo\n3\nNgười tham dự đăng ký\n321\nTổng vé đã bán\n50%\nCheck-in / vé hợp lệ mẫu\n16\nTổng số phiên\nTừ ngày\nĐến ngày\nTất cả chủ đề\nweb-development\nai\nproduct-design\ncybersecurity\ndata-analytics\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nXóa bộ lọc\nVé đăng ký theo ngày\n\nSố liệu từ vé cá nhân mẫu, không phải tổng vé phát hành.\n\n09-20\n09-15\n1\n0\nPhân bổ loại vé\n\nTổng vé đã bán của toàn sự kiện.\n\n321\nStandard\nCommunity 2025\nHiệu suất phiên\nDữ liệu hiện tại\nModern JavaScript Best Practices\nweb-development\n95\n1\n120\n79%\nFuture of Web Development\nweb-development\n128\n0\n150\n85%\nBuilding AI-Powered Applications\nai\n142\n1\n150\n95%\nAI in Product Development\nai\n84\n0\n120\n70%\nDesign Systems in Practice\nproduct-design\n74\n0\n120\n62%\nSecurity in a DevOps World\ncybersecurity\n61\n0\n100\n61%\nData Storytelling with Impact\ndata-analytics\n150\n0\n150\n100%\nDesigning for Impact\nproduct-design\n67\n0\n120\n56%\nAI Strategy for Product Teams\nai\n76\n0\n150\n51%\nResponsible AI: From Ideas to Action\nai\n110\n0\n200\n55%\nScaling Frontend Architecture\nweb-development\n62\n0\n150\n41%\nProduct Discovery Workshop\nproduct-design\n46\n0\n100\n46%\nBuilding AI-Powered Applications\nai\n0\n0\n150\n0%\nModern JavaScript Best Practices\nweb-development\n0\n0\n150\n0%\nDesign Systems in Practice\nproduct-design\n0\n0\n100\n0%\nThực hành xây dựng sản phẩm web\nweb-development\n32\n0\n100\n32%\nChủ đề được quan tâm\nweb-development\n317\nai\n412\nproduct-design\n187\ncybersecurity\n61\ndata-analytics\n150\n AI Interest Forecast\n\nDự báo mức độ quan tâm và nguy cơ quá tải.\n\nChọn phiên\nModern JavaScript Best Practices\nFuture of Web Development\nBuilding AI-Powered Applications\nAI in Product Development\nDesign Systems in Practice\nSecurity in a DevOps World\nData Storytelling with Impact\nDesigning for Impact\nAI Strategy for Product Teams\nResponsible AI: From Ideas to Action\nScaling Frontend Architecture\n",
+    "h1": "Phân tích sự kiện",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "AD4",
+    "width": 768,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nTổng quan\nVé\nNgười dùng\nPhân tích\nMT\nĐổi vai trò\nĐến nội dung chính\nQuản lý check-in\n\nTra cứu vé và xác nhận người tham dự.\n\nQuản lý loại vé\n2\nVé cá nhân mẫu\n1\nĐã check-in\n1\nChưa check-in\n0\nKhông hợp lệ\nTra cứu vé\nQuét mã (mock)\n\nNhập mã vé để kiểm tra. Mã mẫu: EP26-001-A7K2\n\nLịch sử check-in\nNguyễn Minh Anh\nEP25-DEMO-001\n20/10/2025 · 08:30\nThông tin vé\nChưa chọn vé\n\nChọn một kết quả tra cứu để kiểm tra.\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý check-in",
+    "header": 1,
+    "bottom": false
+  },
+  {
+    "id": "S1",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nĐến nội dung chính\n19/10/2026 – 21/10/2026 · Hanoi\nKết nối ý tưởng.\nTạo nên tương lai.\n\nSự kiện công nghệ nhiều phiên về Web, AI, Product và Data.\n\nMở bảng điều khiển\nĐăng ký tham dự\nTrải nghiệm bản demo\n19/10/2026 – 21/10/2026\nHanoi\n16 phiên chia sẻ\nKHÁM PHÁ CHƯƠNG TRÌNH\nPhiên nổi bật\nweb-development\nModern JavaScript Best Practices\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\n 09:00 – 10:00\nRoom A\n\nTrần Đức Huy\nDiễn giả · EventPulse 2026\n\n1 / 10 phiên nổi bật\n\nSẵn sàng cho EventPulse?\n\nTruy cập tài khoản để nhận thông báo và theo dõi sự kiện.\n\nTrải nghiệm bản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Kết nối ý tưởng.Tạo nên tương lai.",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S2",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nĐăng nhập\n\nChào mừng bạn đến với EventPulse.\n\nEmail *\nMật khẩu *\nHiện\nĐăng nhập\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Đăng nhập",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S3",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nTạo tài khoản\n\nChào mừng bạn đến với EventPulse.\n\nHọ và tên *\nEmail *\nMật khẩu *\nHiện\nĐộ mạnh mật khẩu\nÍt nhất 8 ký tự.\nXác nhận mật khẩu *\nHiện\nVai trò\nNgười tham dự\nDiễn giả\nTạo tài khoản\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Tạo tài khoản",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S4",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nQuên mật khẩu\n\nNhận liên kết đặt lại mật khẩu qua email giả lập.\n\nEmail *\nGửi liên kết đặt lại\nĐăng nhập\nĐăng ký\nQuên mật khẩu\n\nPrototype: chỉ dùng dữ liệu giả. Tài khoản mẫu: minhanh@example.com / Demo@123. Tài khoản tự đăng ký dùng mật khẩu đã nhập trong cùng phiên trình duyệt; ở phiên mới dùng Demo@123 (xác thực mock).\n\nVào chế độ demo vai trò",
+    "h1": "Quên mật khẩu",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S5",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nHồ sơ cá nhân\n\nCập nhật thông tin và sở thích của bạn.\n\nẢnh đại diện PNG JPG WEBP tối đa 1 MB\nXóa ảnh\nHọ và tên *\nEmail *\nSố điện thoại\nSở thích cách nhau bằng dấu phẩy\nGiới thiệu\nLưu thay đổi\nHủy thay đổi",
+    "h1": "Hồ sơ cá nhân",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S6",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nDùng chung / Cài đặt\nACCOUNT SETTINGS\nCài đặt\n\nTùy chỉnh tài khoản và trải nghiệm sử dụng EventPulse.\n\n✓ Đã tự động lưu\nTài khoản\nGiao diện\nTùy chọn\nBảo mật\nTài khoản\n\nThông tin cơ bản của tài khoản đang đăng nhập.\n\nMA\nNguyễn Minh Anh\nNgười tham dự\nHọ và tên\nEmail\nGiao diện\n\nChọn ngôn ngữ và chế độ hiển thị.\n\nNgôn ngữ\nNgôn ngữ hiển thị của ứng dụng\nTiếng Việt\nEnglish\nChế độ tối/sáng\nThay đổi giao diện theo sở thích\nSáng\nTối\nTùy chọn\n\nCác hành vi được tự động lưu khi bạn thay đổi.\n\nTự động lưu\nLưu thay đổi ngay sau khi bạn bật/tắt tùy chọn.\nNhắc lịch session\nHiển thị nhắc nhở trước session đã thêm vào agenda.\nBảo mật\n\nĐổi mật khẩu tài khoản.\n\nMật khẩu hiện tại\nMật khẩu mới\nXác nhận mật khẩu\nĐổi mật khẩu",
+    "h1": "Cài đặt",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S7",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nĐến nội dung chính\nThông báo\n\nCập nhật mới nhất dành cho bạn.\n\nĐánh dấu tất cả đã đọc\nTất cả loại thông báo\nThông tin chung\nThay đổi lịch\nVé\nPhản hồi\nNhắc lịch\nHệ thống\nTất cả trạng thái\nChưa đọc\n1 chưa đọc\nChào mừng đến EventPulse\n\nBạn có thể khám phá session và xây dựng agenda cá nhân.\n\n01/10/2026 · 08:00\nĐánh dấu đã đọc\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Thông báo",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S8",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nĐến nội dung chính\n\n403\n\nBạn chưa có quyền truy cập\n\nTrang này dành cho vai trò khác. Bạn đang dùng tài khoản Người tham dự.\n\nTự chuyển về trang phù hợp sau 8 giây.\n\nVề trang phù hợp\nChọn tài khoản demo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Bạn chưa có quyền truy cập",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "S9",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nĐến nội dung chính\n\n404\n\nKhông tìm thấy trang\n\nĐường dẫn có thể đã thay đổi hoặc không tồn tại. Bạn có thể quay lại và tiếp tục khám phá EventPulse.\n\nQuay lại\nVề trang chủ\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Không tìm thấy trang",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A1",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nKhám phá các phiên sự kiện\n\nTìm theo diễn giả, chủ đề, giờ và phòng.\n\nChọn phiên phù hợp với bạn\n\nXây dựng lịch cá nhân và nhận gợi ý theo sở thích.\n\nGợi ý cho bạn\nVé của tôi\nĐánh giá phiên\nTìm kiếm\nChủ đề\nTất cả\nWeb Development\nAI & Machine Learning\nProduct & Design\nCybersecurity\nData & Analytics\nNgày\nTất cả\n2025-10-20\n2026-10-20\n2026-10-21\n2026-10-22\nKhung giờ\nTất cả\nSáng trước 12 giờ\nChiều từ 12 đến 18 giờ\nTối từ 18 giờ\nPhòng\nTất cả\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nSắp xếp\nThời gian\nTên A–Z\nChỗ còn lại\nXóa bộ lọc\nDạng danh sách\n\n12 phiên\n\nCòn 68 chỗ\n◈\nWeb Development\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\n20/10/2025 · 09:00 – 10:00\nPhòng cộng đồng 2025\nChi tiết\nKhông thể đăng ký\nCòn 25 chỗ\n◈\nWeb Development\nModern JavaScript Best Practices\nTrần Đức Huy\n20/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nĐã lưu\nCòn 22 chỗ\n◈\nWeb Development\nFuture of Web Development\nNguyễn Minh Anh\n20/10/2026 · 10:00 – 11:00\nRoom A\nChi tiết\nThêm vào agenda\nCòn 8 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nLê Thu Trang\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nĐã lưu\nCòn 150 chỗ\n◈\nAI & Machine Learning\nBuilding AI-Powered Applications\nNguyễn Minh Anh\n20/10/2026 · 11:00 – 12:00\nRoom B\nChi tiết\nThêm vào agenda\nCòn 74 chỗ\n◈\nAI & Machine Learning\nAI Strategy for Product Teams\nLê Thu Trang\n20/10/2026 · 11:30 – 12:30\nRoom B\nChi tiết\nThêm vào agenda\nCòn 36 chỗ\n◈\nAI & Machine Learning\nAI in Product Development\nPhạm Quốc Bảo\n20/10/2026 · 13:30 – 14:30\nRoom C\nChi tiết\nThêm vào agenda\nCòn 46 chỗ\n◈\nProduct & Design\nDesign Systems in Practice\nPhạm Quốc Bảo\n20/10/2026 · 15:00 – 16:00\nRoom C\nChi tiết\nThêm vào agenda\nCòn 88 chỗ\n◈\nWeb Development\nScaling Frontend Architecture\nTrần Đức Huy\n21/10/2026 · 09:00 – 10:00\nRoom A\nChi tiết\nKhông thể đăng ký\nCòn 39 chỗ\n◈\nCybersecurity\nSecurity in a DevOps World\nTrần Đức Huy\n21/10/2026 · 09:30 – 10:30\nRoom D\nChi tiết\nThêm vào agenda\nHết chỗ\n◈\nData & Anal",
+    "h1": "Khám phá các phiên sự kiện",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A2",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nChi tiết session\n\nThông tin phiên và tình trạng đăng ký.\n\nWeb Development\nModern JavaScript Best Practices\n\n20/10/2026 · 09:00 – 10:00 · Room A\n\nMô tả\nDiễn giả\nTài liệu\n\nCác kỹ thuật JavaScript hiện đại giúp mã nguồn rõ ràng, an toàn và dễ bảo trì.\n\nMục tiêu\n\nHiểu nội dung và áp dụng kiến thức vào dự án thực tế.\n\nĐăng ký phiên\n\n25 / 120 chỗ còn lại\n\nĐã có trong agenda\nXem My Agenda\nQuay lại Catalog",
+    "h1": "Chi tiết session",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A3",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nLịch trình của tôi\n\nTimeline theo ngày. Kéo thả hoặc dùng nút lên/xuống để đổi thứ tự hiển thị; thời gian phiên không thay đổi.\n\nThêm session\nGợi ý AI\nIn / Xuất PDF\nSắp theo giờ\n20/10/2026\n\n09:00 – 10:00\n\nModern JavaScript Best Practices\n\nRoom A\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\n\n11:00 – 12:00\n\nBuilding AI-Powered Applications\n\nRoom B\n\nChi tiết\nBỏ khỏi lịch\n↑\n↓\nTổng quan lịch\nPhiên\n2\nGiờ phiên\n2\nNgày\n1\nXung đột\n0",
+    "h1": "Lịch trình của tôi",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A4",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nXử lý xung đột lịch\n\nAI mock đề xuất phiên thay thế; bạn kiểm soát việc áp dụng.\n\nKhông còn cặp xung đột hợp lệ. Hãy kiểm tra lại agenda.\nVề My Agenda",
+    "h1": "Xử lý xung đột lịch",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A5",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nGợi ý dành cho bạn\n\nAI mock theo sở thích và lịch hiện tại. Chỉ lưu sau khi bạn xác nhận.\n\nSession đề xuất\n\nBỏ chọn những phiên bạn không muốn lưu.\n\n AI in Product Development\n\n20/10/2026 · 13:30 – 14:30\n\nVì sao gợi ý này\n Future of Web Development\n\n20/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\n Designing for Impact\n\n22/10/2026 · 10:00 – 11:00\n\nVì sao gợi ý này\nLưu các phiên đã chọn\nTạo lại\nBỏ qua",
+    "h1": "Gợi ý dành cho bạn",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A6",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nPhản hồi session\n\nĐánh giá các phiên đã kết thúc tại sự kiện bạn đã check-in.\n\nChọn session\nThực hành xây dựng sản phẩm web\nThực hành xây dựng sản phẩm web\nĐánh giá sao *\n★\n★\n★\n★\n★\n\nNhận xét * từ 10 đến 500 ký tự\n\n0/500\nGửi đánh giá\nĐánh giá của bạn\n\nBạn chưa đánh giá phiên này.",
+    "h1": "Phản hồi session",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "A7",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\n1\nĐổi vai trò\nTrang chủ\nPhiên\nLịch của tôi\nHồ sơ\nVé của tôi\n\nVé và trạng thái check-in được cập nhật từ dữ liệu dùng chung.\n\nChọn vé\nEP26-001-A7K2\nEP25-DEMO-001\nEventPulse\nEventPulse Tech Conference 2026\n\nStandard\n\nNguyễn Minh Anh\n\nEP26-001-A7K2\n\n2026-10-20 – 2026-10-22 · Hanoi\n\nQR mô phỏng; dùng mã vé khi check-in.\n\nChưa check-in\n\nXác nhận check-in mock\nTải vé PNG\nPhản hồi các session đã tham dự",
+    "h1": "Vé của tôi",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "SP1",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / Hồ sơ diễn giả\n\nSP1 · SPEAKER PROFILE\n\nHồ sơ Diễn giả\n\nQuản lý thông tin công khai để người tham dự và ban tổ chức nhận diện đúng diễn giả.\n\nXem preview\nThông tin cơ bản\n\nThông tin hiển thị trên trang diễn giả.\n\nẢnh đại diện\n\nPNG, JPG hoặc WEBP · tối đa 5MB\n\nĐổi ảnh Xoá ảnh\nHọ và tên *\nTên hiển thị công khai\nChức danh\nVí dụ: Product Manager, CTO...\nĐơn vị / Công ty\nLĩnh vực chuyên môn\nPhân tách nhiều lĩnh vực bằng dấu phẩy\nTiểu sử *\n40/500\nMạng xã hội\n\nCác liên kết để người tham dự tìm hiểu thêm về diễn giả.\n\nLinkedIn\nWebsite\nFacebook\nX / Twitter\nHuỷ\nLưu hồ sơ\nXem trước\n\nHiển thị gần giống hồ sơ công khai.\n\nNguyễn Minh Anh\n\nProduct Engineer\n\nNova Labs\n\nAI\nProduct\nMachine Learning\n\nTập trung vào AI và phát triển sản phẩm.\n\nKiểm tra hồ sơ\n\n✓ Họ tên\n\n✓ Tiểu sử\n\n✓ Ảnh đại diện\n\n✓ Liên kết hợp lệ",
+    "h1": "Hồ sơ Diễn giả",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "SP2",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER\nSession của tôi\n\nTheo dõi các session đã đăng ký, đề xuất và trạng thái duyệt của bạn.\n\nĐề xuất session mới\nTất cả\n7\nChờ duyệt\n2\nĐã duyệt\n4\nTừ chối\n1\nTất cả trạng thái\nChờ duyệt\nĐã duyệt\nTừ chối\n↻ Làm mới\nĐã duyệt\nweb-development\nFuture of Web Development\n 10:00 20/10/2026 - 11:00\n Room A\n\nXu hướng xây dựng ứng dụng web hiện đại và cách chuẩn bị cho thế hệ trải nghiệm tiếp theo.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\ndata-analytics\nData Storytelling with Impact\n 11:00 21/10/2026 - 12:00\n Room B\n\nBiến dữ liệu thành câu chuyện dễ hiểu để hỗ trợ quyết định sản phẩm.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nai\nResponsible AI: From Ideas to Action\n 15:00 20/10/2026 - 16:00\n Room E\n\nCùng khám phá các phương pháp thực tiễn, trao đổi kinh nghiệm và áp dụng kiến thức vào những dự án công nghệ của bạn.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu\nĐã duyệt\nai\nBuilding AI-Powered Applications\n 11:00 20/10/2026 - 12:00\n Room B\n\nThiết kế ứng dụng có AI và cách đưa AI vào trải nghiệm sản phẩm.\n\nSession đã được ban tổ chức duyệt.\nXem chi tiết\nChỉnh sửa\nTài liệu\nChờ duyệt\nweb-development\nModern JavaScript Best Practices\n 09:00 20/10/2026 - 10:00\n Room A\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nĐang chờ ban tổ chức xem xét.\nXem chi tiết\nChỉnh sửa\nTài liệu\nTừ chối\nproduct-design\nDesign Systems in Practice\n 15:00 21/10/2026 - 16:00\n Room D\n\nXây dựng design system dùng xuyên suốt sản phẩm và đội ngũ.\n\nCần bổ sung phạm vi nội dung và mục tiêu session.\nXem chi tiết\nSửa nhanh\nChỉnh sửa\nTài liệu\nĐã duyệt\nweb-development\nThực hành xây dựng sản phẩm web\n 09:00 20/10/2025 - 10:00\n Phòng cộng đồng 2025\n\nPhiên thực hành đã diễn ra, dùng để kiểm thử phản hồi của người tham dự.\n\nChưa có ghi chú.\nXem chi tiết\nChỉnh sửa\nTài liệu",
+    "h1": "Session của tôi",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "SP3",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION\nChi tiết phiên\n\nSES002 · Future of Web Development\n\n● Đã lưu\n← Quay lại\nNội dung session\n\nCập nhật thông tin chi tiết cho buổi nói chuyện.\n\n* Bắt buộc\nTên session *\nMô tả *\n90/1000\nMục tiêu buổi nói chuyện *\n53/700\nChủ đề *\nPhòng\nThời gian\n\nĐiều chỉnh thời lượng của session.\n\nBắt đầu *\nKết thúc *\nThời lượng: 1 giờ\nHuỷ thay đổi\nLưu thay đổi\nTrạng thái duyệt\nĐã duyệt\n\nChưa có ghi chú.\n\nPhiên đã duyệt: chỉ sửa mô tả và mục tiêu; phòng và giờ do Ban tổ chức quản lý.\n\nTimeline\n\nLịch sử trạng thái session.\n\nĐã duyệt\n08:00 01/10/2026",
+    "h1": "Chi tiết phiên",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "SP4",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nChọn phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSPEAKER / SESSION MATERIALS\nTài liệu Session\n\nSES002 · Future of Web Development\n\n← Session của tôi\nKho tài liệu\n\nUpload slide hoặc tài liệu tham khảo cho người tham dự.\n\n0 tài liệu\n↑\nKéo thả file vào đây\n\nhoặc\n\nChọn file từ máy\nPDF, PPT/PPTX, DOC/DOCX, XLS/XLSX, ZIP, TXT, PNG, JPG · tối đa 20MB/file\nLink tham khảo\n\nThêm URL tài liệu / slide online (không upload file).\n\nThêm link\nDanh sách tài liệu\n\nNgười tham dự có thể xem tên và kích thước file.\n\n□\nChưa có tài liệu\n\nHãy upload slide hoặc tài liệu tham khảo đầu tiên cho session này.\n\nUpload tài liệu\nThông tin session\n\nFuture of Web Development\n\nSession ID\nSES002\nTrạng thái\nĐã duyệt\nSố tài liệu\n0\nLưu ý\nKiểm tra tên file trước khi upload.\nKhông upload thông tin nhạy cảm.\nFile lớn hơn 20MB sẽ bị từ chối.\nDemo hiện lưu metadata bằng LocalStorage.",
+    "h1": "Tài liệu Session",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "SP5",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nPhiên của tôi\nTài liệu\nDự báo AI\nPhản hồi\nSpeaker / AI / Dự báo Quan tâm Session\nAI-3 · INTEREST FORECAST\nDự báo quan tâm\n\nƯớc lượng mức độ quan tâm dựa trên lượt lưu và agenda.\n\n↻ Làm mới dự báo\nSession\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\nCập nhật: 17:37:14 5/10/2026\nLượt lưu hiện tại\n0\nBookmarks / agenda mock\nDự báo tham dự\n122\nngười\nMức quan tâm\nĐang tăng\nTiếp tục theo dõi\nĐộ tin cậy\n58%\nDữ liệu mock\nDự báo theo thời gian\n\nXu hướng lượt quan tâm của session.\n\n0\nChưa có\nVì sao dự báo này?\n\nGiải thích ngắn gọn từ dữ liệu đầu vào.\n\nDữ liệu hiện tại\n128 lượt đăng ký và 0 lượt lưu lịch.\nĐộ tin cậy\nMẫu ít; AI chưa chắc chắn, cần kiểm tra thủ công.\nMô hình mô phỏng\nDự kiến = 95% lượt đăng ký + 2 lần lượt lưu. Không phải số người tham dự thực tế.\nLàm mới giải thích\nGhi chú diễn giả\nChấp nhận dự báo\nBỏ qua\nLưu ghi chú thủ công\n\nAI chưa chắc chắn về kết quả này. Kiểm tra số liệu trước khi chấp nhận.\n\nDữ liệu đầu vào\n\nsessions · agendas\n\nChưa có\n0\n0\n122",
+    "h1": "Dự báo quan tâm",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "SP6",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên của tôi\nTài liệu\nHồ sơ\nPhản hồi phiên\n\nĐánh giá từ người tham dự các phiên của bạn.\n\nPhiên của tôi\nChọn phiên\nTất cả phiên\nFuture of Web Development\nData Storytelling with Impact\nResponsible AI: From Ideas to Action\nBuilding AI-Powered Applications\nModern JavaScript Best Practices\nDesign Systems in Practice\nThực hành xây dựng sản phẩm web\n— / 5 · 0 phản hồi\n5 sao · 0\n4 sao · 0\n3 sao · 0\n2 sao · 0\n1 sao · 0\nChưa có phản hồi cho các phiên đã chọn.",
+    "h1": "Phản hồi phiên",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "O1",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên\nPhòng\nCảnh báo\nĐến nội dung chính\nTổng quan sự kiện\n\nTheo dõi chương trình và tình trạng vận hành của sự kiện.\n\nQuản lý phiên\n16\nTổng số phiên\n6\nPhòng hoạt động\n4\nXung đột lịch\n59%\nTỉ lệ lấp đầy trung bình\nTình trạng chương trình\nXem tất cả\nĐã công bố\n10\nChờ duyệt\n2\nTừ chối\n2\nHoàn thành\n2\nPhiên sắp diễn ra\n20–21 tháng 10\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Trần Đức Huy\n20/10/2026 · 09:00\nModern JavaScript Best Practices\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 10:00\nFuture of Web Development\nRoom A · Nguyễn Minh Anh\n20/10/2026 · 11:00\nBuilding AI-Powered Applications\nRoom B · Lê Thu Trang\nCần bạn xử lý\n2 phiên chờ duyệt\n\nKiểm tra nội dung và phân công phòng trước khi duyệt.\n\nDuyệt phiên\n4 xung đột lịch\n\nCó các phiên được xếp cùng phòng trong khung giờ giao nhau.\n\nKiểm tra xung đột\n Điều phối chương trình\n\nKiểm tra lịch toàn sự kiện và xem đề xuất đổi phòng trước khi áp dụng.\n\nMở trợ lý xung đột\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Tổng quan sự kiện",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "O2",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên\nPhòng\nCảnh báo\nĐến nội dung chính\nQuản lý phiên\n\nQuản lý lịch trình, diễn giả và trạng thái duyệt.\n\nKiểm tra xung đột\n16\nTổng số phiên\n10\nĐã xác nhận\n2\nChờ duyệt\n2\nĐã hoàn thành\nTất cả ngày\n19/10/2026\n20/10/2026\n21/10/2026\n19/10/2025\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nTất cả trạng thái\nChờ duyệt\nĐã công bố\nTừ chối\nHoàn thành\n0 đã chọn\nDuyệt đã chọn\nTừ chối đã chọn\nThực hành xây dựng sản phẩm web\nNguyễn Minh Anh\n20/10/2025\n09:00 – 10:00\nPhòng cộng đồng 2025\n32 / 100\nHoàn thành\nXem\nDuyệt\nModern JavaScript Best Practices\nTrần Đức Huy\n20/10/2026\n09:00 – 10:00\nRoom A\n95 / 120\nĐã công bố\nXem\nDuyệt\nModern JavaScript Best Practices\nNguyễn Minh Anh\n20/10/2026\n09:00 – 10:00\nRoom A\n0 / 150\nChờ duyệt\nXem\nDuyệt\nFuture of Web Development\nNguyễn Minh Anh\n20/10/2026\n10:00 – 11:00\nRoom A\n128 / 150\nĐã công bố\nXem\nDuyệt\nBuilding AI-Powered Applications\nLê Thu Trang\n20/10/2026\n11:00 – 12:00\nRoom B\n142 / 150\nĐã công bố\nXem\nDuyệt\nBuilding AI-Powered Applications\nNguyễn Minh Anh\n20/10/2026\n11:00 – 12:00\nRoom B\n0 / 150\nĐã công bố\nXem\nDuyệt\nAI Strategy for Product Teams\nLê Thu Trang\n20/10/2026\n11:30 – 12:30\nRoom B\n76 / 150\nĐã công bố\nXem\nDuyệt\nAI in Product Development\nPhạm Quốc Bảo\n20/10/2026\n13:30 – 14:30\nRoom C\n84 / 120\nĐã công bố\nXem\nDuyệt\nDesign Systems in Practice\nPhạm Quốc Bảo\n20/10/2026\n15:00 – 16:00\nRoom C\n74 / 120\nĐã công bố\nXem\nDuyệt\nResponsible AI: From Ideas to Action\nNguyễn Minh Anh\n20/10/2026\n15:00 – 16:00\nRoom E\n110 / 200\nChờ duyệt\nXem\nDuyệt\nScaling Frontend Architecture\nTrần Đức Huy\n21/10/2026\n09:00 – 10:00\nRoom A\n62 / 150\nHoàn thành\nXem\nDuyệt\nSecurity in a DevOps World\nTrần Đức Huy\n21/10/2026\n09:30 – 10:30\nRoom D\n61 / 100\nĐã công bố\nXem\nDuyệt\nData Storytelling with Impact\nNguyễn Minh Anh\n21/10/2026\n11:00 – 12:00\nRoom B\n150 / 150\nĐã công bố\nXem\nDuyệt\nProduct Discovery Workshop\nLê Thu Trang\n21/10/2026\n11:00 – 12:00\nRoom C\n46 / 100\nTừ chối\nXem\nDuyệt\nDesign Systems in Practice\nNguyễn Minh Anh\n21/10",
+    "h1": "Quản lý phiên",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "O3",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên\nPhòng\nCảnh báo\nĐến nội dung chính\nChi tiết duyệt phiên\n\nKiểm tra nội dung, gán phòng và khung giờ cho phiên.\n\nDanh sách phiên\nChi tiết phiên\nChờ duyệt\nModern JavaScript Best Practices\nWeb Development\nDiễn giả\nNguyễn Minh Anh\nNgày\n20/10/2026\nThời gian\n09:00 – 10:00\nPhòng\nRoom A\nSức chứa\n150 người\nĐã đăng ký\n0 người\n\nCác kỹ thuật JavaScript hiện đại cho web frontend dễ bảo trì.\n\nGán phòng / Duyệt\nPhát hiện trùng phòng\n\nHãy chọn phòng/giờ khác hoặc mở trợ lý xung đột.\n\nXem phương án AI\nPhân công phòng & thời gian\nPhòng *\nChọn…\nRoom A · 150 chỗ\nRoom B · 150 chỗ\nRoom C · 120 chỗ\nRoom D · 100 chỗ\nRoom E · 200 chỗ\nRoom F · 120 chỗ\nBắt đầu *\nKết thúc *\nSức chứa *\n\nKhả dụng được kiểm tra lại trước khi lưu. Khung giờ phải nằm trong ngày diễn ra sự kiện.\n\nLưu & duyệt phiên\nLưu phân công\nTừ chối\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Chi tiết duyệt phiên",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "O4",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên\nPhòng\nCảnh báo\nĐến nội dung chính\nQuản lý phòng\n\nQuản lý phòng, sức chứa và thiết bị đi kèm.\n\nThêm phòng\n7\nTổng số phòng\n6\nĐang hoạt động\n5\nCó lịch sử dụng\n840\nTổng sức chứa\nTất cả trạng thái\nCòn trống\nĐang sử dụng\nBảo trì\nNgừng sử dụng\nRoom A\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom B\n\nTầng 2 · 150 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom C\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom D\n\nTầng 3 · 100 người\n\nCòn trống\nprojector\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom E\n\nTầng 3 · 200 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nRoom F\n\nTầng 3 · 120 người\n\nCòn trống\nprojector microphone wifi\nXem lịch\nChỉnh sửa\nLưu trữ\nPhòng cộng đồng 2025\n\nHà Nội · 100 người\n\nNgừng sử dụng\nXem lịch\nChỉnh sửa\nRoom A · Lịch sử dụng\n\nTầng 2 · 150 chỗ\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n20/10/2026 · 10:00–11:00\nFuture of Web Development\n22/10/2026 · 10:00–11:00\nDesigning for Impact\nQuản lý cơ sở vật chất\n\nChọn phòng để xem lịch sử dụng hoặc chỉnh sửa thông tin.\n\nThêm phòng\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý phòng",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "O5",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên\nPhòng\nCảnh báo\nĐến nội dung chính\nPhát hiện xung đột\n\nKiểm tra lịch trình và xử lý các phiên trùng phòng, trùng giờ.\n\nQuét toàn bộ lịch\nAI Conflict Resolver\n\nĐề xuất dựa trên lịch phòng và sức chứa hiện tại. Chỉ thay đổi lịch khi bạn xác nhận.\n\n Xung đột 1 · Room A\nCần xử lý\nModern JavaScript Best Practices\n\nTrần Đức Huy\n\n20/10/2026 · 09:00–10:00\nModern JavaScript Best Practices\n\nNguyễn Minh Anh\n\n20/10/2026 · 09:00–10:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 2 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nPhân tích phương án\nChỉnh thủ công\n Xung đột 3 · Room B\nCần xử lý\nBuilding AI-Powered Applications\n\nLê Thu Trang\n\n20/10/2026 · 11:00–12:00\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n Xung đột 4 · Room B\nCần xử lý\nAI Strategy for Product Teams\n\nLê Thu Trang\n\n20/10/2026 · 11:30–12:30\nBuilding AI-Powered Applications\n\nNguyễn Minh Anh\n\n20/10/2026 · 11:00–12:00\nPhân tích phương án\nChỉnh thủ công\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Phát hiện xung đột",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "O6",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nPhiên\nPhòng\nCảnh báo\nĐến nội dung chính\nCảnh báo sự kiện\n\nThông báo thay đổi đến đúng người, đúng thời điểm.\n\nTạo cảnh báo\n2\nTổng cảnh báo\n1\nĐã gửi\n0\nĐã lên lịch\n1\nBản nháp\nTất cả trạng thái\nĐã công bố\nĐã lên lịch\nBản nháp\nĐã lưu trữ\nChào mừng đến với EventPulse 2026\n\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\n\nĐã công bố\nThông tin\n20/09/2026 · 08:30\nXem\nSửa\nThu hồi\nNhắc lịch sự kiện ngày 2\n\nNgày thứ hai tại EventPulse bắt đầu lúc 09:00.\n\nBản nháp\nThông tin\n21/09/2026 · 08:30\nXem\nSửa\nXóa\nChi tiết cảnh báo\nChào mừng đến với EventPulse 2026\nĐã công bố\nHãy kiểm tra lịch phiên và mã vé trước khi đến sự kiện.\nĐối tượng\nall\nĐã gửi đến\n9 người\nThời gian\n20/09/2026\nChỉnh sửa\nThông báo kịp thời\n\nChọn vai trò hoặc nhóm người liên quan đến một phiên.\n\nSoạn cảnh báo\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Cảnh báo sự kiện",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "AD1",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nVé\nNgười dùng\nPhân tích\nĐến nội dung chính\nQuản lý loại vé\n\nQuản lý loại vé, số lượng và trạng thái bán.\n\nTạo loại vé\n2\nLoại vé\n600\nTổng số vé\n321\nĐã bán\n279\nCòn lại\nTất cả trạng thái\nBản nháp\nĐang hoạt động\nĐã bán hết\nNgừng bán\nĐã lưu trữ\nStandard\n200.000 ₫\n320 / 500\nĐang hoạt động\nXem\nSửa\nCommunity 2025\n0 ₫\n1 / 100\nĐã lưu trữ\nXem\nSửa\nChi tiết loại vé\nStandard\nĐang hoạt động\nGiá vé\n200.000 ₫\nSố lượng\n500\nĐã bán\n320\nCòn lại\n180\nBắt đầu bán\n01/09/2026\nKết thúc\n19/10/2026\nDoanh thu\n64.000.000 ₫\nChỉnh sửa\nNgừng bán\nLưu trữ\nĐón người tham dự\n\nTra cứu mã vé và xác nhận check-in tại sự kiện.\n\nQuản lý check-in\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý loại vé",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "AD2",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nVé\nNgười dùng\nPhân tích\nĐến nội dung chính\nQuản lý người dùng\n\nQuản lý tài khoản và quyền truy cập sự kiện.\n\nThêm người dùng\n12\nTổng người dùng\n12\nĐang hoạt động\n5\nDiễn giả\n2\nQuản trị viên\nTất cả vai trò\nNgười tham dự\nDiễn giả\nBan tổ chức\nQuản trị viên\nTất cả trạng thái\nĐang hoạt động\nChờ duyệt\nĐã khóa\nNgừng sử dụng\n0 đã chọn\nKhóa đã chọn\nMA\nNguyễn Minh Anh\nminhanh@example.com\nNgười tham dự\nĐang hoạt động\nXem\nSửa\nĐH\nTrần Đức Huy\nhuy@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nMA\nNguyễn Minh Anh\nanh@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nTT\nLê Thu Trang\ntrang@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nQB\nPhạm Quốc Bảo\nbao@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nKL\nVũ Khánh Linh\nuser5@example.com\nDiễn giả\nĐang hoạt động\nXem\nSửa\nVA\nNguyễn Văn An\nuser6@example.com\nNgười tham dự\nĐang hoạt động\nXem\nSửa\nHN\nLê Hoàng Nam\nuser7@example.com\nNgười tham dự\nĐang hoạt động\nXem\nSửa\nTH\nPhạm Thu Hà\nuser8@example.com\nBan tổ chức\nĐang hoạt động\nXem\nSửa\nMT\nTrần Minh Tú\nuser9@example.com\nQuản trị viên\nĐang hoạt động\nXem\nSửa\ncd\nBan tổ chức demo\norganizer@eventpulse.test\nBan tổ chức\nĐang hoạt động\nXem\nSửa\nvd\nQuản trị viên demo\nadmin@eventpulse.test\nQuản trị viên\nĐang hoạt động\nXem\nSửa\nChi tiết người dùng\nMA\nNguyễn Minh Anh\nminhanh@example.com\nVai trò\nNgười tham dự\nĐiện thoại\n0900000001\nTham gia\n01/09/2026\nTrạng thái\nĐang hoạt động\nChỉnh sửa\nKhóa tài khoản\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý người dùng",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "AD3",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nVé\nNgười dùng\nPhân tích\nĐến nội dung chính\nPhân tích sự kiện\n\nTheo dõi hiệu quả sự kiện từ dữ liệu hiện có.\n\nXuất báo cáo\n3\nNgười tham dự đăng ký\n321\nTổng vé đã bán\n50%\nCheck-in / vé hợp lệ mẫu\n16\nTổng số phiên\nTừ ngày\nĐến ngày\nTất cả chủ đề\nweb-development\nai\nproduct-design\ncybersecurity\ndata-analytics\nTất cả phòng\nRoom A\nRoom B\nRoom C\nRoom D\nRoom E\nRoom F\nPhòng cộng đồng 2025\nXóa bộ lọc\nVé đăng ký theo ngày\n\nSố liệu từ vé cá nhân mẫu, không phải tổng vé phát hành.\n\n09-20\n09-15\n1\n0\nPhân bổ loại vé\n\nTổng vé đã bán của toàn sự kiện.\n\n321\nStandard\nCommunity 2025\nHiệu suất phiên\nDữ liệu hiện tại\nModern JavaScript Best Practices\nweb-development\n95\n1\n120\n79%\nFuture of Web Development\nweb-development\n128\n0\n150\n85%\nBuilding AI-Powered Applications\nai\n142\n1\n150\n95%\nAI in Product Development\nai\n84\n0\n120\n70%\nDesign Systems in Practice\nproduct-design\n74\n0\n120\n62%\nSecurity in a DevOps World\ncybersecurity\n61\n0\n100\n61%\nData Storytelling with Impact\ndata-analytics\n150\n0\n150\n100%\nDesigning for Impact\nproduct-design\n67\n0\n120\n56%\nAI Strategy for Product Teams\nai\n76\n0\n150\n51%\nResponsible AI: From Ideas to Action\nai\n110\n0\n200\n55%\nScaling Frontend Architecture\nweb-development\n62\n0\n150\n41%\nProduct Discovery Workshop\nproduct-design\n46\n0\n100\n46%\nBuilding AI-Powered Applications\nai\n0\n0\n150\n0%\nModern JavaScript Best Practices\nweb-development\n0\n0\n150\n0%\nDesign Systems in Practice\nproduct-design\n0\n0\n100\n0%\nThực hành xây dựng sản phẩm web\nweb-development\n32\n0\n100\n32%\nChủ đề được quan tâm\nweb-development\n317\nai\n412\nproduct-design\n187\ncybersecurity\n61\ndata-analytics\n150\n AI Interest Forecast\n\nDự báo mức độ quan tâm và nguy cơ quá tải.\n\nChọn phiên\nModern JavaScript Best Practices\nFuture of Web Development\nBuilding AI-Powered Applications\nAI in Product Development\nDesign Systems in Practice\nSecurity in a DevOps World\nData Storytelling with Impact\nDesigning for Impact\nAI Strategy for Product Teams\nResponsible AI: From Ideas to Action\nScaling Frontend Architecture\nPro",
+    "h1": "Phân tích sự kiện",
+    "header": 1,
+    "bottom": true
+  },
+  {
+    "id": "AD4",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "text": "EventPulse\nĐổi vai trò\nTổng quan\nVé\nNgười dùng\nPhân tích\nĐến nội dung chính\nQuản lý check-in\n\nTra cứu vé và xác nhận người tham dự.\n\nQuản lý loại vé\n2\nVé cá nhân mẫu\n1\nĐã check-in\n1\nChưa check-in\n0\nKhông hợp lệ\nTra cứu vé\nQuét mã (mock)\n\nNhập mã vé để kiểm tra. Mã mẫu: EP26-001-A7K2\n\nLịch sử check-in\nNguyễn Minh Anh\nEP25-DEMO-001\n20/10/2025 · 08:30\nThông tin vé\nChưa chọn vé\n\nChọn một kết quả tra cứu để kiểm tra.\n\nEventPulse · CSE122 · Dữ liệu mô phỏng",
+    "h1": "Quản lý check-in",
+    "header": 1,
+    "bottom": true
+  }
+]

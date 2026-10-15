@@ -1,0 +1,275 @@
+[
+    {
+        "id": "USR001",
+        "fullName": "Nguyễn Minh Anh",
+        "email": "minhanh@example.com",
+        "phone": "0900000001",
+        "avatar": "",
+        "role": "attendee",
+        "status": "active",
+        "interests": [
+            "web-development",
+            "ai",
+            "product"
+        ],
+        "bio": "",
+        "expertise": [
+            "Web Development",
+            "AI",
+            "Product"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-10-01T08:00:00",
+        "socialLinks": {},
+        "bio_en": "",
+        "expertise_en": [
+            "Web Development",
+            "AI",
+            "Product"
+        ]
+    },
+    {
+        "id": "USR101",
+        "fullName": "Trần Đức Huy",
+        "email": "huy@example.com",
+        "role": "speaker",
+        "status": "active",
+        "jobTitle": "Senior Frontend Engineer",
+        "company": "TechVision",
+        "bio": "Chia sẻ kinh nghiệm xây dựng sản phẩm web hiện đại.",
+        "expertise": [
+            "JavaScript",
+            "Frontend",
+            "Web Development"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "phone": "",
+        "avatar": "assets/images/speaker-avatar.svg",
+        "interests": [],
+        "socialLinks": {},
+        "bio_en": "Sharing experience in building modern web products.",
+        "jobTitle_en": "Senior Frontend Engineer",
+        "company_en": "TechVision",
+        "expertise_en": [
+            "JavaScript",
+            "Frontend",
+            "Web Development"
+        ]
+    },
+    {
+        "id": "USR102",
+        "fullName": "Nguyễn Minh Anh",
+        "email": "anh@example.com",
+        "role": "speaker",
+        "status": "active",
+        "jobTitle": "Product Engineer",
+        "company": "Nova Labs",
+        "bio": "Tập trung vào AI và phát triển sản phẩm.",
+        "expertise": [
+            "AI",
+            "Product",
+            "Machine Learning"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "phone": "",
+        "avatar": "assets/images/speaker-avatar.svg",
+        "interests": [],
+        "socialLinks": {},
+        "bio_en": "Focusing on AI and product development.",
+        "jobTitle_en": "Product Engineer",
+        "company_en": "Nova Labs",
+        "expertise_en": [
+            "AI",
+            "Product",
+            "Machine Learning"
+        ]
+    },
+    {
+        "id": "USR103",
+        "fullName": "Lê Thu Trang",
+        "email": "trang@example.com",
+        "role": "speaker",
+        "status": "active",
+        "jobTitle": "AI Product Lead",
+        "company": "DataWorks",
+        "bio": "Thiết kế các tính năng AI có kiểm soát.",
+        "expertise": [
+            "AI",
+            "Product Development"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "phone": "",
+        "avatar": "assets/images/speaker-avatar.svg",
+        "interests": [],
+        "socialLinks": {},
+        "bio_en": "Designing AI features with human control.",
+        "jobTitle_en": "AI Product Lead",
+        "company_en": "DataWorks",
+        "expertise_en": [
+            "AI",
+            "Product Development"
+        ]
+    },
+    {
+        "id": "USR104",
+        "fullName": "Phạm Quốc Bảo",
+        "email": "bao@example.com",
+        "role": "speaker",
+        "status": "active",
+        "jobTitle": "Design Systems Lead",
+        "company": "Studio X",
+        "bio": "Thiết kế hệ thống giao diện và trải nghiệm số.",
+        "expertise": [
+            "Product Design",
+            "UX",
+            "Design Systems"
+        ],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "phone": "",
+        "avatar": "assets/images/speaker-avatar.svg",
+        "interests": [],
+        "socialLinks": {},
+        "bio_en": "Designing interface systems and digital experiences.",
+        "jobTitle_en": "Design Systems Lead",
+        "company_en": "Studio X",
+        "expertise_en": [
+            "Product Design",
+            "UX",
+            "Design Systems"
+        ]
+    },
+    {
+        "id": "USR3005",
+        "fullName": "Vũ Khánh Linh",
+        "email": "user5@example.com",
+        "phone": "0900000005",
+        "avatar": "assets/images/speaker-avatar.svg",
+        "role": "speaker",
+        "status": "active",
+        "interests": [
+            "ai",
+            "web-development"
+        ],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "socialLinks": {},
+        "bio_en": "",
+        "expertise_en": []
+    },
+    {
+        "id": "USR3006",
+        "fullName": "Nguyễn Văn An",
+        "email": "user6@example.com",
+        "phone": "0900000006",
+        "avatar": "",
+        "role": "attendee",
+        "status": "active",
+        "interests": [
+            "ai",
+            "web-development"
+        ],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "socialLinks": {},
+        "bio_en": "",
+        "expertise_en": []
+    },
+    {
+        "id": "USR3007",
+        "fullName": "Lê Hoàng Nam",
+        "email": "user7@example.com",
+        "phone": "0900000007",
+        "avatar": "",
+        "role": "attendee",
+        "status": "active",
+        "interests": [
+            "ai",
+            "web-development"
+        ],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "socialLinks": {},
+        "bio_en": "",
+        "expertise_en": []
+    },
+    {
+        "id": "USR3008",
+        "fullName": "Phạm Thu Hà",
+        "email": "user8@example.com",
+        "phone": "0900000008",
+        "avatar": "",
+        "role": "organizer",
+        "status": "active",
+        "interests": [
+            "ai",
+            "web-development"
+        ],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "socialLinks": {},
+        "bio_en": "",
+        "expertise_en": []
+    },
+    {
+        "id": "USR3009",
+        "fullName": "Trần Minh Tú",
+        "email": "user9@example.com",
+        "phone": "0900000009",
+        "avatar": "",
+        "role": "admin",
+        "status": "active",
+        "interests": [
+            "ai",
+            "web-development"
+        ],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "socialLinks": {},
+        "bio_en": "",
+        "expertise_en": []
+    },
+    {
+        "id": "USR201",
+        "fullName": "Ban tổ chức demo",
+        "email": "organizer@eventpulse.test",
+        "role": "organizer",
+        "status": "active",
+        "avatar": "",
+        "interests": [],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "bio_en": "",
+        "expertise_en": []
+    },
+    {
+        "id": "USR301",
+        "fullName": "Quản trị viên demo",
+        "email": "admin@eventpulse.test",
+        "role": "admin",
+        "status": "active",
+        "avatar": "",
+        "interests": [],
+        "bio": "",
+        "expertise": [],
+        "createdAt": "2026-09-01T08:00:00",
+        "updatedAt": "2026-09-01T08:00:00",
+        "bio_en": "",
+        "expertise_en": []
+    }
+]

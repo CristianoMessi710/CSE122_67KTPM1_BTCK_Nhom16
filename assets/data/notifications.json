@@ -1,0 +1,13 @@
+[
+    {
+        "id": "NOT001",
+        "userId": "USR001",
+        "type": "system",
+        "title": "Chào mừng đến EventPulse",
+        "message": "Bạn có thể khám phá session và xây dựng agenda cá nhân.",
+        "relatedEntityType": "event",
+        "relatedEntityId": "EVT001",
+        "isRead": false,
+        "createdAt": "2026-10-01T08:00:00"
+    }
+]
