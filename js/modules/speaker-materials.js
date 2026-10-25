@@ -1,3 +1,4 @@
+import { locale } from '../i18n.js';
 (() => {
     'use strict';
 
@@ -100,7 +101,7 @@
     }
 
     function formatDate(value) {
-        return new Date(value).toLocaleString('vi-VN', {
+        return new Date(value).toLocaleString(locale(), {
             day: '2-digit',
             month: '2-digit',
             year: 'numeric',

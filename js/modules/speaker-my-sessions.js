@@ -1,3 +1,4 @@
+import { locale } from '../i18n.js';
 (() => {
     const USER_ID = window.EP.currentUser().id;
     const EP = window.EventPulse || {};
@@ -54,7 +55,7 @@
     }
 
     function formatDate(v) {
-        return new Date(v).toLocaleString('vi-VN', {
+        return new Date(v).toLocaleString(locale(), {
             day: '2-digit',
             month: '2-digit',
             year: 'numeric',
@@ -106,7 +107,7 @@
         <div class="session-card-body">
           <h3>${escapeHTML(s.title)}</h3>
           <div class="meta">
-            <span>${window.EP.icon('clock')} ${formatDate(s.startTime)} - ${new Date(s.endTime).toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })}</span>
+            <span>${window.EP.icon('clock')} ${formatDate(s.startTime)} - ${new Date(s.endTime).toLocaleTimeString(locale(), { hour: '2-digit', minute: '2-digit' })}</span>
             <span>${window.EP.icon('pin')} ${escapeHTML(window.EP.store.get('rooms').find((r) => r.id === s.roomId)?.name || 'Chưa xếp phòng')}</span>
           </div>
           <p class="desc">${escapeHTML(s.description)}</p>

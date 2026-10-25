@@ -1,3 +1,4 @@
+import { locale } from '../i18n.js';
 (() => {
     'use strict';
     const EP = window.EventPulse || {};
@@ -80,7 +81,7 @@
         $('#level').textContent = l;
         $('#hint').textContent = h;
         $('#confidence').textContent = cur.confidence + '%';
-        $('#updated').textContent = new Date().toLocaleString('vi-VN');
+        $('#updated').textContent = new Date().toLocaleString(locale());
         const max = Math.max(1, ...cur.points);
         $('#chart').innerHTML = cur.points
             .map(

@@ -1,3 +1,4 @@
+import { messages } from './messages.js';
 /** SV2 translation dictionary retained for marked UI strings. */
 const dictionary = {
     vi: {
@@ -140,6 +141,9 @@ const homeMessages = {
         'nav.tickets': 'Vé',
         'nav.users': 'Người dùng',
         'nav.analytics': 'Phân tích',
+        'nav.adminOverview': 'Tổng quan & phân tích',
+        'nav.ticketTypes': 'Loại vé',
+        'nav.checkIn': 'Check-in',
         'role.attendee': 'Người tham dự',
         'role.speaker': 'Diễn giả',
         'role.organizer': 'Ban tổ chức',
@@ -338,6 +342,9 @@ const homeMessages = {
         'nav.tickets': 'Tickets',
         'nav.users': 'Users',
         'nav.analytics': 'Analytics',
+        'nav.adminOverview': 'Overview & analytics',
+        'nav.ticketTypes': 'Ticket types',
+        'nav.checkIn': 'Check-in',
         'role.attendee': 'Attendee',
         'role.speaker': 'Speaker',
         'role.organizer': 'Organizer',
@@ -534,7 +541,7 @@ for (const language of ['vi', 'en']) Object.assign(dictionary[language], homeMes
 export function language() {
     const user = read('currentUser'),
         all = read('settings', {});
-    return (all.byUser?.[user?.id || 'guest']?.language || all.language) === 'en' ? 'en' : 'vi';
+    return (all.language || all.byUser?.[user?.id || 'guest']?.language) === 'en' ? 'en' : 'vi';
 }
 export const locale = () => (language() === 'en' ? 'en-US' : 'vi-VN');
 export function t(key, values = {}) {
@@ -560,5 +567,120 @@ export function applyTranslations(root = document) {
             else if (el[target] !== text) el[target] = text;
         });
     }
+    translateLegacyUI(root);
     if (document.body.dataset.screen === 'S1') document.title = t('home.title') + ' · EventPulse';
+}
+
+
+// Keep original text per node so switching language never requires rebuilding forms.
+// Values, IDs, URLs, editable fields and explicitly untranslated content are untouched.
+const messagePatterns = [
+    [/^Chọn (.+)$/, 'Select $1'],
+    [/^Đã check-in lúc (.+)$/, 'Checked in at $1'],
+    [/^(\d+)\/5 sao · (.+)$/, '$1/5 stars · $2'],
+    [/^Bạn có (\d+) thông báo\.$/, 'You have $1 notifications.'],
+    [/^(\d+) \/ (\d+) chỗ còn lại$/, '$1 / $2 seats remaining'],
+    [/^Thời lượng: (\d+) giờ (\d+) phút$/, 'Duration: $1 hours $2 minutes'],
+    [/^(\d+) tài liệu đã được thêm vào session\.$/, '$1 materials added to the session.'],
+    [/^Đã xoá (.+)\.$/, 'Deleted $1.'],
+    [/^Thời lượng: (\d+) giờ$/, 'Duration: $1 hours'],
+    [/^Thời lượng: (\d+) phút$/, 'Duration: $1 minutes'],
+    [/^(\d+) lượt đăng ký và (\d+) lượt lưu lịch\.$/, '$1 registrations and $2 agenda saves.'],
+    [/^(\d+) chưa đọc$/, '$1 unread'],
+    [/^(\d+) phiên$/, '$1 sessions'],
+    [/^Còn (\d+) chỗ$/, '$1 seats left'],
+    [/^(\d+) người$/, '$1 people'],
+    [/^(\d+) tài liệu$/, '$1 materials'],
+    [/^(\d+) phiên chờ duyệt$/, '$1 sessions pending approval'],
+    [/^(\d+) xung đột lịch$/, '$1 schedule conflicts'],
+    [/^Từ (\d+) phản hồi trong dữ liệu mẫu\.$/, 'Based on $1 responses in the sample data.'],
+    [/^Xung đột (\d+) · (.+)$/, 'Conflict $1 · $2'],
+    [/^(.+) · Lịch sử dụng$/, '$1 · Room schedule'],
+    [/^Tầng (\d+) · (\d+) người$/, 'Floor $1 · $2 people'],
+    [/^Tầng (\d+) · (\d+) chỗ$/, 'Floor $1 · $2 seats'],
+    [/^(.+) · (\d+) người$/, '$1 · $2 people'],
+    [/^(.+) \/ 5 · (\d+) phản hồi$/, '$1 / 5 · $2 responses'],
+    [/^Trang này dành cho vai trò khác\. Bạn đang dùng tài khoản (.+)\.$/, 'This page is for a different role. Your current role is $1.'],
+    [/^Dựa trên (\d+) lượt đăng ký và (\d+) lượt lưu lịch\. Đây là dự báo mô phỏng, không phải số tham dự thực tế\.$/, 'Based on $1 registrations and $2 agenda saves. This is a simulated forecast, not actual attendance.']
+];
+const originalText = new WeakMap();
+const originalAttributes = new WeakMap();
+let translationObserver;
+let translating = false;
+const ignoredContent = 'script, style, textarea, [contenteditable], [translate="no"], [data-i18n]';
+
+export function translateText(source) {
+    if (language() !== 'en') return source;
+    const core = source.trim().replace(/\s+/g, ' ');
+    let translated = (Object.hasOwn(messages, core) ? messages[core] : undefined);
+    if (translated === undefined && core.endsWith(' *')) {
+        const label = Object.hasOwn(messages, core.slice(0, -2)) ? messages[core.slice(0, -2)] : undefined;
+        if (label) translated = label + ' *';
+    }
+    if (translated === undefined) {
+        for (const [pattern, replacement] of messagePatterns) {
+            if (pattern.test(core)) {
+                translated = core.replace(pattern, replacement);
+                break;
+            }
+        }
+    }
+    return translated === undefined ? source : source.replace(source.trim(), translated);
+}
+
+function translatedValue(target, current, cache, key) {
+    const records = cache.get(target) || {};
+    let record = records[key];
+    // A renderer may update an existing node: remember the new source in that case.
+    if (!record || (current !== record.source && current !== record.output)) {
+        record = { source: current };
+    }
+    record.output = translateText(record.source);
+    records[key] = record;
+    cache.set(target, records);
+    return record.output;
+}
+
+function translateLegacyUI(root) {
+    if (translating) return;
+    translating = true;
+    translationObserver?.disconnect();
+    try {
+        // An option without value derives its value from text. Freeze it before translating.
+        root.querySelectorAll('option:not([value])').forEach((option) => {
+            option.value = option.textContent;
+        });
+        const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+        let node;
+        while ((node = walker.nextNode())) {
+            if (!node.parentElement || node.parentElement.closest(ignoredContent)) continue;
+            const value = translatedValue(node, node.nodeValue, originalText, 'text');
+            if (node.nodeValue !== value) node.nodeValue = value;
+        }
+        const elements = [...root.querySelectorAll('[placeholder], [aria-label], [title], [data-label], option')];
+        for (const el of elements) {
+            if (el.closest('[translate="no"]')) continue;
+            for (const attr of ['placeholder', 'aria-label', 'title', 'data-label']) {
+                if (!el.hasAttribute(attr) || el.hasAttribute('data-i18n-' + attr)) continue;
+                const value = translatedValue(el, el.getAttribute(attr), originalAttributes, attr);
+                if (el.getAttribute(attr) !== value) el.setAttribute(attr, value);
+            }
+        }
+    } finally {
+        translating = false;
+        translationObserver?.observe(document.body, {
+            childList: true,
+            subtree: true,
+            characterData: true,
+            attributes: true,
+            attributeFilter: ['placeholder', 'aria-label', 'title', 'data-label']
+        });
+    }
+}
+
+export function observeTranslations() {
+    if (translationObserver) return;
+    translationObserver = new MutationObserver(() => applyTranslations());
+    applyTranslations();
+    window.addEventListener('ep:locale', () => applyTranslations());
 }

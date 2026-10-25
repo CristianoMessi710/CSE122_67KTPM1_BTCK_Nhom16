@@ -1,3 +1,4 @@
+import { locale } from '../i18n.js';
 /* SV1 attendee screens. LocalStorage entities follow EventPulse DATA_SCHEMA. */
 (() => {
     'use strict';
@@ -12,9 +13,9 @@
         sessionStorage.removeItem('eventpulse_testFailAI');
         return fail;
     }
-    const date = (v) => new Date(v).toLocaleDateString('vi-VN');
+    const date = (v) => new Date(v).toLocaleDateString(locale());
     const time = (v) =>
-        new Date(v).toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' });
+        new Date(v).toLocaleTimeString(locale(), { hour: '2-digit', minute: '2-digit' });
     const range = (s) => time(s.startTime) + ' – ' + time(s.endTime);
     const localDay = (v) => {
         const d = new Date(v);
@@ -607,7 +608,7 @@
                 ok = valid(t, ev),
                 checked = t.status === 'checkedIn';
             $('ticket-content').innerHTML =
-                `<label class="field">Chọn vé<select id="ticket-select" class="select">${all.map((x) => `<option value="${esc(x.id)}" ${x.id === t.id ? 'selected' : ''}>${esc(x.ticketCode)}</option>`).join('')}</select></label><div class="grid grid-2 inline-note"><section class="ticket-card"><strong>EventPulse</strong><h2 class="inline-note">${esc(ev?.name || 'Sự kiện chưa xác định')}</h2><p>${esc(type?.name || 'Loại vé chưa xác định')}</p><p>${esc(EP.currentUser().fullName)}</p><div class="ticket-code">${esc(t.ticketCode)}</div><p>${esc(ev?.startDate)} – ${esc(ev?.endDate)} · ${esc(ev?.location)}</p></section><section class="card stack"><canvas id="qr" class="ticket-qr" width="210" height="210" aria-label="Mã QR mô phỏng"></canvas><p class="small">QR mô phỏng; dùng mã vé khi check-in.</p><p role="status">${!ok ? 'Vé không hợp lệ, bị hủy hoặc đã hết hạn.' : checked ? 'Đã check-in lúc ' + new Date(t.checkedInAt).toLocaleString('vi-VN') : 'Chưa check-in'}</p><div class="actions"><button id="checkin" class="btn" ${!ok || checked ? 'disabled' : ''}>${checked ? 'Đã check-in' : 'Xác nhận check-in mock'}</button><button class="btn secondary" id="download-ticket" ${!ok ? 'disabled' : ''}>Tải vé PNG</button></div><a href="${link('session-feedback')}">Phản hồi các session đã tham dự</a></section></div>`;
+                `<label class="field">Chọn vé<select id="ticket-select" class="select">${all.map((x) => `<option value="${esc(x.id)}" ${x.id === t.id ? 'selected' : ''}>${esc(x.ticketCode)}</option>`).join('')}</select></label><div class="grid grid-2 inline-note"><section class="ticket-card"><strong>EventPulse</strong><h2 class="inline-note">${esc(ev?.name || 'Sự kiện chưa xác định')}</h2><p>${esc(type?.name || 'Loại vé chưa xác định')}</p><p>${esc(EP.currentUser().fullName)}</p><div class="ticket-code">${esc(t.ticketCode)}</div><p>${esc(ev?.startDate)} – ${esc(ev?.endDate)} · ${esc(ev?.location)}</p></section><section class="card stack"><canvas id="qr" class="ticket-qr" width="210" height="210" aria-label="Mã QR mô phỏng"></canvas><p class="small">QR mô phỏng; dùng mã vé khi check-in.</p><p role="status">${!ok ? 'Vé không hợp lệ, bị hủy hoặc đã hết hạn.' : checked ? 'Đã check-in lúc ' + new Date(t.checkedInAt).toLocaleString(locale()) : 'Chưa check-in'}</p><div class="actions"><button id="checkin" class="btn" ${!ok || checked ? 'disabled' : ''}>${checked ? 'Đã check-in' : 'Xác nhận check-in mock'}</button><button class="btn secondary" id="download-ticket" ${!ok ? 'disabled' : ''}>Tải vé PNG</button></div><a href="${link('session-feedback')}">Phản hồi các session đã tham dự</a></section></div>`;
             const canvas = $('qr'),
                 ctx = canvas.getContext('2d');
             ctx.fillStyle = '#FFFFFF';

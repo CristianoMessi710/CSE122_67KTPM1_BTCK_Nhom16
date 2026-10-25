@@ -1,10 +1,10 @@
-# EventPulse — Bản hoàn chỉnh để nộp bài
+# EventPulse — Bản tích hợp của nhóm
 
 Bài tập cuối kỳ **CSE122 · Lớp 67KTPM1 · Nhóm 16**. EventPulse là giao diện hệ thống quản lý sự kiện, viết bằng HTML, CSS và JavaScript thuần với ES modules.
 
-**Nhánh:** `main` · **Giai đoạn:** bản cuối đã tích hợp.
+**Nhánh:** `dev` · **Giai đoạn:** tích hợp và kiểm tra trước khi đưa lên `main`.
 
-Toàn bộ sản phẩm EventPulse đã tích hợp: Người tham dự, Diễn giả, Ban tổ chức, Quản trị viên và các màn dùng chung.
+Dự án gồm Người tham dự, Diễn giả, Ban tổ chức, Quản trị viên và các màn dùng chung. Các thay đổi được tích hợp vào `dev`, kiểm tra và review trước khi đưa lên `main` để bàn giao.
 
 > Mỗi nhánh chứa toàn bộ mã nguồn để chạy ứng dụng. Phạm vi dưới đây thể hiện phân công chức năng, không có nghĩa nhánh chỉ chứa file của một sinh viên. README này mô tả bản bàn giao, không thay thế lịch sử commit hoặc xác nhận tác giả của mọi thay đổi.
 
@@ -18,7 +18,7 @@ Toàn bộ sản phẩm EventPulse đã tích hợp: Người tham dự, Diễn 
 ```bash
 git clone https://github.com/CristianoMessi710/CSE122_67KTPM1_BTCK_Nhom16.git
 cd CSE122_67KTPM1_BTCK_Nhom16
-git switch main
+git switch dev
 ```
 
 Cách khác, nếu máy có Python:
@@ -36,6 +36,8 @@ Mở http://localhost:5500. Trên máy dùng lệnh `python3`, thay `python` b�
 - Organizer: quản lý phiên, phòng, lịch, xung đột và cảnh báo.
 - Admin: loại vé, người dùng, check-in và phân tích dữ liệu.
 - Shared: trang chủ, tài khoản, cài đặt, thông báo và trang lỗi.
+- Các vai trò dùng chung dữ liệu, liên kết qua sessionId, speakerIds và roomId.
+- Đối chiếu bản tích hợp bằng checklist và báo cáo trong repository.
 
 ## Màn hình trong phạm vi
 
@@ -86,6 +88,11 @@ Các màn Shared được tổng hợp từ các nguồn và chuẩn hóa dùng 
 
 ## Mã nguồn liên quan
 
+- [js/routes.js](js/routes.js)
+- [js/storage.js](js/storage.js)
+- [js/api.js](js/api.js)
+- [js/ui.js](js/ui.js)
+- [js/bridge.js](js/bridge.js)
 - [js/modules/attendee.js](js/modules/attendee.js)
 - [js/modules/speaker-profile.js](js/modules/speaker-profile.js)
 - [js/modules/speaker-my-sessions.js](js/modules/speaker-my-sessions.js)
@@ -147,3 +154,9 @@ Các màn tài khoản, cài đặt, thông báo, 403 và 404 nằm tại root. 
 `main` là bản hoàn chỉnh để nộp. `dev` và các nhánh `feature/*` được giữ lại để thể hiện tổ chức dự án; không bắt buộc tạo thêm công việc sau khi chốt bài. Không xóa phần của người khác khỏi nhánh.
 
 Nếu cần sửa sau bàn giao, tạo nhánh sửa từ bản phù hợp, kiểm tra ảnh hưởng liên vai trò rồi tạo Pull Request. Các file dùng chung như `css/tokens.css`, `css/components.css`, `js/ui.js`, `js/storage.js` và dữ liệu JSON cần được phối hợp trước khi chỉnh.
+## Hồ sơ Inventory và sử dụng AI
+
+- [Screen Inventory và hồ sơ minh chứng 32 màn](docs/screen-inventory.md).
+- [Báo cáo sử dụng AI — chờ thành viên xác nhận](docs/ai-usage-report.md).
+
+Các tài liệu phân biệt trạng thái triển khai với nghiệm thu đầy đủ. Các link Figma/task/PR/OBS và thông tin thành viên chưa có bằng chứng được ghi rõ, không xem là đã hoàn thành.

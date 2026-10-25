@@ -5,10 +5,6 @@
         flex-wrap: wrap;
     }
 
-    .app-header .settings-link {
-        display: none;
-    }
-
     .split,
     .split.wide {
         grid-template-columns: minmax(0, 1fr);

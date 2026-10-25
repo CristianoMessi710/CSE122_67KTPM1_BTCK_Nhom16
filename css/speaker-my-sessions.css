@@ -276,20 +276,6 @@ form textarea:focus {
     margin-top: 8px;
 }
 
-.toast {
-    position: fixed;
-    right: 22px;
-    top: 78px;
-    background: var(--bg);
-    color: var(--success);
-    border: 1px solid var(--border);
-    padding: 11px 15px;
-    border-radius: 9px;
-    z-index: 50;
-    font-size: 13px;
-    font-weight: 700;
-}
-
 @media (max-width: 850px) {
     .session-list {
         grid-template-columns: 1fr;

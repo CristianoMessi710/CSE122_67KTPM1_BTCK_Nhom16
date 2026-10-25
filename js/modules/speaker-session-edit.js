@@ -1,3 +1,4 @@
+import { locale } from '../i18n.js';
 (() => {
     const USER_ID = window.EP.currentUser().id;
     const SESSION_ID =
@@ -39,7 +40,7 @@
     }
 
     function fmt(v) {
-        return new Date(v).toLocaleString('vi-VN', {
+        return new Date(v).toLocaleString(locale(), {
             day: '2-digit',
             month: '2-digit',
             year: 'numeric',
