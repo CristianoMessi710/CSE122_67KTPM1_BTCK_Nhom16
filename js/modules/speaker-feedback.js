@@ -1,3 +1,4 @@
+import { locale } from '../i18n.js';
 /** SP6 extracted from SV2 overview, now reads attendee feedback entities. */
 const main = document.querySelector('main'),
     E = window.EP;
@@ -38,7 +39,7 @@ function draw() {
         ? data
               .map(
                   (f) =>
-                      `<article class="card"><h3>${E.esc(sessions.find((s) => s.id === f.sessionId)?.title)}</h3><p>${f.rating}/5 sao · ${new Date(f.updatedAt || f.createdAt).toLocaleString('vi-VN')}</p><p>${E.esc(f.comment)}</p></article>`
+                      `<article class="card"><h3>${E.esc(sessions.find((s) => s.id === f.sessionId)?.title)}</h3><p>${f.rating}/5 sao · ${new Date(f.updatedAt || f.createdAt).toLocaleString(locale())}</p><p>${E.esc(f.comment)}</p></article>`
               )
               .join('')
         : '<section class="empty-state">Chưa có phản hồi cho các phiên đã chọn.</section>';

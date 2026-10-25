@@ -440,28 +440,6 @@ textarea:focus {
     background: var(--bg);
 }
 
-.toast {
-    position: fixed;
-    right: 24px;
-    bottom: 24px;
-    z-index: 100;
-    max-width: min(420px, calc(100% - 32px));
-    padding: 13px 16px;
-    border-radius: 10px;
-    background: var(--text);
-    color: var(--on-primary);
-    box-shadow: var(--shadow-lg);
-    animation: toastIn 0.18s ease;
-}
-
-.toast.success {
-    background: var(--success);
-}
-
-.toast.error {
-    background: var(--error);
-}
-
 @keyframes toastIn {
     from {
         transform: translateY(8px);

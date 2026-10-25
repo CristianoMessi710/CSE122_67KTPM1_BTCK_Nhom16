@@ -1,0 +1,244 @@
+{
+  "results": [
+    {
+      "screen": "S1",
+      "route": "index.html",
+      "actual": "S1",
+      "texts": [
+        "Trần Đức Huy",
+        "Nguyễn Minh Anh",
+        "Lê Thu Trang",
+        "Phạm Quốc Bảo",
+        "Vũ Khánh Linh"
+      ]
+    },
+    {
+      "screen": "S2",
+      "route": "login.html",
+      "actual": "S2",
+      "texts": []
+    },
+    {
+      "screen": "S3",
+      "route": "register.html",
+      "actual": "S3",
+      "texts": []
+    },
+    {
+      "screen": "S4",
+      "route": "forgot-password.html",
+      "actual": "S4",
+      "texts": []
+    },
+    {
+      "screen": "S5",
+      "route": "profile.html",
+      "actual": "S5",
+      "texts": []
+    },
+    {
+      "screen": "S6",
+      "route": "settings.html",
+      "actual": "S6",
+      "texts": [
+        "Nguyễn Minh Anh"
+      ]
+    },
+    {
+      "screen": "S7",
+      "route": "notifications.html",
+      "actual": "S7",
+      "texts": []
+    },
+    {
+      "screen": "S8",
+      "route": "403.html",
+      "actual": "S8",
+      "texts": []
+    },
+    {
+      "screen": "S9",
+      "route": "404.html",
+      "actual": "S9",
+      "texts": []
+    },
+    {
+      "screen": "A1",
+      "route": "pages/attendee/attendee-session-catalog.html",
+      "actual": "A1",
+      "texts": [
+        "Nguyễn Minh Anh",
+        "Trần Đức Huy",
+        "Lê Thu Trang",
+        "Phạm Quốc Bảo",
+        "Vũ Khánh Linh"
+      ]
+    },
+    {
+      "screen": "A2",
+      "route": "pages/attendee/attendee-session-detail.html",
+      "actual": "A2",
+      "texts": []
+    },
+    {
+      "screen": "A3",
+      "route": "pages/attendee/attendee-my-agenda.html",
+      "actual": "A3",
+      "texts": []
+    },
+    {
+      "screen": "A4",
+      "route": "pages/attendee/attendee-schedule-conflict.html",
+      "actual": "A4",
+      "texts": []
+    },
+    {
+      "screen": "A5",
+      "route": "pages/attendee/attendee-recommendations.html",
+      "actual": "A5",
+      "texts": []
+    },
+    {
+      "screen": "A6",
+      "route": "pages/attendee/attendee-session-feedback.html",
+      "actual": "A6",
+      "texts": []
+    },
+    {
+      "screen": "A7",
+      "route": "pages/attendee/attendee-my-ticket.html",
+      "actual": "A7",
+      "texts": [
+        "Nguyễn Minh Anh"
+      ]
+    },
+    {
+      "screen": "SP1",
+      "route": "pages/speaker/speaker-profile.html",
+      "actual": "SP1",
+      "texts": [
+        "Trần Đức Huy"
+      ]
+    },
+    {
+      "screen": "SP2",
+      "route": "pages/speaker/speaker-my-session.html",
+      "actual": "SP2",
+      "texts": []
+    },
+    {
+      "screen": "SP3",
+      "route": "pages/speaker/speaker-session-detail.html",
+      "actual": "SP3",
+      "texts": []
+    },
+    {
+      "screen": "SP4",
+      "route": "pages/speaker/speaker-session-materials.html",
+      "actual": "SP4",
+      "texts": []
+    },
+    {
+      "screen": "SP5",
+      "route": "pages/speaker/speaker-interest-forecast.html",
+      "actual": "SP5",
+      "texts": []
+    },
+    {
+      "screen": "SP6",
+      "route": "pages/speaker/speaker-feedback-overview.html",
+      "actual": "SP6",
+      "texts": []
+    },
+    {
+      "screen": "O1",
+      "route": "pages/organizer/organizer-dashboard.html",
+      "actual": "O1",
+      "texts": [
+        "Room A · Trần Đức Huy",
+        "Room A · Nguyễn Minh Anh",
+        "Room B · Lê Thu Trang"
+      ]
+    },
+    {
+      "screen": "O2",
+      "route": "pages/organizer/organizer-session-management.html",
+      "actual": "O2",
+      "texts": [
+        "Nguyễn Minh Anh",
+        "Trần Đức Huy",
+        "Lê Thu Trang",
+        "Phạm Quốc Bảo"
+      ]
+    },
+    {
+      "screen": "O3",
+      "route": "pages/organizer/organizer-session-detail.html",
+      "actual": "O3",
+      "texts": []
+    },
+    {
+      "screen": "O4",
+      "route": "pages/organizer/organizer-room-management.html",
+      "actual": "O4",
+      "texts": [
+        "Hà Nội · 100 people"
+      ]
+    },
+    {
+      "screen": "O5",
+      "route": "pages/organizer/organizer-conflict-detection.html",
+      "actual": "O5",
+      "texts": [
+        "Trần Đức Huy",
+        "Nguyễn Minh Anh",
+        "Lê Thu Trang"
+      ]
+    },
+    {
+      "screen": "O6",
+      "route": "pages/organizer/organizer-event-alerts.html",
+      "actual": "O6",
+      "texts": []
+    },
+    {
+      "screen": "AD1",
+      "route": "pages/admin/admin-ticket-type-management.html",
+      "actual": "AD1",
+      "texts": []
+    },
+    {
+      "screen": "AD2",
+      "route": "pages/admin/admin-user-management.html",
+      "actual": "AD2",
+      "texts": [
+        "Nguyễn Minh Anh",
+        "Trần Đức Huy",
+        "Lê Thu Trang",
+        "Phạm Quốc Bảo",
+        "Vũ Khánh Linh",
+        "Nguyễn Văn An",
+        "Lê Hoàng Nam",
+        "Phạm Thu Hà",
+        "Trần Minh Tú",
+        "Ban tổ chức demo",
+        "Quản trị viên demo"
+      ]
+    },
+    {
+      "screen": "AD3",
+      "route": "pages/admin/admin-event-analytics.html",
+      "actual": "AD3",
+      "texts": []
+    },
+    {
+      "screen": "AD4",
+      "route": "pages/admin/admin-checkin-management.html",
+      "actual": "AD4",
+      "texts": [
+        "Nguyễn Minh Anh"
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -45,7 +45,7 @@ export function mountHeader() {
 export function settings(patch) {
     const all = S.read('settings', {}),
         id = currentUser()?.id || 'guest';
-    if (!patch) return { ...all, ...all.byUser?.[id] };
+    if (!patch) return { ...all, ...all.byUser?.[id], language: language() };
     const beforeLanguage = language();
     S.write('settings', {
         ...all,

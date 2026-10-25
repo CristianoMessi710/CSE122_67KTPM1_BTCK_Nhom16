@@ -1,3 +1,4 @@
+import { translateText } from '../i18n.js';
 function ticketValid(ticket, data) {
     const event = data.events.find((e) => e.id === ticket?.eventId);
     return (
@@ -97,7 +98,7 @@ function analytics(c) {
             [rate + '%', 'Check-in / vé hợp lệ mẫu', 'check'],
             [a.sessions.length, 'Tổng số phiên', 'calendar']
         ]) +
-        `<div class="filters"><div class="field" style="margin:0"><label for="filter-from">Từ ngày</label><input id="filter-from" type="date" data-filter="from" value="${esc(s.from || '')}"></div><div class="field" style="margin:0"><label for="filter-to">Đến ngày</label><input id="filter-to" type="date" data-filter="to" value="${esc(s.to || '')}"></div>${filter('category', [...new Set(d.sessions.map((x) => x.category))], s.category, 'Tất cả chủ đề')}${filter(
+        `<div class="filters analytics-filters"><div class="field" style="margin:0"><label for="filter-from">Từ ngày</label><input id="filter-from" type="date" data-filter="from" value="${esc(s.from || '')}"></div><div class="field" style="margin:0"><label for="filter-to">Đến ngày</label><input id="filter-to" type="date" data-filter="to" value="${esc(s.to || '')}"></div>${filter('category', [...new Set(d.sessions.map((x) => x.category))], s.category, 'Tất cả chủ đề')}${filter(
             'room',
             d.rooms.map((r) => [r.id, r.name]),
             s.room,
@@ -388,7 +389,7 @@ export async function adminAction(c, a, t) {
         }
         const data = analyticsData(c);
         const csv = [
-            ['Phiên', 'Đăng ký', 'Sức chứa', 'Lưu lịch'],
+            ['Phiên', 'Đăng ký', 'Sức chứa', 'Lưu lịch'].map(translateText),
             ...data.sessions.map((x) => [
                 x.title,
                 x.registeredCount,

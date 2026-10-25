@@ -209,10 +209,10 @@ export function header(user, screen, url, unread = 0) {
             ['O6', 'nav.alerts', 'bell']
         ],
         admin: [
-            ['AD3', 'nav.dashboard', 'grid'],
-            ['AD1', 'nav.tickets', 'ticket'],
+            ['AD3', 'nav.adminOverview', 'chart'],
+            ['AD1', 'nav.ticketTypes', 'ticket'],
             ['AD2', 'nav.users', 'users'],
-            ['AD3#analytics', 'nav.analytics', 'chart']
+            ['AD4', 'nav.checkIn', 'check']
         ]
     };
     const home = screen === 'S1';
@@ -264,7 +264,7 @@ export function header(user, screen, url, unread = 0) {
         items
             .map(
                 ([id, key, ico]) =>
-                    `<a href="${href(id)}" data-nav-key="${id}" class="${active(id, items) ? 'active' : ''}" ${active(id, items) ? 'aria-current="page"' : ''}>${items === mobile ? icon(ico) : ''}<span>${t(key)}</span></a>`
+                    `<a href="${href(id)}" data-nav-key="${id}" class="${active(id, items) ? 'active' : ''}" ${active(id, items) ? 'aria-current="page"' : ''}>${icon(ico)}<span>${t(key)}</span></a>`
             )
             .join('');
     const avatar =
@@ -311,6 +311,6 @@ export function header(user, screen, url, unread = 0) {
 
 icons.upload = 'M12 16V3 m-5 5 5-5 5 5 M4 16v5h16v-5';
 icons.settings =
-    'M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8 M12 2v3 M12 19v3 M2 12h3 M19 12h3 M5 5l2 2 M17 17l2 2 M5 19l2-2 M17 7l2-2';
+    'M9.5 3h5l.5 2.5 2 1.2 2.4-.8 2.5 4.2-1.9 1.7v2.4l1.9 1.7-2.5 4.2-2.4-.8-2 1.2-.5 2.5h-5L9 20.5l-2-1.2-2.4.8-2.5-4.2L4 14.2v-2.4L2.1 10.1l2.5-4.2 2.4.8 2-1.2L9.5 3z M15 13a3 3 0 1 1-6 0 3 3 0 0 1 6 0';
 icons.edit = 'm4 16 12-12 4 4-12 12H4z M14 6l4 4';
 icons.trash = 'M3 6h18 M8 6V3h8v3 M5 6l1 15h12l1-15 M10 10v7 M14 10v7';

@@ -1,3 +1,4 @@
+import { translateText } from '../i18n.js';
 (() => {
     'use strict';
     const EP = window.EventPulse || {};
@@ -401,7 +402,7 @@
     if ($('#notifyBtn')) {
         $('#notifyBtn').onclick = () => {
             const n = JSON.parse(localStorage.getItem('eventpulse_notifications') || '[]');
-            alert(n.length ? 'Bạn có ' + n.length + ' thông báo.' : 'Không có thông báo mới.');
+            alert(translateText(n.length ? 'Bạn có ' + n.length + ' thông báo.' : 'Không có thông báo mới.'));
         };
     }
 

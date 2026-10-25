@@ -1,0 +1,106 @@
+{
+  "results": [
+    {
+      "name": "AD1 form",
+      "texts": []
+    },
+    {
+      "name": "AD1 validation",
+      "texts": []
+    },
+    {
+      "name": "AD2 form",
+      "texts": [
+        "Nguyễn Minh Anh",
+        "Trần Đức Huy",
+        "Lê Thu Trang",
+        "Phạm Quốc Bảo",
+        "Vũ Khánh Linh",
+        "Nguyễn Văn An",
+        "Lê Hoàng Nam",
+        "Phạm Thu Hà",
+        "Trần Minh Tú",
+        "Ban tổ chức demo",
+        "Quản trị viên demo"
+      ]
+    },
+    {
+      "name": "AD2 validation",
+      "texts": [
+        "Nguyễn Minh Anh",
+        "Trần Đức Huy",
+        "Lê Thu Trang",
+        "Phạm Quốc Bảo",
+        "Vũ Khánh Linh",
+        "Nguyễn Văn An",
+        "Lê Hoàng Nam",
+        "Phạm Thu Hà",
+        "Trần Minh Tú",
+        "Ban tổ chức demo",
+        "Quản trị viên demo"
+      ]
+    },
+    {
+      "name": "O4 form",
+      "texts": [
+        "Hà Nội · 100 people"
+      ]
+    },
+    {
+      "name": "O4 validation",
+      "texts": [
+        "Hà Nội · 100 people"
+      ]
+    },
+    {
+      "name": "O6 form",
+      "texts": []
+    },
+    {
+      "name": "O6 validation",
+      "texts": []
+    },
+    {
+      "name": "switch",
+      "vi": "Giao diện",
+      "en": "Appearance",
+      "preserved": "Bản nháp chưa lưu",
+      "persistence": "Appearance",
+      "lang": "en"
+    },
+    {
+      "name": "A2 loaded",
+      "texts": [
+        "Hiểu nội dung và áp dụng kiến thức vào dự án thực tế.",
+        "25 / 120 chỗ còn lại"
+      ]
+    },
+    {
+      "name": "O3 loaded",
+      "texts": [
+        "Trần Đức Huy"
+      ]
+    },
+    {
+      "name": "SP3 loaded",
+      "texts": []
+    },
+    {
+      "name": "SP4 loaded",
+      "texts": []
+    },
+    {
+      "name": "SP5 loaded",
+      "texts": []
+    },
+    {
+      "name": "SP5 confirm",
+      "texts": []
+    },
+    {
+      "name": "SP5 saved",
+      "texts": []
+    }
+  ],
+  "errors": []
+}
