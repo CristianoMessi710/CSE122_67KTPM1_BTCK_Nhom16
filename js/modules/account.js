@@ -27,6 +27,7 @@
                     const input = $(b.dataset.show);
                     input.type = input.type === 'password' ? 'text' : 'password';
                     b.textContent = input.type === 'password' ? 'Hiện' : 'Ẩn';
+                    b.setAttribute('aria-label', input.type === 'password' ? 'Hiện mật khẩu' : 'Ẩn mật khẩu');
                     b.setAttribute('aria-label', b.textContent + ' mật khẩu');
                 })
         );

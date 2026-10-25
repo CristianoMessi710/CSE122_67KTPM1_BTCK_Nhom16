@@ -147,3 +147,10 @@ Các màn tài khoản, cài đặt, thông báo, 403 và 404 nằm tại root. 
 `main` là bản hoàn chỉnh để nộp. `dev` và các nhánh `feature/*` được giữ lại để thể hiện tổ chức dự án; không bắt buộc tạo thêm công việc sau khi chốt bài. Không xóa phần của người khác khỏi nhánh.
 
 Nếu cần sửa sau bàn giao, tạo nhánh sửa từ bản phù hợp, kiểm tra ảnh hưởng liên vai trò rồi tạo Pull Request. Các file dùng chung như `css/tokens.css`, `css/components.css`, `js/ui.js`, `js/storage.js` và dữ liệu JSON cần được phối hợp trước khi chỉnh.
+
+## Hồ sơ Inventory và sử dụng AI
+
+- [Screen Inventory và hồ sơ minh chứng 32 màn](docs/screen-inventory.md).
+- [Báo cáo sử dụng AI — chờ thành viên xác nhận](docs/ai-usage-report.md).
+
+Các tài liệu phân biệt trạng thái triển khai với nghiệm thu đầy đủ. Các link Figma/task/PR/OBS và thông tin thành viên chưa có bằng chứng được ghi rõ, không xem là đã hoàn thành.

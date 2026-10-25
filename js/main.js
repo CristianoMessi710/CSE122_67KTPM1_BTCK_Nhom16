@@ -1,4 +1,4 @@
-import { applyTranslations, t } from './i18n.js';
+import { applyTranslations, observeTranslations, t } from './i18n.js';
 import { loadData } from './api.js';
 import { read, commit, uid } from './storage.js';
 import { guard, mountHeader, applySettings, currentUser, routeURL } from './bridge.js';
@@ -53,6 +53,7 @@ async function start() {
             await import('./modules/' + document.body.dataset.module);
         else await import('./modules/account.js');
         await import('./enhance.js');
+        observeTranslations();
         applyTranslations();
         if (!screen.startsWith('O') && !screen.startsWith('AD')) {
             await scheduledAlerts();

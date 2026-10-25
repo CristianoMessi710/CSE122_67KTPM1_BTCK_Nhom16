@@ -302,26 +302,6 @@ a {
     margin: 10px 0 0;
 }
 
-.toast {
-    position: fixed;
-    right: 22px;
-    bottom: 22px;
-    background: var(--primary);
-    color: var(--on-primary);
-    padding: 10px 14px;
-    border-radius: 8px;
-    font-size: 12px;
-    opacity: 0;
-    transform: translateY(8px);
-    pointer-events: none;
-    transition: 0.2s;
-}
-
-.toast.show {
-    opacity: 1;
-    transform: none;
-}
-
 @media (max-width: 800px) {
     .topbar {
         padding: 0 16px;

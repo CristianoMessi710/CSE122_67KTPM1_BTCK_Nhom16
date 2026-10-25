@@ -335,37 +335,6 @@ a:focus-visible {
     }
 }
 
-.toast-region {
-    position: fixed;
-    bottom: 24px;
-    left: 24px;
-    z-index: 100;
-    display: grid;
-    gap: 8px;
-    max-width: calc(100vw - 48px);
-}
-
-.toast {
-    background: var(--surface);
-    border: 1px solid var(--success);
-    box-shadow: 0 8px 30px var(--text);
-    padding: 16px 20px;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    font-size: 14px;
-    animation: appear 0.2s;
-}
-
-.toast.error {
-    border-color: var(--error);
-}
-
-.toast svg {
-    color: var(--success);
-}
-
 @keyframes appear {
     from {
         transform: translateY(10px);
@@ -1068,12 +1037,6 @@ dialog .close {
         grid-template-columns: 1fr;
     }
 
-    .toast-region {
-        bottom: 86px;
-        left: 16px;
-        max-width: calc(100vw - 32px);
-    }
-
     .room-card,
     .alert-card {
         padding: 16px;
@@ -1210,7 +1173,6 @@ dialog .close {
 @media print {
     .topbar,
     .btn,
-    .toast-region,
     .breadcrumbs,
     .footer-note {
         display: none !important;
