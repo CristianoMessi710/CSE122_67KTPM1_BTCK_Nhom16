@@ -1,45 +1,97 @@
-# EventPulse — Bản tích hợp của nhóm
+# EventPulse — Bài tập cuối kỳ
 
-Bài tập cuối kỳ **CSE122 · Lớp 67KTPM1 · Nhóm 16**. EventPulse là giao diện hệ thống quản lý sự kiện, viết bằng HTML, CSS và JavaScript thuần với ES modules.
+**CSE122 · Lớp 67KTPM1 · Nhóm 16**
 
-**Nhánh:** `dev` · **Giai đoạn:** tích hợp và kiểm tra trước khi đưa lên `main`.
+EventPulse là giao diện hệ thống quản lý sự kiện, được xây dựng bằng **HTML, CSS và JavaScript thuần**, sử dụng ES modules. Dự án tích hợp bốn vai trò: **Người tham dự, Diễn giả, Ban tổ chức và Quản trị viên**, cùng các màn hình dùng chung.
 
-Dự án gồm Người tham dự, Diễn giả, Ban tổ chức, Quản trị viên và các màn dùng chung. Các thay đổi được tích hợp vào `dev`, kiểm tra và review trước khi đưa lên `main` để bàn giao.
+**Nhánh bàn giao:** `main`.
 
-> Mỗi nhánh chứa toàn bộ mã nguồn để chạy ứng dụng. Phạm vi dưới đây thể hiện phân công chức năng, không có nghĩa nhánh chỉ chứa file của một sinh viên. README này mô tả bản bàn giao, không thay thế lịch sử commit hoặc xác nhận tác giả của mọi thay đổi.
+## Thành viên và phân công
+
+| Thành viên | Họ và tên | Mã sinh viên | Phần chính | Nhánh chức năng |
+| --- | --- | --- | --- | --- |
+| SV1 | Trần Đức Tuyên | 2551170973 | Người tham dự | `feature/attendee` |
+| SV2 | Phan Anh Vũ | 2551170975 | Diễn giả | `feature/speaker` |
+| SV3 | Nguyễn Hữu Tú | 2551170969 | Ban tổ chức và Quản trị viên | `feature/organizer-admin` |
+
+Mỗi nhánh chứa mã nguồn ứng dụng để chạy và kiểm tra các luồng liên quan. Các màn dùng chung, giao diện, điều hướng và dữ liệu được tích hợp trong cùng một dự án.
 
 ## Chạy dự án
-
-1. Clone repository, mở thư mục bằng VS Code.
-2. Cài extension **Live Server**.
-3. Nhấp phải `index.html` → **Open with Live Server**.
-4. Chọn **Trải nghiệm bản demo**, sau đó chọn vai trò muốn xem. Có thể đổi vai trò từ header.
 
 ```bash
 git clone https://github.com/CristianoMessi710/CSE122_67KTPM1_BTCK_Nhom16.git
 cd CSE122_67KTPM1_BTCK_Nhom16
-git switch dev
+git switch main
 ```
 
-Cách khác, nếu máy có Python:
+Mở thư mục bằng VS Code, nhấp phải `index.html` và chọn **Open with Live Server**. Tại trang chủ, chọn **Trải nghiệm bản demo** rồi chọn vai trò.
+
+Có thể chạy bằng HTTP server của Python:
 
 ```bash
 python -m http.server 5500
 ```
 
-Mở http://localhost:5500. Trên máy dùng lệnh `python3`, thay `python` bằng `python3`. Không mở trực tiếp bằng `file://` vì ứng dụng dùng ES modules và tải JSON. Không cần cài npm hoặc chạy build.
+Truy cập [http://localhost:5500](http://localhost:5500). Ứng dụng dùng HTTP server để tải ES modules và dữ liệu JSON; chạy trực tiếp từ mã nguồn, không cần bước build.
 
-## Phạm vi chức năng
+## Chức năng chính
 
-- Attendee: xem phiên, lưu agenda, xử lý trùng lịch, gợi ý AI, phản hồi và vé.
-- Speaker: hồ sơ, đề xuất phiên, trạng thái duyệt, tài liệu, dự báo mức quan tâm và phản hồi.
-- Organizer: quản lý phiên, phòng, lịch, xung đột và cảnh báo.
-- Admin: loại vé, người dùng, check-in và phân tích dữ liệu.
-- Shared: trang chủ, tài khoản, cài đặt, thông báo và trang lỗi.
-- Các vai trò dùng chung dữ liệu, liên kết qua sessionId, speakerIds và roomId.
-- Đối chiếu bản tích hợp bằng checklist và báo cáo trong repository.
+- **Người tham dự:** danh mục và chi tiết phiên, lịch cá nhân, xử lý trùng lịch, gợi ý lịch, phản hồi và vé cá nhân.
+- **Diễn giả:** hồ sơ, đề xuất và quản lý phiên, tài liệu, dự báo mức quan tâm và tổng quan phản hồi.
+- **Ban tổ chức:** tổng quan sự kiện, quản lý và duyệt phiên, phân công phòng và thời gian, quản lý phòng, phát hiện xung đột và cảnh báo sự kiện.
+- **Quản trị viên:** quản lý loại vé, người dùng, check-in và phân tích sự kiện.
+- **Dùng chung:** trang chủ, tài khoản, hồ sơ, cài đặt, thông báo và các trang trạng thái truy cập.
 
-## Màn hình trong phạm vi
+Các vai trò sử dụng dữ liệu chung, liên kết qua các ID như `sessionId`, `speakerIds`, `roomId` và `userId`.
+
+## Video thuyết trình
+
+| Thành viên | Ba màn hình trình bày | Danh sách phát |
+| --- | --- | --- |
+| SV1 — Trần Đức Tuyên | A1 Danh mục phiên; A3 Lịch cá nhân; A5 Gợi ý phiên | [Video SV1](https://youtube.com/playlist?list=PLNjSq0kZHBoQ) |
+| SV2 — Phan Anh Vũ | SP2 Phiên của tôi; SP4 Tài liệu phiên; SP1 Hồ sơ diễn giả | [Video SV2](https://www.youtube.com/watch?v=Qt8kaEVm8Zc&list=PLNf-YAqt-PeY) |
+| SV3 — Nguyễn Hữu Tú | O3 Chi tiết và phân công phiên; O5 Phát hiện và xử lý xung đột; AD4 Quản lý check-in | [Video SV3](https://www.youtube.com/watch?v=M0-wLN6guSM&list=PLROvsl37oK8E) |
+
+## Hồ sơ thực hiện của sinh viên 3
+
+**Họ và tên:** Nguyễn Hữu Tú.
+
+**Mã sinh viên:** 2551170969.
+
+**Vai trò:** SV3 — Ban tổ chức và Quản trị viên.
+
+### Màn hình thuyết trình
+
+- **O3 — Chi tiết và phân công phiên:** trình bày thông tin phiên, phân công phòng và thời gian, kiểm tra hợp lệ và lưu thay đổi.
+- **O5 — Phát hiện và xử lý xung đột:** trình bày phát hiện phiên trùng phòng hoặc giờ, phương án gợi ý và thao tác xác nhận áp dụng.
+- **AD4 — Quản lý check-in:** trình bày tra cứu vé, kiểm tra trạng thái, xác nhận check-in và lịch sử check-in.
+
+**Video:** [Danh sách phát thuyết trình SV3](https://www.youtube.com/watch?v=M0-wLN6guSM&list=PLROvsl37oK8E).
+
+### Mã nguồn và quản lý công việc
+
+- **Repository:** [CSE122 Nhóm 16](https://github.com/CristianoMessi710/CSE122_67KTPM1_BTCK_Nhom16).
+- **Nhánh chức năng:** `feature/organizer-admin`.
+- **Bản tích hợp:** `main`.
+- **PR cập nhật Inventory và báo cáo sử dụng AI:** [Pull Request #3](https://github.com/CristianoMessi710/CSE122_67KTPM1_BTCK_Nhom16/pull/3).
+- **Bảng quản lý công việc:** [EventPulse Screen Inventory trên Trello](https://trello.com/b/IUQmQXEP/eventpulse-screen-inventory).
+
+### Sử dụng AI
+
+**Công cụ:** ChatGPT.
+
+**Phần AI hỗ trợ:**
+
+- Hỗ trợ sinh và chỉnh sửa HTML, CSS, JavaScript cho các màn Organizer và Admin; giao diện responsive và các trạng thái loading, empty, error, success.
+- Hỗ trợ luồng phân công phòng, kiểm tra xung đột và đề xuất phòng thay thế; tra cứu, kiểm tra vé và xác nhận check-in.
+- Hỗ trợ tích hợp mã nguồn của ba thành viên, chuẩn hóa giao diện và LocalStorage, xử lý giao diện, ngôn ngữ và thông báo toast.
+- Hỗ trợ soạn kịch bản video, hồ sơ Inventory, báo cáo sử dụng AI và tài liệu ôn vấn đáp.
+
+**Phần tự thực hiện và kiểm tra:**
+
+Trực tiếp thao tác demo và quay video ba màn O3, O5, AD4; thực hiện các bước Git để đẩy nhánh, cập nhật mã nguồn và hợp nhất tài liệu. Đọc, đối chiếu các đoạn xử lý trong `organizer.js` và `operations.js`; thực hành chỉnh sửa bộ lọc, validation biểu mẫu và render dữ liệu để chuẩn bị vấn đáp.
+
+## Màn hình trong dự án
 
 | ID | Màn hình | File |
 | --- | --- | --- |
@@ -76,33 +128,7 @@ Mở http://localhost:5500. Trên máy dùng lệnh `python3`, thay `python` b�
 | AD3 | Phân tích sự kiện | [pages/admin/admin-event-analytics.html](pages/admin/admin-event-analytics.html) |
 | AD4 | Quản lý check-in | [pages/admin/admin-checkin-management.html](pages/admin/admin-checkin-management.html) |
 
-## Phân công trong bản tích hợp
-
-| Thành viên | Phần chính | Thư mục màn hình |
-| --- | --- | --- |
-| SV1 | Người tham dự (Attendee) | `pages/attendee/` |
-| SV2 | Diễn giả (Speaker) | `pages/speaker/` |
-| SV3 | Ban tổ chức và Quản trị viên | `pages/organizer/`, `pages/admin/` |
-
-Các màn Shared được tổng hợp từ các nguồn và chuẩn hóa dùng chung. Quyết định về nguồn từng màn, đổi tên và phần bổ sung nằm trong [INTEGRATION-REPORT.md](INTEGRATION-REPORT.md). Nhãn SV1/SV2/SV3 thể hiện phân công; chưa gán tên hoặc mã sinh viên khi chưa có thông tin xác nhận.
-
-## Mã nguồn liên quan
-
-- [js/routes.js](js/routes.js)
-- [js/storage.js](js/storage.js)
-- [js/api.js](js/api.js)
-- [js/ui.js](js/ui.js)
-- [js/bridge.js](js/bridge.js)
-- [js/modules/attendee.js](js/modules/attendee.js)
-- [js/modules/speaker-profile.js](js/modules/speaker-profile.js)
-- [js/modules/speaker-my-sessions.js](js/modules/speaker-my-sessions.js)
-- [js/modules/speaker-materials.js](js/modules/speaker-materials.js)
-- [js/modules/interest-forecast.js](js/modules/interest-forecast.js)
-- [js/modules/speaker-feedback.js](js/modules/speaker-feedback.js)
-- [js/modules/organizer.js](js/modules/organizer.js)
-- [js/modules/admin.js](js/modules/admin.js)
-
-Cấu trúc chung:
+## Cấu trúc mã nguồn
 
 ```text
 index.html              Trang chủ và truy cập demo
@@ -110,53 +136,31 @@ pages/attendee/          Màn hình Người tham dự
 pages/speaker/           Màn hình Diễn giả
 pages/organizer/         Màn hình Ban tổ chức
 pages/admin/             Màn hình Quản trị viên
-css/                    Token, component, responsive và CSS theo màn
-js/                     Router, UI, dữ liệu và module chức năng
-assets/data/            Dữ liệu JSON ban đầu
-assets/fonts/           Inter lưu cục bộ và giấy phép
+css/                    Design token, component và responsive
+js/                     Điều hướng, UI, dữ liệu và module chức năng
+assets/data/            Dữ liệu JSON khởi tạo
+assets/fonts/           Phông Inter lưu cục bộ và giấy phép
 assets/images/          Hình ảnh minh họa
-docs/                   Checklist và bằng chứng kiểm thử
+docs/                   Inventory và tài liệu dự án
 ```
 
-Các màn tài khoản, cài đặt, thông báo, 403 và 404 nằm tại root. Danh sách đường dẫn chính thức: [js/routes.js](js/routes.js).
+Các màn đăng nhập, đăng ký, hồ sơ, cài đặt, thông báo và trang trạng thái nằm tại thư mục gốc. Danh sách đường dẫn được quản lý trong [js/routes.js](js/routes.js).
 
-## Dữ liệu và giới hạn demo
+## Công nghệ và dữ liệu
 
-- Lần đầu tải dữ liệu từ `assets/data/*.json`; những lần sau ưu tiên dữ liệu đã chỉnh trong LocalStorage.
-- Các entity dùng chung: users, events, sessions, rooms, agendas, feedback, ticketTypes, userTickets, notifications, eventAlerts và materials.
-- Dữ liệu dùng tiền tố `eventpulse_`; tài khoản hiện tại là `eventpulse_currentUser`, cài đặt là `eventpulse_settings`.
-- Đổi vai trò trên **cùng origin/port và cùng trình duyệt** để xem liên kết dữ liệu. LocalStorage không đồng bộ giữa các máy hoặc các trình duyệt.
-- Đây là frontend demo, không có backend hay xác thực production. Chức năng AI, tải tệp và email theo cơ chế mô phỏng của dự án; không yêu cầu API key dịch vụ AI.
-- Dữ liệu mẫu có ngày sự kiện cố định. Các điều kiện hết hạn hoặc tham dự phụ thuộc ngày của dữ liệu và thời gian thực tế.
-- Muốn khôi phục dữ liệu mẫu: mở DevTools → Application → Local Storage, xóa các key `eventpulse_` rồi tải lại. Thao tác này xóa thay đổi demo đã lưu; hãy sao lưu nếu cần giữ.
+- **Giao diện:** HTML, CSS, JavaScript thuần và ES modules.
+- **Lưu trữ:** khởi tạo từ `assets/data/*.json`, đọc và ghi thay đổi bằng LocalStorage.
+- **Thực thể dùng chung:** users, events, sessions, rooms, agendas, feedback, ticketTypes, userTickets, notifications, eventAlerts và materials.
+- **Khóa dữ liệu:** tiền tố `eventpulse_`; tài khoản hiện tại dùng `eventpulse_currentUser`, cài đặt dùng `eventpulse_settings`.
+- **Phạm vi chạy:** frontend demo trong trình duyệt; dữ liệu LocalStorage được dùng chung giữa các vai trò trên cùng origin và trình duyệt.
+- **Gợi ý AI, tải tệp và email:** sử dụng cơ chế mô phỏng phục vụ bài tập, không yêu cầu API key dịch vụ AI hoặc backend xác thực thực tế.
 
-## Kiểm tra nhanh bản bàn giao
+## Tài liệu dự án
 
-1. Mở trang chủ, lần lượt chọn bốn vai trò demo.
-2. Speaker đề xuất phiên → Organizer duyệt/phân công → Attendee xem phiên và lưu lịch.
-3. Organizer gửi cảnh báo → đổi sang Attendee để kiểm tra thông báo theo đối tượng nhận.
-4. Admin thử tra cứu/check-in bằng vé mẫu trong dữ liệu; kiểm tra trạng thái liên quan.
-5. Tải lại trang để kiểm tra dữ liệu đã lưu.
-6. Dùng DevTools kiểm tra viewport 1440, 1024, 768 và 390px; thử Sáng/Tối và VI/EN. Đây là hướng dẫn kiểm tra, không phải tuyên bố đã chạy lại toàn bộ test khi viết README.
-
-## Tài liệu tham chiếu
-
-- [Hướng dẫn chạy và kịch bản demo](README-INTEGRATION.md)
-- [Báo cáo tích hợp và nguồn từng màn](INTEGRATION-REPORT.md)
-- [Báo cáo kiểm thử đã ghi nhận](TEST-REPORT.md)
-- [Checklist màn hình](docs/SCREEN-CHECKLIST.md)
-- [Cây thư mục chi tiết](docs/FOLDER-TREE.md)
-- [Báo cáo trang chủ](HOME-REDESIGN-REPORT.md)
-- [Báo cáo sửa giao diện](UI-FIX-REPORT.md)
-
-## Trạng thái nhánh và bàn giao
-
-`main` là bản hoàn chỉnh để nộp. `dev` và các nhánh `feature/*` được giữ lại để thể hiện tổ chức dự án; không bắt buộc tạo thêm công việc sau khi chốt bài. Không xóa phần của người khác khỏi nhánh.
-
-Nếu cần sửa sau bàn giao, tạo nhánh sửa từ bản phù hợp, kiểm tra ảnh hưởng liên vai trò rồi tạo Pull Request. Các file dùng chung như `css/tokens.css`, `css/components.css`, `js/ui.js`, `js/storage.js` và dữ liệu JSON cần được phối hợp trước khi chỉnh.
-## Hồ sơ Inventory và sử dụng AI
-
-- [Screen Inventory và hồ sơ minh chứng 32 màn](docs/screen-inventory.md).
-- [Báo cáo sử dụng AI — chờ thành viên xác nhận](docs/ai-usage-report.md).
-
-Các tài liệu phân biệt trạng thái triển khai với nghiệm thu đầy đủ. Các link Figma/task/PR/OBS và thông tin thành viên chưa có bằng chứng được ghi rõ, không xem là đã hoàn thành.
+- [Hướng dẫn chạy và kịch bản demo](README-INTEGRATION.md).
+- [Báo cáo tích hợp](INTEGRATION-REPORT.md).
+- [Báo cáo kiểm thử](TEST-REPORT.md).
+- [Screen Inventory và minh chứng](docs/screen-inventory.md).
+- [Báo cáo sử dụng AI](docs/ai-usage-report.md).
+- [Danh sách màn hình](docs/SCREEN-CHECKLIST.md).
+- [Cây thư mục](docs/FOLDER-TREE.md).
